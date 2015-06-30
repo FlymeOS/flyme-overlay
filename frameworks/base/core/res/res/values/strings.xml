@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="phoneTypeWork">"Company"</string>
+    <string name="phoneTypeFaxWork">"Fax"</string>
+    <string name="emailTypeWork">"Company"</string>
+    <string name="eventTypeAnniversary">"Anniversary"</string>
+    <string name="postalTypeWork">"Company"</string>
+
+    <!-- The message text for the SMS short code confirmation dialog. [CHAR LIMIT=NONE] -->
+    <string name="sms_short_code_confirm_message">"Confirm message sending?"</string>
+
+    <!-- Notification title when mobile data usage has exceeded limit threshold, and has been disabled. [CHAR LIMIT=32] -->
+    <string name="data_usage_mobile_limit_title">"Mobile data deactivated"</string>
+    <!-- Notification body when data usage has exceeded limit threshold, and has been disabled. [CHAR LIMIT=32] -->
+    <string name="data_usage_limit_body">"Touch to enable""</string>
+
+
+    <string name="configure_input_methods">"Set up input method"</string>
+    <string name="select_input_method">"Select input method"</string>
+    <string name="config_webViewPackageName">com.android.webview</string>
+    <string name="default_sms_application">com.android.mms</string>
+</resources>

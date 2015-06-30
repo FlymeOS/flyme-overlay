@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="emailTypeWork">“Darbs ”</string>
+    <string name="eventTypeAnniversary">Jubileja</string>
+    <string name="phoneTypeFaxWork">Fakss</string>
+    <string name="phoneTypeWork">“Darbs ”</string>
+    <string name="postalTypeWork">“Darbs ”</string>
+</resources>
