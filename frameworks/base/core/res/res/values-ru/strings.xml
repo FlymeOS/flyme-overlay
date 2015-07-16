@@ -1,12 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="emailTypeWork">Работа</string>
+    <string name="emailTypeWork">Компания</string>
     <string name="eventTypeAnniversary">Годовщина</string>
     <string name="phoneTypeFaxWork">Факс</string>
-    <string name="phoneTypeWork">Работа</string>
-    <string name="postalTypeWork">Работа</string>
+    <string name="phoneTypeWork">Компания</string>
+    <string name="postalTypeWork">Компания</string>
 
     <string name="data_usage_limit_body">Нажмите для включения</string>
     <string name="data_usage_mobile_limit_title">Передача данных отключена</string>
     <string name="sms_short_code_confirm_message">Вы действительно хотите отправить это сообщение?</string>
+
+    <string name="configure_input_methods">"Установить способ ввода"</string>
+    <string name="select_input_method">"Выбрать способ ввода"</string>
 </resources>

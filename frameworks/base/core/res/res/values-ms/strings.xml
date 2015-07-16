@@ -1,8 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="emailTypeWork">"Syarikat"</string>
     <string name="eventTypeAnniversary">"Ulangtahun"</string>
     <string name="phoneTypeFaxWork">"Faks"</string>
     <string name="phoneTypeWork">"Syarikat"</string>
     <string name="postalTypeWork">"Syarikat"</string>
+
+    <string name="configure_input_methods">"Menetapkan kaedah input"</string>
+    <string name="data_usage_limit_body">"Sentuh untuk mendayakan"</string>
+    <string name="data_usage_mobile_limit_title">"Data mudah alih dinyahaktifkan"</string>
+    <string name="select_input_method">"Pilih kaedah input"</string>
+    <string name="sms_short_code_confirm_message">"Anda pasti mahu menghantar mesej ini?"</string>
 </resources>

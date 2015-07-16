@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
@@ -9,16 +9,21 @@
     <string name="postalTypeWork">"Company"</string>
 
     <!-- The message text for the SMS short code confirmation dialog. [CHAR LIMIT=NONE] -->
-    <string name="sms_short_code_confirm_message">"Confirm message sending?"</string>
+    <string name="sms_short_code_confirm_message">Are you sure want to send this message?</string>
 
     <!-- Notification title when mobile data usage has exceeded limit threshold, and has been disabled. [CHAR LIMIT=32] -->
     <string name="data_usage_mobile_limit_title">"Mobile data deactivated"</string>
     <!-- Notification body when data usage has exceeded limit threshold, and has been disabled. [CHAR LIMIT=32] -->
     <string name="data_usage_limit_body">"Touch to enable""</string>
 
-
     <string name="configure_input_methods">"Set up input method"</string>
     <string name="select_input_method">"Select input method"</string>
     <string name="config_webViewPackageName">com.android.webview</string>
     <string name="default_sms_application">com.android.mms</string>
+
+    <!-- Add the entry for AdditionalSettings -->
+    <add-resource type="string" name="config_additionalsettings_package"/>
+    <string name="config_additionalsettings_package"></string>
+    <add-resource type="string" name="config_additionalsettings_activity"/>
+    <string name="config_additionalsettings_activity"></string>
 </resources>
