@@ -74,4 +74,6 @@
          plus this -->
     <integer name="config_lowBatteryCloseWarningBump">5</integer>
     <!--FLYME:huangchaohua@SHELL.BatteryLowDialog.Feature end-->
+
+    <bool name="config_safe_media_volume_enabled">false</bool>
 </resources>
