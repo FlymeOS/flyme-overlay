@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="configure_input_methods">"Thiết lập phương pháp đầu vào"</string>
+    <string name="data_usage_limit_body">"Chạm để kích hoạt"</string>
+    <string name="data_usage_mobile_limit_title">"Dữ liệu di động không hoạt động"</string>
+    <string name="emailTypeWork">"Công ty"</string>
+    <string name="eventTypeAnniversary">"Ngày kỷ niệm"</string>
+    <string name="phoneTypeFaxWork">"Fax"</string>
+    <string name="phoneTypeWork">"Công ty"</string>
+    <string name="postalTypeWork">"Công ty"</string>
+    <string name="select_input_method">"Chọn hình thức nhập"</string>
+    <string name="sms_short_code_confirm_message">Bạn có chắc chắn muốn gửi tin nhắn này?</string>
+</resources>

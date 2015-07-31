@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="configure_input_methods">इनपुट पद्धतियाँ सेट करें</string>
+    <string name="data_usage_limit_body">"सक्षम करने के लिए छुएँ""</string>
+    <string name="data_usage_mobile_limit_title">"मोबाइल डेटा निष्क्रिय किया गया"</string>
+    <string name="emailTypeWork">कम्पनी</string>
+    <string name="eventTypeAnniversary">वर्षगाँठ</string>
+    <string name="phoneTypeFaxWork">फ़ैक्स</string>
+    <string name="phoneTypeWork">काम</string>
+    <string name="postalTypeWork">काम</string>
+    <string name="select_input_method">इनपुट पद्धति चुनें</string>
+    <string name="sms_short_code_confirm_message">"संदेश भेजने की पुष्टि है?"</string>
+</resources>

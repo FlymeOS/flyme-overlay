@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="emailTypeWork">Werk</string>
+    <string name="eventTypeAnniversary">Jubileum</string>
+    <string name="phoneTypeFaxWork">Fax</string>
+    <string name="phoneTypeWork">Werk</string>
+    <string name="postalTypeWork">Werk</string>
+    <string name="sms_short_code_confirm_message">Weet u zeker dat u dit bericht wilt verzenden?</string>
+</resources>

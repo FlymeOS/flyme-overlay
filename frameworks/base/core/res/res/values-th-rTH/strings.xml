@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="configure_input_methods">ตั้งค่าการป้อนข้อมูล</string>
+    <string name="data_usage_limit_body">แตะเพื่อเปิดการใช้งาน</string>
+    <string name="data_usage_mobile_limit_title">ข้อมูลเคลื่อนที่ถูกปิดการใช้งาน</string>
+    <string name="emailTypeWork">บริษัท</string>
+    <string name="eventTypeAnniversary">ครบรอบเฉลิมฉลอง</string>
+    <string name="phoneTypeFaxWork">แฟกซ์</string>
+    <string name="phoneTypeWork">บริษัท</string>
+    <string name="postalTypeWork">บริษัท</string>
+    <string name="select_input_method">"Select input method"</string>
+    <string name="sms_short_code_confirm_message">ยืนการส่งข้อควา?</string>
+</resources>

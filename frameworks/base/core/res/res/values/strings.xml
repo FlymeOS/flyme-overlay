@@ -16,14 +16,9 @@
     <!-- Notification body when data usage has exceeded limit threshold, and has been disabled. [CHAR LIMIT=32] -->
     <string name="data_usage_limit_body">"Touch to enable""</string>
 
+
     <string name="configure_input_methods">"Set up input method"</string>
     <string name="select_input_method">"Select input method"</string>
     <string name="config_webViewPackageName">com.android.webview</string>
     <string name="default_sms_application">com.android.mms</string>
-
-    <!-- Add the entry for AdditionalSettings -->
-    <add-resource type="string" name="config_additionalsettings_package"/>
-    <string name="config_additionalsettings_package"></string>
-    <add-resource type="string" name="config_additionalsettings_activity"/>
-    <string name="config_additionalsettings_activity"></string>
 </resources>
