@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
@@ -9,12 +9,12 @@
     <string name="postalTypeWork">"公司"</string>
 
     <string name="select_input_method" msgid="8547250819326693584">"選擇輸入法"</string>
-    <string name="configure_input_methods" msgid="4769971288371946846">"設置輸入法"</string>
+    <string name="configure_input_methods" msgid="4769971288371946846">"設定輸入法"</string>
 
     <!-- The message text for the SMS short code confirmation dialog. [CHAR LIMIT=NONE] -->
     <string name="sms_short_code_confirm_message">"確定發送此訊息?"</string>
 
-    <string name="data_usage_mobile_limit_title" msgid="7869402519391631884">"流動數據已停用"</string>
+    <string name="data_usage_mobile_limit_title" msgid="7869402519391631884">"行動數據已停用"</string>
     <string name="data_usage_limit_body" msgid="3317964706973601386">"輕觸即可啟用。"</string>
 
     <string name="selectAll" msgid="6876518925844129331">"全選"</string>

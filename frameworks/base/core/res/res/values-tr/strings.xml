@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="configure_input_methods">Giriş yöntemini ayarla</string>
+    <string name="data_usage_limit_body">Etkinleştirmek için dokununuz</string>
+    <string name="data_usage_mobile_limit_title">Mobil veriler devre dışı bırakıldı</string>
+    <string name="emailTypeWork">Şirket</string>
+    <string name="eventTypeAnniversary">Yıldönümü</string>
+    <string name="phoneTypeFaxWork">Faks</string>
+    <string name="phoneTypeWork">Şirket</string>
+    <string name="postalTypeWork">Şirket</string>
+    <string name="select_input_method">Giriş yöntemini seçiniz</string>
+    <string name="sms_short_code_confirm_message">Bu mesajı göndermek istediğinizden eminmisiniz?</string>
+</resources>

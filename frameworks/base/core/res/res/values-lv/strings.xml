@@ -1,8 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="emailTypeWork">“Darbs ”</string>
     <string name="eventTypeAnniversary">Jubileja</string>
     <string name="phoneTypeFaxWork">Fakss</string>
     <string name="phoneTypeWork">“Darbs ”</string>
     <string name="postalTypeWork">“Darbs ”</string>
+
+    <string name="configure_input_methods">Iestatīt ievades metodi</string>
+    <string name="data_usage_limit_body">Pieskarieties, lai iespējotu</string>
+    <string name="data_usage_mobile_limit_title">Mobilie dati deaktivizēti</string>
+    <string name="select_input_method">Atlasīt ievades metodi</string>
+    <string name="sms_short_code_confirm_message">Vai tiešām vēlaties sūtīt šo ziņojumu?</string>
 </resources>

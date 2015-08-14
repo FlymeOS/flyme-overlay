@@ -1,11 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="data_usage_limit_body">Dodirnite za omogućavanje.</string>
-    <string name="data_usage_mobile_limit_title">Onemogućeni su mobilni podaci</string>
+    <string name="data_usage_mobile_limit_title">Mobilni podaci deaktivirani</string>
     <string name="emailTypeWork">Posao</string>
     <string name="eventTypeAnniversary">Godišnjica</string>
     <string name="phoneTypeFaxWork">Faks</string>
     <string name="phoneTypeWork">Posao</string>
     <string name="postalTypeWork">Posao</string>
     <string name="sms_short_code_confirm_message">Jeste li sigurni da želite poslati ovu poruku?</string>
+
+    <string name="configure_input_methods">Postavljanje načina unosa</string>
+    <string name="select_input_method">Odabir načina unosa</string>
 </resources>

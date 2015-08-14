@@ -1,8 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="emailTypeWork">Служебен</string>
     <string name="eventTypeAnniversary">Годишнина</string>
     <string name="phoneTypeFaxWork">Факс</string>
     <string name="phoneTypeWork">Служебен</string>
     <string name="postalTypeWork">Служебен</string>
+
+    <string name="configure_input_methods">Настройка на методи за въвеждане</string>
+    <string name="data_usage_limit_body">Докосни за активиране</string>
+    <string name="data_usage_mobile_limit_title">Деактивирани мобилни данни</string>
+    <string name="select_input_method">Изберете метод за въвеждане</string>
+    <string name="sms_short_code_confirm_message">Желаете ли да изпратите това съобщение?</string>
 </resources>

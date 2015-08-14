@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="configure_input_methods">Setaţi metoda de introducere</string>
+    <string name="data_usage_limit_body">Atingeţi pentru a activa</string>
+    <string name="data_usage_mobile_limit_title">Datele mobile sunt dezactivate</string>
+    <string name="emailTypeWork">Numele companiei:</string>
+    <string name="eventTypeAnniversary">Zi aniversară</string>
+    <string name="phoneTypeFaxWork">Fax serviciu</string>
+    <string name="phoneTypeWork">Numele companiei:</string>
+    <string name="postalTypeWork">Numele companiei:</string>
+    <string name="select_input_method">Selectaţi metoda de introducere</string>
+    <string name="sms_short_code_confirm_message">Sunteţi sigur că doriţi să trimiteţi acest mesaj?</string>
+</resources>

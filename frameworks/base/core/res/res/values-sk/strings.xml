@@ -1,8 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="emailTypeWork">Práca</string>
     <string name="eventTypeAnniversary">Výročie</string>
     <string name="phoneTypeFaxWork">Fax</string>
     <string name="phoneTypeWork">Práca</string>
     <string name="postalTypeWork">Práca</string>
+
+    <string name="configure_input_methods">Nastaviť metódu zadávania</string>
+    <string name="data_usage_limit_body">Zapnite dotykom</string>
+    <string name="data_usage_mobile_limit_title">Mobilné dáta sú deaktivované</string>
+    <string name="select_input_method">Vyberte metódu vstupu</string>
+    <string name="sms_short_code_confirm_message">Naozaj chcete odoslať túto správu?</string>
 </resources>

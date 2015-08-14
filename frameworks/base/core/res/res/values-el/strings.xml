@@ -1,8 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="emailTypeWork">Εργασία</string>
     <string name="eventTypeAnniversary">Επέτειος</string>
     <string name="phoneTypeFaxWork">Φαξ</string>
     <string name="phoneTypeWork">Εργασία</string>
     <string name="postalTypeWork">Εργασία</string>
+
+    <string name="configure_input_methods">Ρύθμιση μεθόδου εισαγωγής</string>
+    <string name="data_usage_limit_body">Αγγίξτε για ενεργοποίηση</string>
+    <string name="data_usage_mobile_limit_title">Δεδομένα κινητής απενεργοποιημένα</string>
+    <string name="select_input_method">Επιλέξτε μέθοδο εισαγωγής</string>
+    <string name="sms_short_code_confirm_message">Σίγουρα θέλετε να αποστείλετε αυτό το μήνυμα;</string>
 </resources>

@@ -29,7 +29,7 @@
         android:textSize="14sp"
         android:gravity="center_vertical"
         android:paddingStart="28dip"
-        android:textColor="#66000000"
+        android:textColor="?android:attr/colorAccent"
         />
     
         <ImageView

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="configure_input_methods">"Definir métodos de introdução"</string>
+    <string name="data_usage_limit_body">"Toque para ativar"</string>
+    <string name="data_usage_mobile_limit_title">"Dados móveis desativados"</string>
+    <string name="emailTypeWork">"Empresa"</string>
+    <string name="eventTypeAnniversary">"Aniversário"</string>
+    <string name="phoneTypeFaxWork">"Fax"</string>
+    <string name="phoneTypeWork">"Empresa"</string>
+    <string name="postalTypeWork">"Empresa"</string>
+    <string name="select_input_method">"Selecionar o método de introdução"</string>
+    <string name="sms_short_code_confirm_message">Tem a certeza de que pretende enviar esta mensagem?</string>
+</resources>
