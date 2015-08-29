@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="configure_input_methods">"ေဒတာျဖည့္သြင္းနည္းလမ္း သတ္မွတ္ပါ"</string>
+    <string name="data_usage_limit_body">"ဖြင့္ရန္ တို႔ထိပါ""</string>
+    <string name="data_usage_mobile_limit_title">"မိုဘိုင္းေဒတာ သက္ဝင္ခလုတ္ပိတ္ၿပီးၿပီ"</string>
+    <string name="emailTypeWork">"ကုမၸဏီ"</string>
+    <string name="eventTypeAnniversary">"ႏွစ္ပတ္လည္ေန႔"</string>
+    <string name="phoneTypeFaxWork">"ဖက္စ္"</string>
+    <string name="phoneTypeWork">"ကုမၸဏီ"</string>
+    <string name="postalTypeWork">"ကုမၸဏီ"</string>
+    <string name="select_input_method">"ထည့္သြင္းမႈနည္းလမ္းကိုေရြးပါ"</string>
+    <string name="sms_short_code_confirm_message">ဤမက္ေဆ့ခ်္ကိုပို႔လိုတာသင္ေသခ်ာလား။</string>
+</resources>
