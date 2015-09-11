@@ -21,4 +21,12 @@
     <string name="select_input_method">"Select input method"</string>
     <string name="config_webViewPackageName">com.android.webview</string>
     <string name="default_sms_application">com.android.mms</string>
+    <add-resource type="string" name="description_direction_right" />
+    <string name="description_direction_right">@null</string>
+    <add-resource type="string" name="description_direction_left" />
+    <string name="description_direction_left">@null</string>
+    <add-resource type="string" name="description_target_search" />
+    <string name="description_target_search">@null</string>
+    <add-resource type="string" name="description_direction_up" />
+    <string name="description_direction_up">@null</string>
 </resources>
