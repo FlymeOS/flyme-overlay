@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="configure_input_methods">קבע מקלדת</string>
+    <string name="data_usage_limit_body">לחץ כדי להפעיל</string>
+    <string name="data_usage_mobile_limit_title">נתונים ניידים הופסקו</string>
     <string name="emailTypeWork">חברה</string>
     <string name="eventTypeAnniversary">יום שנה</string>
     <string name="phoneTypeFaxWork">פקס</string>
     <string name="phoneTypeWork">חברה</string>
     <string name="postalTypeWork">חברה</string>
-
-    <string name="configure_input_methods">קבע מקלדת</string>
-    <string name="data_usage_limit_body">לחץ כדי להפעיל</string>
-    <string name="data_usage_mobile_limit_title">נתונים ניידים הופסקו</string>
     <string name="select_input_method">בחר מקלדת</string>
     <string name="sms_short_code_confirm_message">בטוח שברצונך לשלוח את ההודעה?</string>
 </resources>
