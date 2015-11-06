@@ -7,14 +7,20 @@
     <string name="emailTypeWork">"公司"</string>
     <string name="eventTypeAnniversary">"纪念日"</string>
     <string name="postalTypeWork">"公司"</string>
-
     <string name="select_input_method" msgid="8547250819326693584">"选择输入法"</string>
     <string name="configure_input_methods" msgid="4769971288371946846">"设置输入法"</string>
-
-    <!-- The message text for the SMS short code confirmation dialog. [CHAR LIMIT=NONE] -->
     <string name="sms_short_code_confirm_message">"确定发送信息?"</string>
-
     <string name="data_usage_mobile_limit_title" msgid="7869402519391631884">"移动数据已停用"</string>
     <string name="data_usage_limit_body" msgid="3317964706973601386">"触摸可启用。"</string>
 
+    <string-array name="mz_preferred_network_mode_summary_phone0">
+        <item>"仅2G"</item>
+        <item>"优先3G"</item>
+        <item>"优先4G"</item>
+    </string-array>
+    <string-array name="mz_preferred_network_mode_summary_phone1">
+        <item>"仅2G"</item>
+        <item>"优先3G"</item>
+        <item>"优先4G"</item>
+    </string-array>
 </resources>

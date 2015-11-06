@@ -27,7 +27,7 @@
         android:id="@android:id/message"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-         android:layout_marginLeft="5dip"
+         android:layout_marginLeft="5dip"   
         android:layout_marginRight="5dip"
         android:layout_weight="1"
         android:layout_gravity="center_horizontal"
@@ -38,7 +38,7 @@
         android:gravity="center"
         android:textAppearance="?android:attr/textAppearanceSmall"
         android:textColor="@color/bright_foreground_dark"
-        android:background="?android:attr/toastFrameBackground"
+         android:background="?android:attr/toastFrameBackground"
         />
 
 </LinearLayout>

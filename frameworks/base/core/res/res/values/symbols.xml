@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Copyright 2013 Meizu Co., Ltd. -->
-
-<resources>
-
-  <!--FLYME:xudaxing@. start-->
-  <java-symbol type="id" name="sms_short_code_remember_choice_text" />
-  <!--FLYME:xudaxing@. end-->
-</resources>

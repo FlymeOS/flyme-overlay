@@ -18,13 +18,8 @@
 */
 -->
 <resources>
-    <!--设备主题主颜色colorAccent , add by cjy-->
     <color name="material_deep_teal_500">#ff32a5e7</color>
-
-    <!--  窗口背景颜色colorBackground ， add by cjy -->
     <color name="background_material_light">#fffafafa</color>
-    
-    <!--设备主题主颜色colorAccent , add by wuchunhui-->
     <color name="material_deep_teal_200">#ff32a5e7</color>
 </resources>
 

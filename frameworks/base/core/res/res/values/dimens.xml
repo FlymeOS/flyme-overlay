@@ -15,6 +15,5 @@
 -->
 
 <resources>
-    <!-- toast y offset add by suyouxiong -->
     <dimen name="toast_y_offset">30dip</dimen>
 </resources>
