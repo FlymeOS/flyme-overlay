@@ -22,4 +22,6 @@
     <string name="description_target_search">@null</string>
     <add-resource type="string" name="description_direction_up" />
     <string name="description_direction_up">@null</string>
+    <string name="ellipsis">…</string>
+    <string name="ellipsis_two_dots">‥</string>
 </resources>
