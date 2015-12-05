@@ -59,7 +59,7 @@
     <integer name="config_shutdownBatteryTemperature">600</integer>
     <integer name="config_lowBatteryWarningLevel">15</integer>
     <integer name="config_lowBatteryCloseWarningBump">5</integer>
-
+    <dimen name="config_viewMaxFlingVelocity">3000dp</dimen>
     <bool name="config_safe_media_volume_enabled">false</bool>
 
 
