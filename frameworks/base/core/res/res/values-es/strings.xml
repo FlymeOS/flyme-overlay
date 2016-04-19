@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="android_system_label">Servicio del sistema de Flyme</string>
+    <string name="anr_activity_application"><xliff:g id="APPLICATION">%2$s</xliff:g> no responde. ¿Deseas cerrarlo?</string>
+    <string name="anr_activity_process">La actividad <xliff:g id="activity">%1$s</xliff:g> no responde. ¿Deseas cerrarla?</string>
+    <string name="anr_application_process"><xliff:g id="APPLICATION">%1$s</xliff:g> no responde, ¿Cerrarlo?</string>
+    <string name="anr_process">El proceso <xliff:g id="PROCESS">%1$s</xliff:g> no responde. ¿Deseas cerrarlo?</string>
+    <string name="adb_active_notification_message">Toca para deshabilitar la depuración de USB.</string>
+    <string name="adb_active_notification_title">Depuración USB conectada</string>
+    <string name="android_start_title">se está iniciando el sistema…</string>
+    <string name="android_upgrading_title">Se está actualizando el sistema\u2026</string>
+    <string name="configure_input_methods">"Configurar método de entrada"</string>
+    <string name="dlg_confirm_kill_storage_users_text">Si activas el almacenamiento USB, se detendrán algunas aplicaciones que estás usando y es posible que no estén disponibles hasta que lo desactives.</string>
+    <string name="dlg_confirm_kill_storage_users_title">Activar almacenamiento USB</string>
+    <string name="dlg_error_title">Error de funcionamiento de USB</string>
+    <string name="dlg_ok">Aceptar</string>
+    <string name="ext_media_badremoval_notification_message">Desconecta la tarjeta SD antes de extraerla para no perder datos.</string>
+    <string name="ext_media_badremoval_notification_title">La tarjeta SD se ha extraído inesperadamente</string>
+    <string name="ext_media_checking_notification_message">Comprobando errores.</string>
+    <string name="ext_media_checking_notification_title">Preparando tarjeta SD</string>
+    <string name="ext_media_nofs_notification_message">La tarjeta SD está vacía o su sistema de archivos es incompatible.</string>
+    <string name="ext_media_nofs_notification_title">Tarjeta SD vacía</string>
+    <string name="ext_media_nomedia_notification_message">Tarjeta SD extraída. Inserta otra.</string>
+    <string name="ext_media_nomedia_notification_title">Tarjeta SD extraída</string>
+    <string name="ext_media_safe_unmount_notification_message">Puedes extraer la tarjeta SD de forma segura.</string>
+    <string name="ext_media_safe_unmount_notification_title">La tarjeta SD se ha extraído de forma segura</string>
+    <string name="ext_media_unmountable_notification_message">La tarjeta SD está dañada. Prueba a formatearlo de nuevo.</string>
+    <string name="ext_media_unmountable_notification_title">Tarjeta SD dañada</string>
+    <string name="extmedia_format_button_format">Formato</string>
+    <string name="extmedia_format_message">Se perderán todos los datos de la tarjeta.</string>
+    <string name="extmedia_format_title">¿Formatear la tarjeta SD?</string>
+    <string name="select_input_method">"Seleccionar método de entrada"</string>
+    <string name="sms_short_code_confirm_message">¿Se ha enviado el mensaje?</string>
+    <string name="usb_accessory_notification_title">Conectado a un accesorio USB</string>
+    <string name="usb_cd_installer_notification_title">Conectado como instalador</string>
+    <string name="usb_mtp_notification_title">Transferir archivos por cable</string>
+    <string name="usb_notification_message">Toca para ver otras opciones USB</string>
+    <string name="usb_ptp_notification_title">Las fotos se pueden transferir por PC</string>
+    <string name="usb_storage_activity_title">Almacenamiento USB masivo</string>
+    <string name="usb_storage_button_mount">Activar almacenamiento USB</string>
+    <string name="usb_storage_error_message">Se ha producido un error al usar la tarjeta SD para el almacenamiento USB masivo.</string>
+    <string name="usb_storage_message">Te has conectado al ordenador por USB. Toca el siguiente botón si quieres transferir archivos entre el ordenador y la tarjeta SD del dispositivo.</string>
+    <string name="usb_storage_notification_message">Toca para transferir archivos desde/a tu ordenador</string>
+    <string name="usb_storage_notification_title">Conectado por USB</string>
+    <string name="usb_storage_stop_button_mount">Desactivar almacenamiento USB</string>
+    <string name="usb_storage_stop_error_message">Se ha producido un error al desactivar el almacenamiento USB. Comprueba que hayas desactivado el host USB y, a continuación, vuelve a intentarlo.</string>
+    <string name="usb_storage_stop_message">Antes de desactivar el almacenamiento USB, desconecta (\"extrae\") la tarjeta SD de Android del ordenador.</string>
+    <string name="usb_storage_stop_notification_message">Toca para desactivar el almacenamiento USB.</string>
+    <string name="usb_storage_stop_notification_title">Desactivar almacenamiento USB</string>
+    <string name="usb_storage_stop_title">El almacenamiento USB está en uso</string>
+    <string name="usb_storage_title">Conectado por USB</string>
+    <string name="wifi_available_sign_in">Acceder a WLAN</string>
+</resources>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="android_system_label">Servizi di sistema Flyme</string>
+    <string name="anr_activity_application"><xliff:g id="APPLICATION">%2$s</xliff:g> non risponde. Vuoi chiuderla?</string>
+    <string name="anr_activity_process">L\'attività <xliff:g id="activity">%1$s</xliff:g> non risponde, vuoi terminarla?</string>
+    <string name="anr_application_process"><xliff:g id="APPLICATION">%1$s</xliff:g> non risponde, vuoi interromperla?</string>
+    <string name="anr_process">Il processo <xliff:g id="PROCESS">%1$s</xliff:g> non risponde, Vuoi chiuderlo?</string>
+    <string name="adb_active_notification_message">Tocca per disattivare il debugging USB</string>
+    <string name="adb_active_notification_title">USB debugging connesso</string>
+    <string name="android_start_title">Avvio del sistema\u2026</string>
+    <string name="android_upgrading_title">Aggiornamento del sistema in corso\u2026</string>
+    <string name="configure_input_methods">"Imposta metodo di input"</string>
+    <string name="dlg_confirm_kill_storage_users_text">"Se attivi l\'archivio USB, alcune applicazioni che stai usando si interromperanno e potrebbero non essere disponibili fino a quando non disattiverai l\'archivio USB."</string>
+    <string name="dlg_confirm_kill_storage_users_title">"Attiva archivio USB"</string>
+    <string name="dlg_error_title">"Operazione USB non riuscita"</string>
+    <string name="dlg_ok">OK</string>
+    <string name="ext_media_badremoval_notification_message">Smosta la scheda SD prima della rimozione, per evitare la perdita di dati.</string>
+    <string name="ext_media_badremoval_notification_title">Scheda SD rimossa inaspettatamente</string>
+    <string name="ext_media_checking_notification_message">Controllo degli errori.</string>
+    <string name="ext_media_checking_notification_title">Preprazione scheda SD in corso</string>
+    <string name="ext_media_nofs_notification_message">La scheda SD è vuota o ha un filesystem non supportato.</string>
+    <string name="ext_media_nofs_notification_title">Scheda SD vuota</string>
+    <string name="ext_media_nomedia_notification_message">Scheda SD rimossa, inseriscene un\'altra</string>
+    <string name="ext_media_nomedia_notification_title">Scheda SD rimossa</string>
+    <string name="ext_media_safe_unmount_notification_message">Puoi rimuovere in sicurezza la scheda SD.</string>
+    <string name="ext_media_safe_unmount_notification_title">Rimozione sicura della scheda SD</string>
+    <string name="ext_media_unmountable_notification_message">La scheda SD è danneggiata. Prova a riformattarla.</string>
+    <string name="ext_media_unmountable_notification_title">Scheda SD danneggiata</string>
+    <string name="extmedia_format_button_format">"Formatta"</string>
+    <string name="extmedia_format_message">Tutti i dati sulla tua scheda saranno persi</string>
+    <string name="extmedia_format_title">Formattare la scheda SD?</string>
+    <string name="select_input_method">"Scegli metodo di input"</string>
+    <string name="usb_accessory_notification_title">"Collegato a un accessorio USB"</string>
+    <string name="usb_cd_installer_notification_title">"Collegato come installer"</string>
+    <string name="usb_mtp_notification_title">I file possono essere trasferiti con il PC</string>
+    <string name="usb_notification_message">Tocca per altre opzioni USB</string>
+    <string name="usb_ptp_notification_title">Le foto possono essere trasferite con un PC</string>
+    <string name="usb_storage_activity_title">"Archivio di massa USB"</string>
+    <string name="usb_storage_button_mount">"Attiva archivio USB"</string>
+    <string name="usb_storage_error_message">Rilevato un ptoblema con l\'uso della tua scheda SD come memoria di massa USB</string>
+    <string name="usb_storage_message">You\'ve connected to your computer via USB. Touch the button below if you want to copy files between your computer and your Android\'s SD card.</string>
+    <string name="usb_storage_notification_message">"Seleziona per copiare file sul/dal computer."</string>
+    <string name="usb_storage_notification_title">USB connessa</string>
+    <string name="usb_storage_stop_button_mount">"Disattiva archivio USB"</string>
+    <string name="usb_storage_stop_error_message">"Si è verificato un problema durante la disattivazione dell\'archivio USB. Assicurati di avere smontato l\'host USB e riprova."</string>
+    <string name="usb_storage_stop_message">Before turning off USB storage, unmount (\"eject\") your Android\'s SD card from your computer.</string>
+    <string name="usb_storage_stop_notification_message">Tocca per disattivare l\'archivio USB.</string>
+    <string name="usb_storage_stop_notification_title">"Disattiva archivio USB"</string>
+    <string name="usb_storage_stop_title">"Archivio USB in uso"</string>
+    <string name="usb_storage_title">USB connesso</string>
+    <string name="wifi_available_sign_in">Logine WLAN</string>
+</resources>

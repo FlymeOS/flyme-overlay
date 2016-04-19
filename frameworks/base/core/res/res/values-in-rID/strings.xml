@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="android_system_label">Layanan sistem Flyme</string>
+    <string name="anr_activity_application"><xliff:g id="APPLICATION">%2$s</xliff:g> tidak merespons. Anda ingin menutupnya?</string>
+    <string name="anr_activity_process">Aktivitas <xliff:g id="activity">%1$s</xliff:g> tidak merespons. Anda ingin menutupnya?</string>
+    <string name="anr_application_process"><xliff:g id="APPLICATION">%1$s</xliff:g> tidak merespons, matikan?</string>
+    <string name="anr_process">Proses <xliff:g id="PROCESS">%1$s</xliff:g> tidak merespons. Anda ingin menutupnya?</string>
+    <string name="adb_active_notification_message">Sentuh untuk menonaktifkan penelusuran kesalahan USB.</string>
+    <string name="adb_active_notification_title">Penelusuran kesalahan USB disambungkan</string>
+    <string name="android_start_title">Sistem memulai\u2026</string>
+    <string name="android_upgrading_title">Sistem sedang meningkatkan versi\u2026</string>
+    <string name="configure_input_methods">"Mengatur metode masukan"</string>
+    <string name="dlg_confirm_kill_storage_users_text">Jika Anda menghidupkan penyimpanan USB, beberapa aplikasi Anda akan berhenti dan mungkin tidak tersedia sampai Anda mematikan penyimpanan USB.</string>
+    <string name="dlg_confirm_kill_storage_users_title">Menyalakan Penyimpanan USB</string>
+    <string name="dlg_error_title">Operasi USB gagal</string>
+    <string name="dlg_ok">OK</string>
+    <string name="ext_media_badremoval_notification_message">Lepaskan kartu SD sebelum mengeluarkannya untuk menghindari kehilangan data.</string>
+    <string name="ext_media_badremoval_notification_title">Kartu SD dilepas dengan tiba-tiba</string>
+    <string name="ext_media_checking_notification_message">Memeriksa kesalahan.</string>
+    <string name="ext_media_checking_notification_title">Menyiapkan kartu SD</string>
+    <string name="ext_media_nofs_notification_message">Kartu SD kosong atau memiliki sistem file yang tidak didukung.</string>
+    <string name="ext_media_nofs_notification_title">Kartu SD kosong</string>
+    <string name="ext_media_nomedia_notification_message">Kartu SD dilepas. Masukkan yang baru.</string>
+    <string name="ext_media_nomedia_notification_title">Kartu SD dilepas</string>
+    <string name="ext_media_safe_unmount_notification_message">Anda dapat melepas kartu SD dengan aman.</string>
+    <string name="ext_media_safe_unmount_notification_title">Kartu SD dilepas dengan aman</string>
+    <string name="ext_media_unmountable_notification_message">Kartu SD rusak. Coba format ulang.</string>
+    <string name="ext_media_unmountable_notification_title">Kartu SD rusak</string>
+    <string name="extmedia_format_button_format">Format</string>
+    <string name="extmedia_format_message">Semua data pada kartu Anda akan hilang.</string>
+    <string name="extmedia_format_title">Format kartu SD?</string>
+    <string name="select_input_method">"Pilih metode input"</string>
+    <string name="sms_short_code_confirm_message">Pesan terkirim?</string>
+    <string name="usb_accessory_notification_title">Terhubung dengan aksesori USB</string>
+    <string name="usb_cd_installer_notification_title">Terhubung sebagai penginstal</string>
+    <string name="usb_mtp_notification_title">Transfer file via kabel</string>
+    <string name="usb_notification_message">Sentuh untuk opsi USB lainnya</string>
+    <string name="usb_ptp_notification_title">Foto dapat ditransfer via PC</string>
+    <string name="usb_storage_activity_title">Penyimpanan data USB</string>
+    <string name="usb_storage_button_mount">Menyalakan penyimpanan USB</string>
+    <string name="usb_storage_error_message">Terjadi masalah saat menggunakan kartu SD Anda sebagai penyimpanan data USB.</string>
+    <string name="usb_storage_message">Anda telah terhubung ke komputer via USB. Sentuh tombol di bawah ini jika Anda ingin menyalin file antara komputer dan kartu SD di Android Anda.</string>
+    <string name="usb_storage_notification_message">Sentuh untuk menyalin file ke/dari komputer Anda.</string>
+    <string name="usb_storage_notification_title">USB terhubung</string>
+    <string name="usb_storage_stop_button_mount">Matikan penyimpanan USB</string>
+    <string name="usb_storage_stop_error_message">Ada masalah mematikan penyimpanan USB. Pastikan Anda sudah mencopot host USB, kemudian coba lagi.</string>
+    <string name="usb_storage_stop_message">Sebelum mematikan penyimpanan USB, lepaskan (\"keluarkan\") kartu SD Android Anda dari komputer.</string>
+    <string name="usb_storage_stop_notification_message">Sentuh untuk mematikan penyimpanan USB.</string>
+    <string name="usb_storage_stop_notification_title">Matikan penyimpanan USB</string>
+    <string name="usb_storage_stop_title">Penyimpanan USB digunakan</string>
+    <string name="usb_storage_title">USB terhubung</string>
+    <plurals name="wifi_available">
+        <item quantity="one">WLAN tersedia</item>
+        <item quantity="other">WLAN tersedia</item>
+    </plurals>
+    <plurals name="wifi_available_detailed">
+        <item quantity="one">Lihat WLAN yang tersedia</item>
+        <item quantity="other">Lihat WLAN yang tersedia</item>
+    </plurals>
+    <string name="wifi_available_sign_in">Login ke WLAN</string>
+</resources>

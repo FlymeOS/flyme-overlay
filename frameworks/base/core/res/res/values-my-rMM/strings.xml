@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="android_system_label">Flyme စနစ္ ဝန္ေဆာင္မႈ</string>
+    <string name="anr_activity_application"><xliff:g id="APPLICATION">%2$s</xliff:g> သည္ တုန္႔ျပန္မႈမျပဳပါ၊ ၎ကို ပိတ္လိုသလား။</string>
+    <string name="anr_activity_process">လုပ္ေဆာင္ခ်က္ <xliff:g id="activity">%1$s</xliff:g> သည္ တုန္႔ျပန္မႈမျပဳပါ၊ ၎ကို ပိတ္လိုသလား?</string>
+    <string name="anr_application_process"><xliff:g id="APPLICATION">%1$s</xliff:g> သည္ တုန္႔ျပန္မႈမျပဳပါ၊ ၎ကို ပိတ္လိုသလား။</string>
+    <string name="anr_process">လုပ္ေဆာင္မႈ <xliff:g id="PROCESS">%1$s</xliff:g> သည္ တုန္႔ျပန္မႈမျပဳပါ၊ ၎ကို ပိတ္လိုသလား။</string>
+    <string name="adb_active_notification_message">Touch to disable USB ခၽြတ္ယြင္းခ်က္ရွာျပင္ဆင္မႈကို ပိတ္ပါကိုႏွိပ္ပါ။</string>
+    <string name="adb_active_notification_title">USB အမွားရွာေဖြဖယ္ရွားခ်က္ ခ်ိတ္ဆက္ထားသည္</string>
+    <string name="android_start_title">စနစ္ စတင္ေနဆဲ\u2026</string>
+    <string name="android_upgrading_title">စနစ္ အဆင့္ျမႇင့္တင္ေနဆဲ\u2026</string>
+    <string name="configure_input_methods">"ျဖည့္သြင္းမႈနည္းစနစ္ကို သတ္မွတ္ပါ"</string>
+    <string name="dlg_confirm_kill_storage_users_text">USB သိုေလွာင္ခန္း ဖြင့္လွ်င္ သင္ အသံုးျပဳေနသည့္ အက္ပ္အခ်ဳိ႕ ရပ္တန္႔သြားမည္ျဖစ္ၿပီး USB သိုေလွာင္ခန္းကို မပိတ္မခ်င္း ရရွိႏိုင္မည္မဟုတ္ပါ။</string>
+    <string name="dlg_confirm_kill_storage_users_title">USB သိုေလွာင္ခန္း ဖြင့္ပါ</string>
+    <string name="dlg_error_title">USB လုပ္ေဆာင္ခ်က္ မေအာင္ျမင္ပါ</string>
+    <string name="dlg_ok">အိုေက</string>
+    <string name="ext_media_badremoval_notification_message">ေဒတာဆံုး႐ံႈးမႈမွ ေရွာင္ၾကဥ္ရန္ SD ကဒ္ကို မဖယ္ရွားမီ ေရးဖတ္မႈစြန္႔ပါ။</string>
+    <string name="ext_media_badremoval_notification_title">SD ကဒ္ကို မေမွ်ာ္လင့္ဘဲ ဖယ္ရွားထားသည္</string>
+    <string name="ext_media_checking_notification_message">အမွား စစ္ေဆးေနသည္။</string>
+    <string name="ext_media_checking_notification_title">SD ကဒ္ကို ျပင္ဆင္ေနသည္</string>
+    <string name="ext_media_nofs_notification_message">SD တြင္ဘာမွမရွိပါ (သို႔) ပံ့ပိုးမထားသည့္ ဖိုင္စနစ္ကို အသံုးျပဳသည္။</string>
+    <string name="ext_media_nofs_notification_title">SD ကဒ္တြင္ ဘာမွမရွိပါ</string>
+    <string name="ext_media_nomedia_notification_message">SD ကို ဖယ္ရွားထားသည္။ အသစ္တစ္ခု ထည့္သြင္းပါ။</string>
+    <string name="ext_media_nomedia_notification_title">SD ကဒ္ကို ဖယ္ရွားထားသည္</string>
+    <string name="ext_media_safe_unmount_notification_message">SD ကဒ္ကို လံုၿခံဳစြာ ဖယ္ရွားႏိုင္သည္။</string>
+    <string name="ext_media_safe_unmount_notification_title">SD ကဒ္ကို လံုၿခံဳစြာ ဖယ္ရွားထားသည္</string>
+    <string name="ext_media_unmountable_notification_message">SD ကဒ္ ပ်က္စီးေနသည္။ ၎ကို ျပန္လည္ေဖာ္မတ္ပံုစံခ်ရန္ ႀကိဳးစားပါ။</string>
+    <string name="ext_media_unmountable_notification_title">SD ကဒ္ ပ်က္စီးေနသည္</string>
+    <string name="extmedia_format_button_format">ေဖာ္မက္ပံုစံခ်ပါ</string>
+    <string name="extmedia_format_message">သင္၏ကဒ္ေပၚရွိ ေဒတာအားလံုး ဆံုး႐ႈံးသြားမည္။</string>
+    <string name="extmedia_format_title">SD ကဒ္ကို ေဖာမတ္ခ်မလား။</string>
+    <string name="select_input_method">"ျဖည့္သြင္းမႈနည္းစနစ္ကို ေရြးပါ"</string>
+    <string name="sms_short_code_confirm_message">မက္ေဆ့ဂ်္ ပို႕ျပီးျပီလား။</string>
+    <string name="usb_accessory_notification_title">USB တြဲဖက္ပစၥည္း တစ္ခုသို႔ ခ်ိတ္ဆက္ထားသည္</string>
+    <string name="usb_cd_installer_notification_title">တပ္ဆင္ကိရိယာတစ္ခုအျဖစ္ ခ်ိတ္ဆက္ထားသည္</string>
+    <string name="usb_mtp_notification_title">ေကဘယ္မွတဆင့္ ဖိုင္မ်ားကို လႊဲေျပာင္းပါ</string>
+    <string name="usb_notification_message">အျခား USB ေရြးခ်ယ္ရန္မ်ားအတြက္ ႏွိပ္ပါ</string>
+    <string name="usb_ptp_notification_title">ဓာတ္ပံုမ်ားကို PC မွတဆင့္ လႊဲေျပာင္းႏုိင္သည္</string>
+    <string name="usb_storage_activity_title">USB အေျမာက္အမ်ား သိုေလွာင္ခန္း</string>
+    <string name="usb_storage_button_mount">USB သိုေလွာင္ခန္း ဖြင့္ပါ</string>
+    <string name="usb_storage_error_message">သင္၏ SD ကဒ္ကို USB ေပါင္းစုသိုေလွာင္ခန္းအျဖစ္ အသံုးျပဳစဥ္ ျပႆနာတစ္ခုျဖစ္ပြားထားသည္။</string>
+    <string name="usb_storage_message">USB မွတဆင့္ သင့္ကြန္ပ်ဴတာသို႔ ခ်ိတ္ဆက္ထားသည္။ သင္၏ကြန္ပ်ဴတာႏွင့္ သင့္အန္းဒ႐ြိဳက္၏ SD ကဒ္တို႔အၾကား ဖိုင္မ်ားကိုကူးယူလိုပါက ေအာက္ပါခလုတ္ကိုႏွိပ္ပါ။</string>
+    <string name="usb_storage_notification_message">သင့္ကြန္ပ်ဴတာ သို႔/မွ ဖိုင္မ်ားကူးယူရန္ ႏွိပ္ပါ။</string>
+    <string name="usb_storage_notification_title">USB ခ်ိတ္ဆက္ထားသည္</string>
+    <string name="usb_storage_stop_button_mount">USB သိုေလွာင္ခန္း ပိတ္ပါ</string>
+    <string name="usb_storage_stop_error_message">USB သိုေလွာင္ခန္းကို ပိတ္ရာတြင္ ျပႆနာ ရွိခဲ့သည္။ USB အထိန္းကို စက္ပတ္လမ္းမွ ထြက္ထားၿပီးေၾကာင္း စစ္ၾကည့္ပါ။ ၿပီးေနာက္ ထပ္ႀကိဳးစားပါ</string>
+    <string name="usb_storage_stop_message">USB သိုေလွာင္ခန္းကို မပိတ္မီ၊ သင္၏ကြန္ပ်ဴတာမွ သင့္အန္းဒ႐ြိဳက္၏ SD ကဒ္ကို ("ထုတ္ယူပါ") ေရးဖတ္မႈစြန္႔ပါ။</string>
+    <string name="usb_storage_stop_notification_message">USB သိုေလွာင္ခန္းပိတ္ရန္ ႏွိပ္ပါ။</string>
+    <string name="usb_storage_stop_notification_title">USB သိုေလွာင္ခန္း ပိတ္ပါ</string>
+    <string name="usb_storage_stop_title">USB သိုေလွာင္ခန္း အသံုးျပဳေနသည္</string>
+    <string name="usb_storage_title">USB ခ်ိတ္ဆက္ထားသည္</string>
+    <string name="wifi_available_sign_in">WLAN သို႔ ဝင္ေရာက္ပါ</string>
+</resources>

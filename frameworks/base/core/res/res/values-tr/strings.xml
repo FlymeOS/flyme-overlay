@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="android_system_label">Flyme sistem hizmeti</string>
+    <string name="anr_activity_application"><xliff:g id="APPLICATION">%2$s</xliff:g> yanıt vermiyor,Kapatmak istiyor musunuz?</string>
+    <string name="anr_activity_process">Aktivite <xliff:g id="activity">%1$s</xliff:g> yanıt vermiyor, kapatmak istiyor musunuz?</string>
+    <string name="anr_application_process"><xliff:g id="APPLICATION">%1$s</xliff:g> yanıt vermiyor, kapatılsın mı?</string>
+    <string name="anr_process">İşlem <xliff:g id="PROCESS">%1$s</xliff:g> yanıt vermiyor, Kapatmak istiyor musunuz?</string>
+    <string name="adb_active_notification_message">USB hata ayıklama özelliğini devre dışı bırakmak için dokunun.</string>
+    <string name="adb_active_notification_title">USB hata ayıklaması bağlandı</string>
+    <string name="android_start_title">Sistem başlatılıyor\u2026</string>
+    <string name="android_upgrading_title">Sistem yükseltiliyor\u2026</string>
+    <string name="configure_input_methods">"Giriş yöntemini ayarla"</string>
+    <string name="dlg_confirm_kill_storage_users_text">"USB belleği açarsanız, kullanmakta olduğunuz bazı uygulamalar durur ve USB bellek kapatılıncaya kadar kullanılamayabilir."</string>
+    <string name="dlg_confirm_kill_storage_users_title">"USB belleği aç"</string>
+    <string name="dlg_error_title">"USB işlemi başarısız oldu"</string>
+    <string name="dlg_ok">Tamam</string>
+    <string name="ext_media_badremoval_notification_message">Veri kaybından kaçınmak için SD kartı çıkarmadan önce bağlantısını kesin.</string>
+    <string name="ext_media_badremoval_notification_title">SD kart beklenmedik biçimde çıkarıldı</string>
+    <string name="ext_media_checking_notification_message">"Hata kontrolü yapılıyor."</string>
+    <string name="ext_media_checking_notification_title">SD kart hazırlanıyor</string>
+    <string name="ext_media_nofs_notification_message">SD kart boş ya da desteklenmeyen dosya sistemini kullanmakta.</string>
+    <string name="ext_media_nofs_notification_title">Boş SD kart</string>
+    <string name="ext_media_nomedia_notification_message">SD kart çıkarıldı. Yenisini takın.</string>
+    <string name="ext_media_nomedia_notification_title">SD kart çıkarılmış</string>
+    <string name="ext_media_safe_unmount_notification_message">SD kartı güvenle kaldırabilirsiniz.</string>
+    <string name="ext_media_safe_unmount_notification_title">SD kart güvenli şekilde çıkarıldı</string>
+    <string name="ext_media_unmountable_notification_message">SD kart hasarlı. Yeniden biçimlemeyi deneyin.</string>
+    <string name="ext_media_unmountable_notification_title">Hasarlı SD kart</string>
+    <string name="extmedia_format_button_format">Biçim</string>
+    <string name="extmedia_format_message">Kartınızdaki tüm veriler kaybolacak.</string>
+    <string name="extmedia_format_title">SD kart biçimlendirilsin mi?</string>
+    <string name="select_input_method">"Giriş yöntemi seç"</string>
+    <string name="sms_short_code_confirm_message">Mesajı gönder?</string>
+    <string name="usb_accessory_notification_title">"Bir USB aksesuarına bağlandı"</string>
+    <string name="usb_cd_installer_notification_title">"Yükleyici olarak bağlandı"</string>
+    <string name="usb_mtp_notification_title">Kablo aracılığıyla dosyaları aktar</string>
+    <string name="usb_notification_message">Diğer USB seçenekleri için dokunun</string>
+    <string name="usb_ptp_notification_title">Fotoğraflar PC ile aktarılabilir</string>
+    <string name="usb_storage_activity_title">USB yığın belleği</string>
+    <string name="usb_storage_button_mount">"USB belleği aç"</string>
+    <string name="usb_storage_error_message">SD kartınızı USB yığın depolama olarak kullanırken bir sorun oldu.</string>
+    <string name="usb_storage_message">Bilgisayarınıza USB üzerinden bağlandınız. Bilgisayarınız ve Android\'inizin SD kartı arasında dosyaları kopyalamak isterseniz aşağıdaki düğmeye dokunun.</string>
+    <string name="usb_storage_notification_message">Bilgisayarınıza/bilgisayarınızdan dosyaları kopyalamak için dokunun.</string>
+    <string name="usb_storage_notification_title">USB bağlandı</string>
+    <string name="usb_storage_stop_button_mount">USB belleği kapat</string>
+    <string name="usb_storage_stop_error_message">USB belleği kapatırken bir sorun oluştu. USB sunucusunu kaldırdığınızdan emin olun ve tekrar deneyin.</string>
+    <string name="usb_storage_stop_message">USB belleği kapatmadan önce Android\'inizin SD kartının bilgisayarınızla olan bağlantısını kesin (\"çıkarın\").</string>
+    <string name="usb_storage_stop_notification_message">USB belleği kapatmak için dokunun.</string>
+    <string name="usb_storage_stop_notification_title">USB belleği kapat</string>
+    <string name="usb_storage_stop_title">USB bellek kullanılıyor</string>
+    <string name="usb_storage_title">USB bağlandı</string>
+    <plurals name="wifi_available">
+        <item quantity="one">Kullanılabilir WLAN</item>
+        <item quantity="other">Kullanılabilir WLAN</item>
+    </plurals>
+    <plurals name="wifi_available_detailed">
+        <item quantity="one">Mevcut WLAN\'ı görüntüle</item>
+        <item quantity="other">Mevcut WLAN\'ı görüntüle</item>
+    </plurals>
+    <string name="wifi_available_sign_in">WLAN\'da Oturum Aç</string>
+</resources>

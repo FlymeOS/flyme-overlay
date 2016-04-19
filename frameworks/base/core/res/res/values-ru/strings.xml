@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="android_system_label">Система Flyme</string>
+    <string name="anr_activity_application"><xliff:g id="application">%2$s</xliff:g> не отвечает. Закрыть принудительно?</string>
+    <string name="anr_activity_process"><xliff:g id="activity">%1$s</xliff:g> не отвечает. Закрыть принудительно?</string>
+    <string name="anr_application_process">Приложение <xliff:g id="application">%1$s</xliff:g> не отвечает. Закрыть принудительно?</string>
+    <string name="anr_process">Процесс <xliff:g id="process">%1$s</xliff:g> не отвечает. Закрыть принудительно?</string>
+    <string name="adb_active_notification_message">Нажмите для отключения USB-отладки</string>
+    <string name="adb_active_notification_title">Отладка по USB включена</string>
+    <string name="android_start_title">Запуск системы…</string>
+    <string name="android_upgrading_title">Система обновляется…</string>
+    <string name="configure_input_methods">"Установить способ ввода"</string>
+    <string name="dlg_confirm_kill_storage_users_text">При включенном режиме USB-накопителя некоторые приложения перестанут работать</string>
+    <string name="dlg_confirm_kill_storage_users_title">Включить USB-накопитель</string>
+    <string name="dlg_error_title">Ошибка выполнения операции</string>
+    <string name="dlg_ok">OK</string>
+    <string name="ext_media_badremoval_notification_message">Во избежание потери данных выполните безопасное извлечение карты памяти</string>
+    <string name="ext_media_badremoval_notification_title">Карта памяти неожиданно извлечена</string>
+    <string name="ext_media_checking_notification_message">Проверка на ошибки</string>
+    <string name="ext_media_checking_notification_title">Подготовка карты памяти</string>
+    <string name="ext_media_nofs_notification_message">Карта памяти пуста или имеет неподдерживаемую файловую систему</string>
+    <string name="ext_media_nofs_notification_title">Карта памяти пуста</string>
+    <string name="ext_media_nomedia_notification_message">Карта памяти извлечена. Вставьте карту памяти.</string>
+    <string name="ext_media_nomedia_notification_title">Карта памяти извлечена</string>
+    <string name="ext_media_safe_unmount_notification_message">Карту памяти можно извлечь</string>
+    <string name="ext_media_safe_unmount_notification_title">Безопасное извлечение карты памяти</string>
+    <string name="ext_media_unmountable_notification_message">Карта памяти повреждена. Попробуйте отформатировать её снова.</string>
+    <string name="ext_media_unmountable_notification_title">Карта памяти повреждена</string>
+    <string name="extmedia_format_button_format">Форматировать</string>
+    <string name="extmedia_format_message">Все данные на вашей карте памяти будут удалены</string>
+    <string name="extmedia_format_title">Форматировать карту памяти?</string>
+    <string name="select_input_method">"Выбрать способ ввода"</string>
+    <string name="sms_short_code_confirm_message">Отправить сообщение?</string>
+    <string name="usb_accessory_notification_title">Подключен к USB-аксессуару</string>
+    <string name="usb_cd_installer_notification_title">Подключен как установщик</string>
+    <string name="usb_mtp_notification_title">Подключён как медианоситель</string>
+    <string name="usb_notification_message">Открыть другие USB-опции</string>
+    <string name="usb_ptp_notification_title">Подключен как камера</string>
+    <string name="usb_storage_activity_title">Устройство хранения USB</string>
+    <string name="usb_storage_button_mount">Включить USB-накопитель</string>
+    <string name="usb_storage_error_message">Ошибка использования карты памяти в качестве накопителя</string>
+    <string name="usb_storage_message">Вы подключили телефон к компьютеру через USB. Нажмите на кнопку ниже, если вы хотите скопировать файлы между компьютером и картой памяти.</string>
+    <string name="usb_storage_notification_message">Нажать для копирования файлов с/на ПК</string>
+    <string name="usb_storage_notification_title">USB подключен</string>
+    <string name="usb_storage_stop_button_mount">Отключить USB-накопитель</string>
+    <string name="usb_storage_stop_error_message">Ошибка отключения USB-накопителя. Попробуйте снова.</string>
+    <string name="usb_storage_stop_message">Перед отключением USB-накопителя выполните (\"безопасное извлечение\") вашей карты памяти на ПК</string>
+    <string name="usb_storage_stop_notification_message">Нажать для отключения USB-накопителя</string>
+    <string name="usb_storage_stop_notification_title">Отключить USB-накопитель</string>
+    <string name="usb_storage_stop_title">USB-накопитель используется</string>
+    <string name="usb_storage_title">USB подключен</string>
+    <string name="wifi_available_sign_in">Вход через Wi-Fi</string>
+</resources>

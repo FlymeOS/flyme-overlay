@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="android_system_label">Flyme முறைமை சேவை</string>
+    <string name="anr_activity_application"><xliff:g id="APPLICATION">%2$s</xliff:g> பதிலளிக்கவில்லை, மூட விரும்புகிறீர்களா?</string>
+    <string name="anr_activity_process">நடவடிக்கை <xliff:g id="activity">%1$s</xliff:g> பதிலளிக்கவில்லை, மூட விரும்புகிறீர்களா?</string>
+    <string name="anr_application_process"><xliff:g id="APPLICATION">%1$s</xliff:g> பதிலளிக்கவில்லை, நிறுத்தவா?</string>
+    <string name="anr_process">செயல்முறை <xliff:g id="PROCESS">%1$s</xliff:g> பதிலளிக்கவில்லை, அதை மூட விரும்புகிறீர்களா?</string>
+    <string name="adb_active_notification_message">USB பிழைத்திருத்தத்தை முடக்க, தொடவும்.</string>
+    <string name="adb_active_notification_title">USB பிழைத்திருத்தம் இணைக்கப்பட்டது</string>
+    <string name="android_start_title">முறைமை தொடங்குகிறது\u2026</string>
+    <string name="android_upgrading_title">முறைமை மேம்படுத்துகிறது\u2026</string>
+    <string name="configure_input_methods">"உள்ளீட்டு பயன்முறையை அமை"</string>
+    <string name="dlg_confirm_kill_storage_users_text">நீங்கள் USB சேமிப்பகத்தை ஆன் செய்தால், பயன்படுத்திக் கொண்டிருக்கும் சில பயன்பாடுகள் நிறுத்தப்படும் மேலும் USB சேமிப்பகத்தை நிறுத்தாத வரை கிடைக்காமல் போகலாம்.</string>
+    <string name="dlg_confirm_kill_storage_users_title">USB சேமிப்பகத்தை இயக்கு</string>
+    <string name="dlg_error_title">USB செயல்முறை தோல்வியடைந்தது</string>
+    <string name="dlg_ok">சரி</string>
+    <string name="ext_media_badremoval_notification_message">தரவு இழப்பைத் தவிர்ப்பதற்கு அகற்றுவதற்கு முன்னர் SD கார்டை இணைப்புநீக்கவும்.</string>
+    <string name="ext_media_badremoval_notification_title">SD கார்டு எதிர்பாராதவிதமாக அகற்றப்பட்டது</string>
+    <string name="ext_media_checking_notification_message">பிழைகளை சரிபார்க்கிறது.</string>
+    <string name="ext_media_checking_notification_title">SD கார்டைத் தயார் செய்கிறது</string>
+    <string name="ext_media_nofs_notification_message">SD கார்டு காலி அல்லது ஆதரிக்கப்படாத கோப்புமுறைமையைப் பயன்படுத்துகிறது.</string>
+    <string name="ext_media_nofs_notification_title">வெற்று SD கார்டு</string>
+    <string name="ext_media_nomedia_notification_message">SD கார்டு அகற்றப்பட்டது. புதிய ஒன்றைச் செருகவும்.</string>
+    <string name="ext_media_nomedia_notification_title">அகற்றப்பட்ட SD கார்டு</string>
+    <string name="ext_media_safe_unmount_notification_message">நீங்கள் SD கார்டைப் பாதுகாப்பாக அகற்றலாம்.</string>
+    <string name="ext_media_safe_unmount_notification_title">SD கார்டு பாதுகாப்பாக அகற்றப்பட்டது</string>
+    <string name="ext_media_unmountable_notification_message">SD கார்டு சேதமடைந்துள்ளது. அதை மறுவடிவமைப்பு செய்ய முயற்சிக்கவும்.</string>
+    <string name="ext_media_unmountable_notification_title">சேதமடைந்த SD கார்டு</string>
+    <string name="extmedia_format_button_format">வடிவமைப்பு</string>
+    <string name="extmedia_format_message">கார்டில் உள்ள எல்லா தரவையும் இழப்பீர்கள்.</string>
+    <string name="extmedia_format_title">SD கார்டில் உள்ளவற்றை அழிக்கவா?</string>
+    <string name="select_input_method">"உள்ளீடு முறையைத் தேர்வு செய்யவும்"</string>
+    <string name="sms_short_code_confirm_message">செய்தியை அனுப்பலாமா?</string>
+    <string name="usb_accessory_notification_title">USB துணைக்கருவியுடன் இணைக்கப்பட்டுள்ளது</string>
+    <string name="usb_cd_installer_notification_title">நிறுவியாக இணைக்கப்பட்டுள்ளது</string>
+    <string name="usb_mtp_notification_title">கேபிள் வழியாகக் கோப்புகளை இடம் மாற்றலாம்</string>
+    <string name="usb_notification_message">பிற USB விருப்பங்களுக்குத் தொடவும்</string>
+    <string name="usb_ptp_notification_title">PC வழியாக புகைப்படங்களை இடமாறலாம்</string>
+    <string name="usb_storage_activity_title">USB திரள் சேமிப்பகம்</string>
+    <string name="usb_storage_button_mount">USB சேமிப்பகத்தை இயக்கு</string>
+    <string name="usb_storage_error_message">உங்கள் SD கார்டை USB பெரும் சேமிப்பாக பயன்படுத்தும்போது சிக்கல் நேர்ந்தது.</string>
+    <string name="usb_storage_message">USB வழியாக உங்கள் கணினிக்கு நீங்கள் இணைந்துள்ளீர்கள். உங்கள் கணினி மற்றும் Android-இன் SD கார்டுக்கு இடையே கோப்புகளை நகலெடுக்க விரும்பினால் கீழேயிருக்கும் பட்டனைத் தொடவும்.</string>
+    <string name="usb_storage_notification_message">உங்கள் கணினியிலிருந்து/கணினிக்கு கோப்புகளை நகலெடுக்கத் தொடவும்.</string>
+    <string name="usb_storage_notification_title">USB இணைக்கப்பட்டது</string>
+    <string name="usb_storage_stop_button_mount">USB சேமிப்பகத்தை ஆஃப் செய்</string>
+    <string name="usb_storage_stop_error_message">USB சேமிப்பகத்தை ஆஃப் செய்வதில் சிக்கல் இருந்தது. நீங்கள் USB ஹோஸ்டை இணைப்புநீக்கியதை சோதித்து பின்னர் மீண்டும் முயற்சிக்கவும்.</string>
+    <string name="usb_storage_stop_message">USB சேமிப்பகத்தை ஆஃப் செய்வதற்கு முன்னர், உங்கள் கணினியிலிருந்து Android-இன் SD கார்டை இணைப்புநீக்கவும் (\"வெளியேற்று\").</string>
+    <string name="usb_storage_stop_notification_message">USB சேமிப்பிடத்தை முடக்க, தொடவும்.</string>
+    <string name="usb_storage_stop_notification_title">USB சேமிப்பகத்தை ஆஃப் செய்</string>
+    <string name="usb_storage_stop_title">USB சேமிப்பகம் பயன்பாட்டில் உள்ளது</string>
+    <string name="usb_storage_title">USB இணைக்கப்பட்டது</string>
+    <plurals name="wifi_available">
+        <item quantity="one">கிடைக்கும் WLAN</item>
+        <item quantity="other">கிடைக்கும் WLAN</item>
+    </plurals>
+    <plurals name="wifi_available_detailed">
+        <item quantity="one">கிடைக்கின்ற WLAN -ஐப் பார்</item>
+        <item quantity="other">கிடைக்கின்ற WLAN -ஐப் பார்</item>
+    </plurals>
+    <string name="wifi_available_sign_in">WLAN-க்கு உள்நுழை</string>
+</resources>

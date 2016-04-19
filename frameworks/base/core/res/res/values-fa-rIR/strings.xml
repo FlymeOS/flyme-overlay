@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="android_system_label">سرویس سیستم Flyme</string>
+    <string name="anr_activity_application"><xliff:g id="APPLICATION">%2$s</xliff:g> جواب نمیدهد. میخواهید آن را ببندید؟</string>
+    <string name="anr_activity_process">فعالیت <xliff:g id="activity">%1$s</xliff:g> جواب نمیدهد، میخواهید آن را ببندید؟</string>
+    <string name="anr_application_process"><xliff:g id="APPLICATION">%1$s</xliff:g> جواب نمیدهد، خاموش شود؟</string>
+    <string name="anr_process">فرآیند <xliff:g id="PROCESS">%1$s</xliff:g> جواب نمیدهد. میخواهید آن را ببندید؟</string>
+    <string name="adb_active_notification_message">برای غیرفعال سازی اشکال زدایی USB، لمس کنید.</string>
+    <string name="adb_active_notification_title">اشکال زدایی USB متصل شد</string>
+    <string name="android_start_title">سیستم در حال راه اندازی است \ U2026</string>
+    <string name="android_upgrading_title">سیستم در حال ارتقاست \u2026</string>
+    <string name="configure_input_methods">"راه اندازی روش ورودی"</string>
+    <string name="dlg_confirm_kill_storage_users_text">اگر حافظه USB را روشن کنید، برخی از برنامه هایی که استفاده میکنید، مجدداً از دسترس خارج خواهند شد تا زمانیکه حافظه USB را خاموش کنید.</string>
+    <string name="dlg_confirm_kill_storage_users_title">حافظه USB را روشن کنید</string>
+    <string name="dlg_error_title">عملیات USB ناموفق بود</string>
+    <string name="dlg_ok">خوب</string>
+    <string name="ext_media_badremoval_notification_message">SD کارت را قبل از برداشتن، برای جلوگیری از از بین رفتن داده ها بردارید.</string>
+    <string name="ext_media_badremoval_notification_title">SD کارت بطور غیرمنتظره ای برداشته شد</string>
+    <string name="ext_media_checking_notification_message">بررسی کردن خطاها.</string>
+    <string name="ext_media_checking_notification_title">آماده سازی SD کارت</string>
+    <string name="ext_media_nofs_notification_message">SD کارت خالیست یا از سیستم پرونده پشتیبانی نشده استفاده میکند.</string>
+    <string name="ext_media_nofs_notification_title">SD کارت خالیست</string>
+    <string name="ext_media_nomedia_notification_message">SD کارت جدا شد. یک کارت جدید قرار دهید.</string>
+    <string name="ext_media_nomedia_notification_title">SD کارت برداشته شد.</string>
+    <string name="ext_media_safe_unmount_notification_message">میتوانید بطور ایمن SD کارت را بردارید.</string>
+    <string name="ext_media_safe_unmount_notification_title">SD کارت بطور ایمن حذف شد</string>
+    <string name="ext_media_unmountable_notification_message">SD کارت آسیب دیده است. سعی کنید مجدداً قالب بندی کنید.</string>
+    <string name="ext_media_unmountable_notification_title">SD کارت آسیب دیده است</string>
+    <string name="extmedia_format_button_format">قالب بندی</string>
+    <string name="extmedia_format_message">تمام داده های روی کارتتان از بین خواهند رفت.</string>
+    <string name="extmedia_format_title">SD کارت قالب بندی شود؟</string>
+    <string name="select_input_method">" روش ورودی را انتخاب کنید"</string>
+    <string name="usb_accessory_notification_title">به یک لوازم جانبی USB متصل شد</string>
+    <string name="usb_cd_installer_notification_title">بعنوان یک نصاب متصل شد</string>
+    <string name="usb_mtp_notification_title">انتقال پرونده ها ازطریق کابل</string>
+    <string name="usb_notification_message">برای سایر گزینه های USB، لمس کنید</string>
+    <string name="usb_ptp_notification_title">عکسها میتوانند ازطریق رایانه انتقال یابند</string>
+    <string name="usb_storage_activity_title">حافظه انبوه USB</string>
+    <string name="usb_storage_button_mount">حافظه USB را روشن کنید</string>
+    <string name="usb_storage_error_message">در حین استفاده از SD کارت خود بعنوان حافظه انبوه USB، یک مشکل رخ داده است.</string>
+    <string name="usb_storage_message">شما ازطریق USB به رایانهتان متصل شده اید.اگر میخواهید پرونده ها را بین رایانه خود و SD کارت اندروید خود کپی کنید، دکمه زیر را لمس کنید.</string>
+    <string name="usb_storage_notification_message">برای کپی کردن پرونده ها به/از رایانهتان، لمس کنید.</string>
+    <string name="usb_storage_notification_title">USB متصل شد</string>
+    <string name="usb_storage_stop_button_mount">حافظه USB را خاموش کنید</string>
+    <string name="usb_storage_stop_error_message">یک مشکل در خاموش کردن حافظه USB وجود داشت. بررسی کنید که میزبان USB را حذف کرده اید و سپس مجدداً امتحان کنید.</string>
+    <string name="usb_storage_stop_message">قبل از خاموش کردن حافظه USB، اس دی کارت اندروید خود را از رایانهتان حذف ("جدا") کنید.</string>
+    <string name="usb_storage_stop_notification_message">برای خاموش کردن حافظه USB، لمس کنید.</string>
+    <string name="usb_storage_stop_notification_title">حافظه USB را خاموش کنید</string>
+    <string name="usb_storage_stop_title">حافظه USB در حال استفاده است </string>
+    <string name="usb_storage_title">USB متصل شد</string>
+    <string name="wifi_available_sign_in">ورود به WLAN</string>
+</resources>

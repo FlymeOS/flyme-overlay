@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright (C) 2011 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<!--
+===============================================================
+                        PLEASE READ
+===============================================================
+This file contains the themes that are the Device Defaults.
+If you want to edit styles to skin your device, do it here.
+We recommend that you do not edit styles.xml and instead edit
+this file.
+
+Editing this file instead of styles.xml will greatly simplify
+merges for future platform versions and CTS compliance will be
+easier.
+===============================================================
+                        PLEASE READ
+===============================================================
+ -->
+<resources>
+    <!-- Widget Styles -->
+    <style name="Widget.Material.Light.PopupMenu.Overflow" parent="Widget.Material.PopupMenu.Overflow">
+        <item name="overlapAnchor">false</item>
+        <item name="popupAnimationStyle">@null</item>
+    </style>
+
+    <style name="Widget.DeviceDefault.Light.ActionBar.TabBar" parent="Widget.Material.Light.ActionBar.TabBar">
+        <item name="divider">@null</item>
+    </style>
+
+    <style name="Widget.DeviceDefault.Light.ActionButton.Overflow" parent="Widget.Material.Light.ActionButton.Overflow">
+        <item name="paddingStart">12dp</item>
+        <item name="paddingEnd">12dp</item>
+    </style>
+
+    <style name="Widget.DeviceDefault.Light.ActionMode" parent="Widget.Material.Light.ActionMode">
+        <item name="background">@null</item>
+        <item name="backgroundSplit">@null</item>
+    </style>
+    <style name="Widget.DeviceDefault.Light.ListView.DropDown" parent="Widget.Material.Light.ListView"/>
+
+     <style name="Widget.DeviceDefault.Light.ActionBar" parent="Widget.Material.Light.ActionBar">
+        <item name="elevation">0dp</item>
+        <item name="backgroundSplit">#181c1f</item>
+     </style>
+
+     <style name="Widget.DeviceDefault.Light.ActionBar.Solid" parent="Widget.Material.Light.ActionBar.Solid">
+        <item name="elevation">0dp</item>
+        <item name="backgroundSplit">#181c1f</item>
+     </style>
+
+     <style name="Widget.DeviceDefault.Light.ActionButton" parent="Widget.Material.Light.ActionButton">
+        <item name="textStyle">normal</item>
+        <item name="textSize">18sp</item>
+        <item name="textAllCaps">false</item>
+         <item name="fontFamily">@null</item>
+     </style>
+
+     <style name="TextAppearance.DeviceDefault.Widget.PopupMenu.Large" parent="TextAppearance.Material.Widget.PopupMenu.Large">
+         <item name="textSize">18sp</item>
+     </style>
+
+     <style name="Widget.DeviceDefault.Light.Button" parent="Widget.Material.Light.Button">
+         <item name="stateListAnimator">@null</item>
+      </style>
+</resources>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="anr_activity_application">Aplikacja <xliff:g id="APPLICATION">%2$s</xliff:g> nie odpowiada. Zamknąć?</string>
+    <string name="anr_activity_process">Działanie <xliff:g id="activity">%1$s</xliff:g> nie odpowiada. Zakończyć?</string>
+    <string name="anr_application_process">Aplikacja <xliff:g id="APPLICATION">%1$s</xliff:g> nie odpowiada. Zamknąć?</string>
+    <string name="anr_process">Proces <xliff:g id="PROCESS">%1$s</xliff:g> nie odpowiada, Zakończyć?</string>
+    <string name="adb_active_notification_message">Dotknij, aby wyłączyć debugowanie USB.</string>
+    <string name="adb_active_notification_title">Podłączono moduł debugowania USB</string>
+    <string name="android_start_title">Trwa uruchamianie systemu...</string>
+    <string name="android_upgrading_title">Trwa aktualizacja systemu...</string>
+    <string name="configure_input_methods">Skonfiguruj metodę wpisywania</string>
+    <string name="dlg_confirm_kill_storage_users_text">Po włączeniu nośnika USB niektóre używane aplikacje zostaną zatrzymane i mogą być niedostępne do chwili jego wyłączenia.</string>
+    <string name="dlg_confirm_kill_storage_users_title">Włącz nośnik USB</string>
+    <string name="dlg_error_title">Operacja USB nie powiodła się</string>
+    <string name="dlg_ok">OK</string>
+    <string name="ext_media_badremoval_notification_message">Odłącz kartę SD przed jej wyjęciem, aby uniknąć utraty danych.</string>
+    <string name="ext_media_badremoval_notification_title">Karta SD została nieoczekiwanie wyjęta</string>
+    <string name="ext_media_checking_notification_message">Sprawdzanie w poszukiwaniu błędów.</string>
+    <string name="ext_media_checking_notification_title">Przygotowywanie karty SD</string>
+    <string name="ext_media_nofs_notification_message">Karta SD jest pusta lub zawiera nieobsługiwany system plików.</string>
+    <string name="ext_media_nofs_notification_title">Pusta karta SD</string>
+    <string name="ext_media_nomedia_notification_message">Karta SD została wyjęta. Włóż nową kartę.</string>
+    <string name="ext_media_nomedia_notification_title">Usunięta karta SD</string>
+    <string name="ext_media_safe_unmount_notification_message">Możesz bezpiecznie wyjąć kartę SD.</string>
+    <string name="ext_media_safe_unmount_notification_title">Można bezpiecznie usunąć kartę SD</string>
+    <string name="ext_media_unmountable_notification_message">Karta SD jest uszkodzona. Spróbuj ją sformatować.</string>
+    <string name="ext_media_unmountable_notification_title">Uszkodzona karta SD</string>
+    <string name="extmedia_format_button_format">Formatuj</string>
+    <string name="extmedia_format_message">Wszystkie dane na karcie zostaną utracone.</string>
+    <string name="extmedia_format_title">Sformatować kartę SD?</string>
+    <string name="select_input_method">Wybierz metodę wprowadzania</string>
+    <string name="sms_short_code_confirm_message">Czy chcesz wysłać tę wiadomość?</string>
+    <string name="usb_accessory_notification_title">Podłączono akcesorium USB</string>
+    <string name="usb_cd_installer_notification_title">Podłączono jako nośnik instalacyjny.</string>
+    <string name="usb_mtp_notification_title">Transfer plików na komputerze</string>
+    <string name="usb_notification_message">Dotknij, aby wyświetlić pozostałe opcje USB</string>
+    <string name="usb_ptp_notification_title">Transfer zdjęć na komputerze</string>
+    <string name="usb_storage_activity_title">Pamięć masowa USB</string>
+    <string name="usb_storage_button_mount">Włącz nośnik USB</string>
+    <string name="usb_storage_error_message">Wystąpił problem z użyciem karty SD jako nośnika pamięci masowej USB.</string>
+    <string name="usb_storage_message">Nawiązano połączenie z komputerem przez USB. Jeśli chcesz skopiować pliki między komputerem a kartą SD urządzenia z systemem Android, dotknij poniższego przycisku.</string>
+    <string name="usb_storage_notification_message">Dotknij, aby skopiować pliki do/z komputera.</string>
+    <string name="usb_storage_notification_title">Połączenie przez USB</string>
+    <string name="usb_storage_stop_button_mount">Wyłącz nośnik USB</string>
+    <string name="usb_storage_stop_error_message">Wystąpił problem podczas wyłączania nośnika USB. Sprawdź, czy host USB został odłączony, a następnie spróbuj ponownie.</string>
+    <string name="usb_storage_stop_message">Przed wyłączeniem nośnika USB odłącz (wyjmij) kartę SD urządzenia z systemem Android od komputera.</string>
+    <string name="usb_storage_stop_notification_message">Dotknij, aby wyłączyć nośnik USB.</string>
+    <string name="usb_storage_stop_notification_title">Wyłącz nośnik USB</string>
+    <string name="usb_storage_stop_title">Nośnik USB w użyciu</string>
+    <string name="usb_storage_title">Połączenie przez USB</string>
+    <plurals name="wifi_available">
+        <item quantity="one">Dostępna sieć WLAN</item>
+        <item quantity="other">Dostępna sieć WLAN</item>
+    </plurals>
+    <plurals name="wifi_available_detailed">
+        <item quantity="one">Wyświetl dostępną sieć WLAN</item>
+        <item quantity="other">Wyświetl dostępną sieć WLAN</item>
+    </plurals>
+    <string name="wifi_available_sign_in">Zaloguj się do sieci WLAN</string>
+</resources>

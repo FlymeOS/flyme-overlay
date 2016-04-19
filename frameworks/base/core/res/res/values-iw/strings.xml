@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="android_system_label">שרות מערכת של Flyme</string>
+    <string name="anr_activity_application"><xliff:g id="APPLICATION">%2$s</xliff:g> אינו מגיב, לסגור את היישום?</string>
+    <string name="anr_activity_process">היישום <xliff:g id="activity">%1$s</xliff:g> לא מגיב, לסגור?</string>
+    <string name="anr_application_process"><xliff:g id="APPLICATION">%1$s</xliff:g> לא מגיב, לסגור יישום?</string>
+    <string name="anr_process">התהליך <xliff:g id="PROCESS">%1$s</xliff:g> לא מגיב, לסגור אותו?</string>
+    <string name="adb_active_notification_message">לחץ כדי להפעיל איתור באגים ב-USB</string>
+    <string name="adb_active_notification_title">איתור באגים של USB מחובר</string>
+    <string name="android_start_title">המכשיר בעלייה\u2026</string>
+    <string name="android_upgrading_title">המכשיר בשדרוג תוכנה\u2026</string>
+    <string name="configure_input_methods">קבע מקלדת</string>
+    <string name="dlg_confirm_kill_storage_users_text">"‏אם תפעיל אחסון USB, יישומים מסויימים שבהן אתה משתמש יפסיקו לפעול, וייתכן שהן לא יהיו זמינות עד שתכבה את אחסון ה-USB."</string>
+    <string name="dlg_confirm_kill_storage_users_title">"‏הפעל אחסון USB"</string>
+    <string name="dlg_error_title">"‏פעולת USB נכשלה"</string>
+    <string name="dlg_ok">"אישור"</string>
+    <string name="ext_media_badremoval_notification_message">הסר כרטיס SD בצורה מסודרת כדי למנוע אובדן נתונים</string>
+    <string name="ext_media_badremoval_notification_title">כרטיס SD הוסר באופן מפתיח</string>
+    <string name="ext_media_checking_notification_message">בודק שגיאות.</string>
+    <string name="ext_media_checking_notification_title">מכין כרטיס SD</string>
+    <string name="ext_media_nofs_notification_message">כרטיס ה-SD ריק או משתמש במערכת קבצים לא ידועה</string>
+    <string name="ext_media_nofs_notification_title">כרטיס SD ריק</string>
+    <string name="ext_media_nomedia_notification_message">כרטיס ה-SD הוסר, הכנס כרטיס</string>
+    <string name="ext_media_nomedia_notification_title">כרטיס SD הוסר</string>
+    <string name="ext_media_safe_unmount_notification_message">ניתן להסיר כרטיס SD בבטחה</string>
+    <string name="ext_media_safe_unmount_notification_title">כרטיס SD הוסר בהצלחה</string>
+    <string name="ext_media_unmountable_notification_message">כרטיס SD פגום, נסה למחוק אותו.</string>
+    <string name="ext_media_unmountable_notification_title">כרטיס SD פגום</string>
+    <string name="extmedia_format_button_format">"פרמוט"</string>
+    <string name="extmedia_format_message">כל הנתונים בכרטיס ה-SD יימחקו</string>
+    <string name="extmedia_format_title">למחוק כרטיס SD?</string>
+    <string name="select_input_method">בחר מקלדת</string>
+    <string name="usb_accessory_notification_title">"‏מחובר לאביזר USB"</string>
+    <string name="usb_cd_installer_notification_title">"מחובר כמתקין"</string>
+    <string name="usb_mtp_notification_title">ניתן להעביר קבצים באמצעות מחשב PC</string>
+    <string name="usb_notification_message">גע לאפשרויות USB נוספות</string>
+    <string name="usb_ptp_notification_title">ניתן להעביר תמונות באמצעות מחשב PC</string>
+    <string name="usb_storage_activity_title">"‏אמצעי מסוג USB לאחסון בנפח גדול"</string>
+    <string name="usb_storage_button_mount">"‏הפעל אחסון USB"</string>
+    <string name="usb_storage_error_message">שגיאה בשימוש בכרטיס ה-SD כאחסון בנפח גדול</string>
+    <string name="usb_storage_message">אתה מחובר למחשב, גע לאפשרויות העתקת קבצים למחשב או מהמחשב לכרטיס ה-SD</string>
+    <string name="usb_storage_notification_message">"גע כדי להעתיק קבצים למחשב/מהמחשב."</string>
+    <string name="usb_storage_notification_title">ה-USB מחובר</string>
+    <string name="usb_storage_stop_button_mount">"‏כבה אחסון USB"</string>
+    <string name="usb_storage_stop_error_message">"‏היתה בעיה בכיבוי אחסון ה-USB. ודא שביטלת את טעינת מארח ה-USB, ולאחר מכן נסה שוב."</string>
+    <string name="usb_storage_stop_message">לפי כיבוי חיבור ה-USB למחשב יש לנתק באופן בטוח את ההתקן מהמחשב</string>
+    <string name="usb_storage_stop_notification_message">תגע כדי לכבות את אחסון USB.</string>
+    <string name="usb_storage_stop_notification_title">"‏כבה אחסון USB"</string>
+    <string name="usb_storage_stop_title">"‏אחסון USB שנמצא בשימוש"</string>
+    <string name="usb_storage_title">חיבור USB מחובר</string>
+    <plurals name="wifi_available">
+        <item quantity="one">נמצאו רשתות Wi-Fi</item>
+        <item quantity="other">נמצאו רשתות Wi-Fi</item>
+    </plurals>
+    <plurals name="wifi_available_detailed">
+        <item quantity="one">נמצאו רשתות Wi-Fi</item>
+        <item quantity="other">נמצאו רשתות Wi-Fi</item>
+    </plurals>
+    <string name="wifi_available_sign_in">התחבר ל-Wi-Fi</string>
+</resources>

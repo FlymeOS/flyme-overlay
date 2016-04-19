@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="android_system_label">Flyme系統服務</string>
+    <string name="anr_activity_application"><xliff:g id="APPLICATION">%2$s</xliff:g>無響應，要將其關閉嗎？</string>
+    <string name="anr_activity_process"><xliff:g id="ACTIVITY">%1$s</xliff:g>活動無響應，要將其關閉嗎？</string>
+    <string name="anr_application_process"><xliff:g id="APPLICATION">%1$s</xliff:g>無響應，要將其關閉嗎？</string>
+    <string name="anr_process"><xliff:g id="PROCESS">%1$s</xliff:g>進程無響應，要將其關閉嗎？</string>
+    <string name="adb_active_notification_message">輕觸可停用 USB 調試</string>
+    <string name="adb_active_notification_title">"已連接USB偵錯工具"</string>
+    <string name="android_start_title">"系統 正在啟動…"</string>
+    <string name="android_upgrading_title">"正在升級 系統..."</string>
+    <string name="configure_input_methods">"設定輸入法"</string>
+    <string name="dlg_confirm_kill_storage_users_text">"如果您開啟 USB 儲存裝置，則某些正在使用中的應用程式會停止運作，而且可能無法使用，直到關閉 USB 儲存裝置後才會恢復正常。"</string>
+    <string name="dlg_confirm_kill_storage_users_title">"開啟 USB 儲存裝置"</string>
+    <string name="dlg_error_title">"USB 操作失敗"</string>
+    <string name="dlg_ok">"確定"</string>
+    <string name="ext_media_badremoval_notification_message">請先卸載SD 卡，再將其移除，以防數據遺失</string>
+    <string name="ext_media_badremoval_notification_title">SD 卡未正常移除</string>
+    <string name="ext_media_checking_notification_message">"正在檢查錯誤"</string>
+    <string name="ext_media_checking_notification_title">正在準備 SD 卡</string>
+    <string name="ext_media_nofs_notification_message">SD 卡中沒有任何檔案或使用了不支援的檔案系統</string>
+    <string name="ext_media_nofs_notification_title">空 SD 卡</string>
+    <string name="ext_media_nomedia_notification_message">SD 卡已移除，請插入新的 SD 卡</string>
+    <string name="ext_media_nomedia_notification_title">已移除 SD 卡</string>
+    <string name="ext_media_safe_unmount_notification_message">您現在可以安全移除 SD 卡</string>
+    <string name="ext_media_safe_unmount_notification_title">SD 卡已安全移除</string>
+    <string name="ext_media_unmountable_notification_message">SD 卡已損壞，請嘗試重新格式化</string>
+    <string name="ext_media_unmountable_notification_title">SD 卡受損</string>
+    <string name="extmedia_format_button_format">"格式化"</string>
+    <string name="extmedia_format_message">您卡上的所有數據都會遺失</string>
+    <string name="extmedia_format_title">格式化 SD 卡</string>
+    <string name="select_input_method">"選取輸入法"</string>
+    <string name="sms_short_code_confirm_message">確定發送信息?</string>
+    <string name="usb_accessory_notification_title">"已連接到一個 USB 配件"</string>
+    <string name="usb_cd_installer_notification_title">"已作為安裝程式連線"</string>
+    <string name="usb_mtp_notification_title">"可透過電腦傳輸檔案"</string>
+    <string name="usb_notification_message">點擊可選擇其他 USB 連接方式</string>
+    <string name="usb_ptp_notification_title">"可透過電腦傳輸照片"</string>
+    <string name="usb_storage_activity_title">"USB 大量儲存裝置"</string>
+    <string name="usb_storage_button_mount">"開啟 USB 儲存裝置"</string>
+    <string name="usb_storage_error_message">使用SD 卡作為USB大容量儲存裝置時出現問題。</string>
+    <string name="usb_storage_message">您已透過USB連接至計算機。如果您要在計算機和Android裝置的SD卡之間複製檔案，請按下面的按鈕。</string>
+    <string name="usb_storage_notification_message">"輕觸即可將檔案複製到電腦或從電腦複製。"</string>
+    <string name="usb_storage_notification_title">已連接 USB</string>
+    <string name="usb_storage_stop_button_mount">"關閉 USB 儲存裝置"</string>
+    <string name="usb_storage_stop_error_message">"關閉 USB 儲存裝置時發生問題。請檢查您是否已卸載 USB Host，然後再試一次。"</string>
+    <string name="usb_storage_stop_message">在關閉USB儲存裝置前，請從計算機中卸載（“彈出”）Android裝置的SD卡。</string>
+    <string name="usb_storage_stop_notification_message">"輕觸即可關閉 USB 儲存裝置"</string>
+    <string name="usb_storage_stop_notification_title">"關閉 USB 儲存裝置"</string>
+    <string name="usb_storage_stop_title">"USB 儲存裝置正在使用中"</string>
+    <string name="usb_storage_title">已連接 USB</string>
+    <string name="wifi_available_sign_in">登入到Wi-Fi</string>
+</resources>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="android_system_label">Service système Flyme</string>
+    <string name="anr_activity_application"><xliff:g id="APPLICATION">%2$s</xliff:g> ne répond pas, voulez-vous fermer ?</string>
+    <string name="anr_activity_process">L\'activité <xliff:g id="activity">%1$s</xliff:g> ne répond pas, voulez-vous la fermer ?</string>
+    <string name="anr_application_process"><xliff:g id="APPLICATION">%1$s</xliff:g> ne répond pas, l\'arrêter ?</string>
+    <string name="anr_process">Le processus <xliff:g id="PROCESS">%1$s</xliff:g> ne répond pas, voulez-vous le fermer ?</string>
+    <string name="adb_active_notification_message">Appuyez pour désactiver le débogage USB.</string>
+    <string name="adb_active_notification_title">Débogage USB connecté</string>
+    <string name="android_start_title">Le système démarre\u2026</string>
+    <string name="android_upgrading_title">Système en cours de mise à niveau\u2026</string>
+    <string name="configure_input_methods">Définir le mode de saisie</string>
+    <string name="dlg_confirm_kill_storage_users_text">"Si vous activez la mémoire de stockage USB, certaines applications en cours d\'utilisation vont être fermées et risquent de rester indisponibles jusqu\'à ce que la mémoire de stockage USB soit désactivée."</string>
+    <string name="dlg_confirm_kill_storage_users_title">"Activer la mémoire de stockage USB"</string>
+    <string name="dlg_error_title">"Échec du fonctionnement de la mémoire de stockage USB."</string>
+    <string name="dlg_ok">OK</string>
+    <string name="ext_media_badremoval_notification_message">Démontez la carte SD avant de la retirer pour éviter toute perte de données.</string>
+    <string name="ext_media_badremoval_notification_title">Carte SD retirée inopinément</string>
+    <string name="ext_media_checking_notification_message">Vérification des erreurs.</string>
+    <string name="ext_media_checking_notification_title">Préparation de la carte SD</string>
+    <string name="ext_media_nofs_notification_message">La carte SD est vide ou utilise un système de fichiers non pris en charge.</string>
+    <string name="ext_media_nofs_notification_title">Carte SD vierge</string>
+    <string name="ext_media_nomedia_notification_message">Carte SD retirée. Insérer une nouvelle carte.</string>
+    <string name="ext_media_nomedia_notification_title">Carte SD retirée</string>
+    <string name="ext_media_safe_unmount_notification_message">Vous pouvez retirer la carte SD en toute sécurité.</string>
+    <string name="ext_media_safe_unmount_notification_title">Carte SD retirée en toute sécurité</string>
+    <string name="ext_media_unmountable_notification_message">La carte SD est endommagée. Essayez de la reformater.</string>
+    <string name="ext_media_unmountable_notification_title">Carte SD endommagée</string>
+    <string name="extmedia_format_button_format">"Format"</string>
+    <string name="extmedia_format_message">Toutes les données stockées sur votre carte seront perdues.</string>
+    <string name="extmedia_format_title">Formater la carte SD ?</string>
+    <string name="select_input_method">Sélectionner mode saisie</string>
+    <string name="sms_short_code_confirm_message">Envoyer le message ?</string>
+    <string name="usb_accessory_notification_title">"Connecté à un accessoire USB"</string>
+    <string name="usb_cd_installer_notification_title">"Connecté en tant que programme d\'installation"</string>
+    <string name="usb_mtp_notification_title">Transférer les fichiers par câble</string>
+    <string name="usb_notification_message">Appuyez ici pour accéder aux autres options USB.</string>
+    <string name="usb_ptp_notification_title">Les photos peuvent être transférées via PC</string>
+    <string name="usb_storage_activity_title">"Mémoire de stockage de masse USB"</string>
+    <string name="usb_storage_button_mount">"Activer la mémoire de stockage USB"</string>
+    <string name="usb_storage_error_message">Un problème est survenu lors de l\'utilisation de votre carte SD comme mémoire de masse USB.</string>
+    <string name="usb_storage_message">Vous êtes connecté à votre ordinateur via USB. Appuyez sur le bouton ci-dessous si vous voulez copier des fichiers entre votre ordinateur et la carte SD de votre téléphone Android.</string>
+    <string name="usb_storage_notification_message">"Touchez pour copier des fichiers depuis votre ordinateur ou vers celui-ci."</string>
+    <string name="usb_storage_notification_title">USB connecté</string>
+    <string name="usb_storage_stop_button_mount">"Désactiver la mémoire de stockage USB"</string>
+    <string name="usb_storage_stop_error_message">"Un problème est survenu lors de la désactivation de la mémoire de stockage USB. Assurez-vous que l\'hôte USB a bien été désinstallé, puis réessayez."</string>
+    <string name="usb_storage_stop_message">Avant de désactiver le stockage USB, démonter (\"éjecter\") la carte SD de votre téléphone Android depuis votre ordinateur.</string>
+    <string name="usb_storage_stop_notification_message">Toucher ici pour désactiver la mémoire de stockage USB.</string>
+    <string name="usb_storage_stop_notification_title">"Désactiver la mémoire de stockage USB"</string>
+    <string name="usb_storage_stop_title">Stockage USB en cours d\'utilisation</string>
+    <string name="usb_storage_title">USB connecté</string>
+    <string name="wifi_available_sign_in">Connectez-vous au Wifi</string>
+</resources>

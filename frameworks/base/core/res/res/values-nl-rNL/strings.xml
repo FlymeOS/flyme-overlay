@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="android_system_label">Flyme-systeemservice</string>
+    <string name="anr_activity_application"><xliff:g id="APPLICATION">%2$s</xliff:g> reageert niet; wilt u het sluiten?</string>
+    <string name="anr_activity_process">Activiteit <xliff:g id="activity">%1$s</xliff:g> reageert niet; wilt u hem sluiten?</string>
+    <string name="anr_application_process"><xliff:g id="APPLICATION">%1$s</xliff:g> reageert niet: wilt u hem beëindigen?</string>
+    <string name="anr_process">Proces <xliff:g id="PROCESS">%1$s</xliff:g> reageert niet; wilt u het sluiten?</string>
+    <string name="adb_active_notification_message">Tik om USB-foutopsporing uit te schakelen.</string>
+    <string name="adb_active_notification_title">USB-foutopsporing verbonden</string>
+    <string name="android_start_title">Het systeem wordt gestart \u2026</string>
+    <string name="android_upgrading_title">Het systeem wordt geüpgraded \u2026</string>
+    <string name="configure_input_methods">"Invoermethode instellen"</string>
+    <string name="dlg_confirm_kill_storage_users_text">Als u het externe geheugen inschakelt, worden bepaalde apps die u gebruikt gestopt. Deze apps zijn mogelijk pas weer beschikbaar wanneer u het externe geheugen uitschakelt.</string>
+    <string name="dlg_confirm_kill_storage_users_title">Extern geheugen inschakelen</string>
+    <string name="dlg_error_title">USB-bewerking mislukt</string>
+    <string name="dlg_ok">Oké</string>
+    <string name="ext_media_badremoval_notification_message">Ontkoppel de SD-kaart voordat u hem verwijdert om gegevensverlies te voorkomen.</string>
+    <string name="ext_media_badremoval_notification_title">De SD-kaart is onverwacht verwijderd</string>
+    <string name="ext_media_checking_notification_message">Er wordt op fouten gecontroleerd.</string>
+    <string name="ext_media_checking_notification_title">Bezig met voorbereiden van SD-kaart</string>
+    <string name="ext_media_nofs_notification_message">De SD-kaart is leeg of heeft een niet-ondersteund bestandssysteem.</string>
+    <string name="ext_media_nofs_notification_title">Lege SD-kaart</string>
+    <string name="ext_media_nomedia_notification_message">SD-kaart verwijderd. Plaats een nieuw opslagapparaat.</string>
+    <string name="ext_media_nomedia_notification_title">SD-kaart verwijderd</string>
+    <string name="ext_media_safe_unmount_notification_message">U kunt de SD-kaart veilig verwijderen.</string>
+    <string name="ext_media_safe_unmount_notification_title">De SD-kaart is veilig verwijderd</string>
+    <string name="ext_media_unmountable_notification_message">De SD-kaart is beschadigd Probeer het geheugen opnieuw te formatteren.</string>
+    <string name="ext_media_unmountable_notification_title">SD-kaart beschadigd</string>
+    <string name="extmedia_format_button_format">Formatteren</string>
+    <string name="extmedia_format_message">Alle gegevens op de kaart gaan verloren.</string>
+    <string name="extmedia_format_title">SD-kaart formatteren?</string>
+    <string name="select_input_method">"Invoermethode kiezen"</string>
+    <string name="sms_short_code_confirm_message">Sent the message?</string>
+    <string name="usb_accessory_notification_title">Verbonden met een USB-accessoire</string>
+    <string name="usb_cd_installer_notification_title">Verbonden als installatieprogramma</string>
+    <string name="usb_mtp_notification_title">De bestanden kunnen via de pc worden overgedragen</string>
+    <string name="usb_notification_message">Tik voor andere USB-opties</string>
+    <string name="usb_ptp_notification_title">De foto\'s kunnen via de pc worden overgedragen</string>
+    <string name="usb_storage_activity_title">USB-massaopslag</string>
+    <string name="usb_storage_button_mount">Extern geheugen inschakelen</string>
+    <string name="usb_storage_error_message">Er is een probleem opgetreden tijdens het gebruiken van de SD-kaart als USB-massaopslagapparaat.</string>
+    <string name="usb_storage_message">U hebt de telefoon met uw computer verbonden via een USB-kabel. Tik op onderstaande knop als u bestanden tussen uw computer en de SD-kaart wilt kopiëren.</string>
+    <string name="usb_storage_notification_message">Tik om bestanden naar/van uw computer te kopiëren.</string>
+    <string name="usb_storage_notification_title">USB verbonden</string>
+    <string name="usb_storage_stop_button_mount">Extern geheugen uitschakelen</string>
+    <string name="usb_storage_stop_error_message">Er is een probleem opgetreden tijdens het uitschakelen van het externe geheugen Controleer of u de USB-host hebt ontkoppeld en probeer het daarna opnieuw.</string>
+    <string name="usb_storage_stop_message">Ontkoppel (\"verwijder\") de SD-kaart van uw Android-apparaat van uw computer voordat u het externe geheugen uitschakelt.</string>
+    <string name="usb_storage_stop_notification_message">Tik om het externe geheugen uit te schakelen.</string>
+    <string name="usb_storage_stop_notification_title">Extern geheugen uitschakelen</string>
+    <string name="usb_storage_stop_title">Extern geheugen in gebruik</string>
+    <string name="usb_storage_title">USB verbonden</string>
+    <plurals name="wifi_available">
+        <item quantity="one">Wifi beschikbaar</item>
+        <item quantity="other">Wifi beschikbaar</item>
+    </plurals>
+    <plurals name="wifi_available_detailed">
+        <item quantity="one">Beschikbare wifinetwerken bekijken</item>
+        <item quantity="other">Beschikbare wifinetwerken bekijken</item>
+    </plurals>
+    <string name="wifi_available_sign_in">Bezig met aanmelden bij wifinetwerk</string>
+</resources>

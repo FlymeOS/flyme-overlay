@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="android_system_label">Dịch vụ hệ thống Flyme</string>
+    <string name="anr_activity_application"><xliff:g id="APPLICATION">%2$s</xliff:g> không phản hồi, bạn có muốn đóng nó?</string>
+    <string name="anr_activity_process">Hoạt động <xliff:g id="activity">%1$s</xliff:g> không phản hồi, bạn có muốn đóng nó?</string>
+    <string name="anr_application_process"><xliff:g id="APPLICATION">%1$s</xliff:g> không phản hồi, tắt nó?</string>
+    <string name="anr_process">Tiến trình <xliff:g id="PROCESS">%1$s</xliff:g> không phản hồi, bạn có muốn đóng nó?</string>
+    <string name="adb_active_notification_message">Chạm để vô hiệu hóa gỡ lỗi USB.</string>
+    <string name="adb_active_notification_title">Đã kết nối Gỡ lỗi USB</string>
+    <string name="android_start_title">Hệ thống đang khởi động\u2026</string>
+    <string name="android_upgrading_title">Hệ thống đang nâng cấp\u2026</string>
+    <string name="configure_input_methods">"Thiết lập phương pháp nhập liệu"</string>
+    <string name="dlg_confirm_kill_storage_users_text">Nếu bạn bật bộ nhớ USB, một số ứng dụng bạn đang sử dụng sẽ dừng và có thể không khả dụng cho đến khi bạn tắt bộ nhớ USB.</string>
+    <string name="dlg_confirm_kill_storage_users_title">Bật bộ nhớ USB</string>
+    <string name="dlg_error_title">USB không hoạt động</string>
+    <string name="dlg_ok">OK</string>
+    <string name="ext_media_badremoval_notification_message">Tháo thẻ SD trước khi gỡ nhằm tránh mất dữ liệu.</string>
+    <string name="ext_media_badremoval_notification_title">Thẻ SD bị tháo bất ngờ</string>
+    <string name="ext_media_checking_notification_message">Kiểm tra lỗi.</string>
+    <string name="ext_media_checking_notification_title">Đang chuẩn bị thẻ SD</string>
+    <string name="ext_media_nofs_notification_message">Thẻ SD trống hoặc sử dụng hệ thống tập tin không được hỗ trợ.</string>
+    <string name="ext_media_nofs_notification_title">Thẻ SD trống</string>
+    <string name="ext_media_nomedia_notification_message">Đã tháo thẻ SD. Gắn cái mới.</string>
+    <string name="ext_media_nomedia_notification_title">Thẻ SD đã bị tháo</string>
+    <string name="ext_media_safe_unmount_notification_message">Bạn có thể tháo thẻ SD an toàn.</string>
+    <string name="ext_media_safe_unmount_notification_title">Thẻ SD được tháo an toàn</string>
+    <string name="ext_media_unmountable_notification_message">Thẻ SD bị hỏng. Thử định dạng nó.</string>
+    <string name="ext_media_unmountable_notification_title">Thẻ SD đã bị hỏng</string>
+    <string name="extmedia_format_button_format">Định dạng</string>
+    <string name="extmedia_format_message">Tất cả dữ liệu trên thẻ của bạn sẽ bị mất.</string>
+    <string name="extmedia_format_title">Định dạng thẻ SD?</string>
+    <string name="select_input_method">"Chọn phương pháp nhập liệu"</string>
+    <string name="sms_short_code_confirm_message">Đã gửi tin nhắn?</string>
+    <string name="usb_accessory_notification_title">Được kết nối với một phụ kiện USB</string>
+    <string name="usb_cd_installer_notification_title">Được kết nối như một trình cài đặt</string>
+    <string name="usb_mtp_notification_title">Truyền tải tập tin qua cáp</string>
+    <string name="usb_notification_message">Chạm để có các tùy chọn USB khác</string>
+    <string name="usb_ptp_notification_title">Ảnh có thể được truyền tải thông qua PC</string>
+    <string name="usb_storage_activity_title">Bộ nhớ khối USB</string>
+    <string name="usb_storage_button_mount">Bật bộ nhớ USB</string>
+    <string name="usb_storage_error_message">Đã xảy ra sự cố khi sử dụng thẻ SD của bạn như bộ nhớ USB dung lượng lớn.</string>
+    <string name="usb_storage_message">Bạn đã kết nối với máy tính thông qua USB. Chạm vào nút bên dưới nếu bạn muốn sao chép các tập tin giữa máy tính và thẻ SD trên thiết bị Android của bạn.</string>
+    <string name="usb_storage_notification_message">Chạm để sao chép tập tin tới/từ máy tính của bạn.</string>
+    <string name="usb_storage_notification_title">Đã kết nối USB</string>
+    <string name="usb_storage_stop_button_mount">Tắt bộ nhớ USB</string>
+    <string name="usb_storage_stop_error_message">Đã xảy ra vấn đề khi tắt bộ nhớ USB. Kiểm tra xem bạn đã gỡ bỏ máy chủ USB chưa, sau đó thử lại.</string>
+    <string name="usb_storage_stop_message">Trước khi tắt bộ nhớ USB, hãy ngắt kết nối (\"đẩy\") thẻ SD trên thiết bị Android của bạn ra khỏi máy tính.</string>
+    <string name="usb_storage_stop_notification_message">Chạm để tắt bộ nhớ USB.</string>
+    <string name="usb_storage_stop_notification_title">Tắt bộ nhớ USB</string>
+    <string name="usb_storage_stop_title">Bộ nhớ USB đang sử dụng</string>
+    <string name="usb_storage_title">Đã kết nối USB</string>
+    <string name="wifi_available_sign_in">Đăng nhập vào WLAN</string>
+</resources>

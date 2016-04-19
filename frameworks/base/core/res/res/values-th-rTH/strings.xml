@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="android_system_label">บริการระบบ Flyme</string>
+    <string name="anr_activity_application"><xliff:g id="APPLICATION">%2$s</xliff:g> ไม่ตอบสนอง คุณต้องการปิดหรือไม่?</string>
+    <string name="anr_activity_process">กิจกรรม <xliff:g id="activity">%1$s</xliff:g> ไม่ตอบสนอง คุณต้องการปิดหรือไม่?</string>
+    <string name="anr_application_process"><xliff:g id="APPLICATION">%1$s</xliff:g> ไม่ตอบสนอง ปิดใช้งานหรือไม่?</string>
+    <string name="anr_process">กระบวนการ <xliff:g id="PROCESS">%1$s</xliff:g> ไม่ตอบสนอง คุณต้องการปิดหรือไม่?</string>
+    <string name="adb_active_notification_message">สัมผัสเพื่อปิดใช้งานการแก้ไขจุดบกพร่องผ่าน USB</string>
+    <string name="adb_active_notification_title">เชื่อมต่อการแก้ไขจุดบกพร่องผ่าน USB แล้ว</string>
+    <string name="android_start_title">กำลังเริ่มใช้งานระบบ\u2026</string>
+    <string name="android_upgrading_title">กำลังอัพเกรดระบบ\u2026</string>
+    <string name="configure_input_methods">"ตั้งค่าวิธีการป้อนข้อมูล"</string>
+    <string name="dlg_confirm_kill_storage_users_text">หากคุณเปิดการใช้งานอุปกรณ์เก็บข้อมูล USB บางแอปที่คุณกำลังใช้จะหยุดทำงาน และอาจไม่พร้อมใช้จนกว่าคุณจะปิดการทำงานอุปกรณ์เก็บข้อมูล USB</string>
+    <string name="dlg_confirm_kill_storage_users_title">เปิดการใช้งานอุปกรณ์เก็บข้อมูล USB</string>
+    <string name="dlg_error_title">การดำเนินการ USB ผิดพลาด</string>
+    <string name="dlg_ok">ตกลง</string>
+    <string name="ext_media_badremoval_notification_message">ถอนการติดตั้ง SD การ์ดก่อนที่จะนำออกเพื่อหลีกเลี่ยงการสูญหายของข้อมูล</string>
+    <string name="ext_media_badremoval_notification_title">ถอด SD การ์ดออกอย่างกระทันหัน</string>
+    <string name="ext_media_checking_notification_message">กำลังตรวจหาข้อผิดพลาด</string>
+    <string name="ext_media_checking_notification_title">การเตรียม SD การ์ด</string>
+    <string name="ext_media_nofs_notification_message">SD การ์ดว่างเปล่าหรือใช้ระบบไฟล์ที่ไม่สนับสนุนการทำงาน</string>
+    <string name="ext_media_nofs_notification_title">SD การ์ดว่างเปล่า</string>
+    <string name="ext_media_nomedia_notification_message">นำ SD การ์ดออกแล้ว ใส่การ์ดอันใหม่</string>
+    <string name="ext_media_nomedia_notification_title">นำ SD การ์ดออก</string>
+    <string name="ext_media_safe_unmount_notification_message">คุณสามารถถอด SD การ์ดออกได้อย่างปลอดภัย</string>
+    <string name="ext_media_safe_unmount_notification_title">SD การ์ดถูกถอดออกอย่างปลอดภัย</string>
+    <string name="ext_media_unmountable_notification_message">SD การ์ดชำรุด ลองฟอร์แมตการ์ดอีกครั้ง</string>
+    <string name="ext_media_unmountable_notification_title">SD การ์ดเสียหาย</string>
+    <string name="extmedia_format_button_format">รูปแบบ</string>
+    <string name="extmedia_format_message">ข้อมูลทั้งหมดบนการ์ดของคุณจะสูญหาย</string>
+    <string name="extmedia_format_title">ฟอร์แมต SD การ์ดหรือไม่?</string>
+    <string name="select_input_method">"เลือกวิธีป้อนข้อมูล"</string>
+    <string name="sms_short_code_confirm_message">ส่งข้อความหรือไม่?</string>
+    <string name="usb_accessory_notification_title">เชื่อมต่อกับอุปกรณ์เสริม USB นี้</string>
+    <string name="usb_cd_installer_notification_title">เชื่อมต่อเป็นตัวติดตั้ง</string>
+    <string name="usb_mtp_notification_title">การถ่ายโอนไฟล์ผ่านสายเคเบิล</string>
+    <string name="usb_notification_message">สัมผัสตัวเลือก USB อื่นๆ</string>
+    <string name="usb_ptp_notification_title">ไม่สามารถส่งต่อภาพผ่าน PC ได้</string>
+    <string name="usb_storage_activity_title">อุปกรณ์เก็บข้อมูลขนาดใหญ่ USB</string>
+    <string name="usb_storage_button_mount">เปิดอุปกรณ์เก็บข้อมูล USB</string>
+    <string name="usb_storage_error_message">ปัญหาเกิดขึ้นในระหว่างการใช้งาน SD การ์ดของคุณเป็นที่จัดเก็บข้อมูล USB ขนาดใหญ่</string>
+    <string name="usb_storage_message">คุณได้เชื่อมต่อคอมพิวเตอร์ของคุณผ่าน USB แล้ว สัมผัสที่ปุ่มด้านล่าง หากคุณต้องการคัดลอกไฟล์ระหว่างคอมพิวเตอร์ของคุณและ SD การ์ดในอุปกรณ์ Android ของคุณ</string>
+    <string name="usb_storage_notification_message">สัมผัสเพื่อคัดลอกไฟล์ไปยัง/จากคอมพิวเตอร์ของคุณ</string>
+    <string name="usb_storage_notification_title">เชื่อมต่อ USB แล้ว</string>
+    <string name="usb_storage_stop_button_mount">ปิดอุปกรณ์เก็บข้อมูล USB</string>
+    <string name="usb_storage_stop_error_message">เกิดปัญหาระหว่างปิดอุปกรณ์เก็บข้อมูล USB ตรวจสอบว่าคุณได้ถอนการติดตั้งอุปกรณ์ USB แล้ว จากนั้นลองใหม่อีกครั้ง</string>
+    <string name="usb_storage_stop_message">ก่อนการปิดใช้งานที่จัดเก็บข้อมูล USB ให้ถอนการติดตั้ง (\"ดีดออก\") SD การ์ดในอุปกรณ์ Android ของคุณออกจากคอมพิวเตอร์</string>
+    <string name="usb_storage_stop_notification_message">สัมผัสเพื่อปิดอุปกรณ์เก็บข้อมูล USB</string>
+    <string name="usb_storage_stop_notification_title">ปิดอุปกรณ์เก็บข้อมูล USB</string>
+    <string name="usb_storage_stop_title">มีการใช้งานอุปกรณ์เก็บข้อมูล USB</string>
+    <string name="usb_storage_title">เชื่อมต่อ USB แล้ว</string>
+    <string name="wifi_available_sign_in">เข้าสู่ระบบ WLAN</string>
+</resources>

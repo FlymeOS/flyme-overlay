@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="anr_activity_application"><xliff:g id="APPLICATION">%2$s</xliff:g> isn\'t responding,Do you want to close it?</string>
+    <!-- Text of the alert that is displayed when an application is not responding. -->
+    <string name="anr_activity_process">Activity <xliff:g id="activity">%1$s</xliff:g> isn\'t responding, do you want to close it?</string>
+    <!-- Text of the alert that is displayed when an application is not responding. -->
+    <string name="anr_application_process"><xliff:g id="APPLICATION">%1$s</xliff:g> is not responding, shut it down?</string>
+    <!-- Text of the alert that is displayed when an application is not responding. -->
+    <string name="anr_process">Process <xliff:g id="PROCESS">%1$s</xliff:g> isn\'t responding,Do you want to close it?</string>
+    <string name="android_system_label">Flyme system service</string>
+    <string name="configure_input_methods">"Set up input method"</string>
+    <string name="select_input_method">"Select input method"</string>
+    <string name="wifi_available_sign_in">Login to WLAN</string>
+    <string name="android_upgrading_title">System is upgrading\u2026</string>
+    <string name="android_start_title">System is starting\u2026</string>
+    <string name="usb_storage_activity_title">USB mass storage</string>
+    <string name="usb_storage_title">USB connected</string>
+    <string name="usb_storage_message">You\'ve connected to your computer via USB. Touch the button below if you want to copy files between your computer and your Android\'s SD card.</string>
+    <string name="usb_storage_button_mount">Turn on USB storage</string>
+    <string name="usb_storage_error_message">A problem occurred while using your SD card as USB mass storage.</string>
+    <string name="usb_storage_notification_title">USB connected</string>
+    <string name="usb_storage_notification_message">Touch to copy files to/from your computer.</string>
+    <string name="usb_storage_stop_notification_title">Turn off USB storage</string>
+    <string name="usb_storage_stop_notification_message">Touch to turn off USB storage.</string>
+    <string name="usb_storage_stop_title">USB storage in use</string>
+    <string name="usb_storage_stop_message">Before turning off USB storage, unmount (\"eject\") your Android\'s SD card from your computer.</string>
+    <string name="usb_storage_stop_button_mount">Turn off USB storage</string>
+    <string name="usb_storage_stop_error_message">There was a problem turning off USB storage. Check that you\'ve unmounted the USB host, then try again.</string>
+    <string name="dlg_confirm_kill_storage_users_title">Turn on USB storage</string>
+    <string name="dlg_confirm_kill_storage_users_text">If you turn on USB storage, some apps you\'re using will stop and may be unavailable until you turn off USB storage.</string>
+    <string name="dlg_error_title">USB operation failed</string>
+    <string name="dlg_ok">OK</string>
+    <string name="usb_mtp_notification_title">Transfer files via cable</string>
+    <string name="usb_ptp_notification_title">Photos can be transferred via PC</string>
+    <string name="usb_cd_installer_notification_title">Connected as an installer</string>
+    <string name="usb_accessory_notification_title">Connected to a USB accessory</string>
+    <string name="usb_notification_message">Touch for other USB options</string>
+    <string name="extmedia_format_title">Format SD card?</string>
+    <string name="extmedia_format_message">All data on your card will be lost.</string>
+    <string name="extmedia_format_button_format">Format</string>
+    <string name="adb_active_notification_title">USB debugging connected</string>
+    <string name="adb_active_notification_message">Touch to disable USB debugging</string>
+    <string name="ext_media_checking_notification_title">Preparing SD card</string>
+    <string name="ext_media_checking_notification_message">Checking for errors.</string>
+    <string name="ext_media_nofs_notification_title">Blank SD card</string>
+    <string name="ext_media_nofs_notification_message">SD card is blank or uses unsupported filesystem.</string>
+    <string name="ext_media_unmountable_notification_title">Damaged SD card</string>
+    <string name="ext_media_unmountable_notification_message">SD card is damaged. Try reformatting it.</string>
+    <string name="ext_media_badremoval_notification_title">SD card unexpectedly removed</string>
+    <string name="ext_media_badremoval_notification_message">Unmount SD card before removing to avoid data loss.</string>
+    <string name="ext_media_safe_unmount_notification_title">SD card is safely removed</string>
+    <string name="ext_media_safe_unmount_notification_message">You can safely remove SD card.</string>
+    <string name="ext_media_nomedia_notification_title">Removed SD card</string>
+    <string name="ext_media_nomedia_notification_message">SD card removed. Insert a new one.</string>
+
+    <string name="sms_short_code_confirm_message">Sent the message?</string>
+
+    <string name="description_direction_right">@null</string>
+    <string name="description_direction_left">@null</string>
+    <string name="description_target_search">@null</string>
+    <string name="description_direction_up">@null</string>
+
+    <add-resource type="string" name="ellipsis" />
+    <string name="ellipsis">"..."</string>
+    <add-resource type="string" name="ellipsis_two_dots" />
+    <string name="ellipsis_two_dots">"‥"</string>
+</resources>

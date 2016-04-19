@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="android_system_label">សេវាប្រព័ន្ធ Flyme</string>
+    <string name="anr_activity_application"><xliff:g id="APPLICATION">%2$s</xliff:g> មិនមានការឆ្លើយតប តើអ្នកចង់បិទវាទេ?</string>
+    <string name="anr_activity_process">សកម្មភាព <xliff:g id="activity">%1$s</xliff:g>មិនឆ្លើយតប តើអ្នកចង់បិទវាទេ?</string>
+    <string name="anr_application_process"><xliff:g id="APPLICATION">%1$s</xliff:g> មិនមានការឆ្លើយតប បិទវាឬ?</string>
+    <string name="anr_process">ដំណើរការ <xliff:g id="PROCESS">%1$s</xliff:g> មិនឆ្លើយតប តើអ្នកចង់បិទវាទេ?</string>
+    <string name="adb_active_notification_message">ចុចដើម្បីកុំឲ្យ USB ជួសជុលការខូចខាត</string>
+    <string name="adb_active_notification_title">ការកែតម្រូវកំហុសនៃUSB ត្រូវបានភ្ជាប់</string>
+    <string name="android_start_title">ប្រព័ន្ធកំពុងចាប់ផ្តើម\u2026</string>
+    <string name="android_upgrading_title">ប្រព័ន្ធ​កំពុង​ដំឡើង​វើសហ្សឹន​\u2026</string>
+    <string name="configure_input_methods">"កំណត់វិធីបញ្ចូលទិន្នន័យ"</string>
+    <string name="dlg_confirm_kill_storage_users_text">ប្រសិនបើអ្នកប្រើកម្មវិធីផ្លាស់ USB កម្មវិធីខ្លះដែលអ្នកកំពុងប្រើនឹឈប់ដំណើរការង ហើយប្រហែលជាអាចមិនដំណើរការរហូតទាល់តែអ្នកបិទផ្លាស់ USB នេះចេញ។</string>
+    <string name="dlg_confirm_kill_storage_users_title">បើក​ឧបករណ៍​ផ្ទុក​ USB</string>
+    <string name="dlg_error_title">ការដំណើរការរបស់ USB មិនបានសម្រេច</string>
+    <string name="dlg_ok">យល់ព្រម</string>
+    <string name="ext_media_badremoval_notification_message">ដកកាត SD មុននឹងយកវាចេញ ដើម្បីជៀសវាងការបាត់បង់ទិន្នន័យ។</string>
+    <string name="ext_media_badremoval_notification_title">កាត SD ត្រូវបានយកចេញដោយមិនដឹងខ្លួន</string>
+    <string name="ext_media_checking_notification_message">ឆែកមើលពីមូលហេតុដែលវាមិនដំណើរការ</string>
+    <string name="ext_media_checking_notification_title">កំពុង​រៀបចំកាត SD</string>
+    <string name="ext_media_nofs_notification_message">កាត SD នៅទទេ ឬប្រើប្រាស់ប្រព័ន្ធឯកសារដែលមិនអាចប្រើជាមួយវាបាន</string>
+    <string name="ext_media_nofs_notification_title">កាត SD ទទេ</string>
+    <string name="ext_media_nomedia_notification_message">កាត SD ត្រូវបានយកចេញ បញ្ចូលកាត SD ថ្មី</string>
+    <string name="ext_media_nomedia_notification_title">យកកាត SD ចេញ</string>
+    <string name="ext_media_safe_unmount_notification_message">អ្នកអាចដកកាត SD ដោយសុវត្ថិភាព។</string>
+    <string name="ext_media_safe_unmount_notification_title">កាត SD ត្រូវបានដកចេញដោយសុវត្ថិភាព</string>
+    <string name="ext_media_unmountable_notification_message">កាត SD ខូច។ ព្យាយាមដំឡើងវាឲ្យដើរឡើងវិញ។</string>
+    <string name="ext_media_unmountable_notification_title">កាត SD ខូច</string>
+    <string name="extmedia_format_button_format">ទម្រង់</string>
+    <string name="extmedia_format_message">ទិន្នន័យទាំងអស់នៅក្នុងកាតរបស់អ្នកនឹងបាត់។</string>
+    <string name="extmedia_format_title">តើសម្អាតកាត SDឬ?</string>
+    <string name="select_input_method">"ជ្រើសវិធីសាស្ត្រ​នៃធាតុចូល"</string>
+    <string name="sms_short_code_confirm_message">បានផ្ញើសារ?</string>
+    <string name="usb_accessory_notification_title">ត្រូវភ្ជាប់ទៅនឹងឧបករណ៍ USB</string>
+    <string name="usb_cd_installer_notification_title">ភ្ជាប់ឧបករណ៍បញ្ចូលកម្ម</string>
+    <string name="usb_mtp_notification_title">ឯកសារអាចផ្ទេរតាមរយៈខ្សែ​</string>
+    <string name="usb_notification_message">ចុចសម្រាប់ជ្រើសរើស USB ផ្សេងទៀត</string>
+    <string name="usb_ptp_notification_title">អាចបញ្ជូនរូបថតតាមរយៈកុំព្យូទ័រផ្ទាល់ខ្លួនបាន</string>
+    <string name="usb_storage_activity_title">កន្លែងផ្ទុក USB ធំ</string>
+    <string name="usb_storage_button_mount">បើក​ឧបករណ៍​ផ្ទុក​ USB</string>
+    <string name="usb_storage_error_message">មានបញ្ហាកើតឡើងនៅពេលប្រើកាត SD របស់អ្នកជាកន្លែងផ្ទុក USB ធំ។</string>
+    <string name="usb_storage_message">អ្នកបានភ្ជាប់ឧបករណ៍ជាមួយកុំព្យូទ័ររបស់អ្នកតាមរយៈ USB។ ចុចប៊ូតុងខាងក្រោម ប្រសិនបើអ្នកចង់ចម្លងឯកសាររវាងកុំព្យូទ័ររបស់អ្នក និងកាត SD នៃប្រព័ន្ធ Android របស់អ្នក</string>
+    <string name="usb_storage_notification_message">ចុចដើម្បីចម្លងឯកសារទៅ/ពីកុំព្យូទ័ររបស់អ្នក។</string>
+    <string name="usb_storage_notification_title">បានភ្ជាប់ USB</string>
+    <string name="usb_storage_stop_button_mount">បិទកន្លែងផ្ទុក USB</string>
+    <string name="usb_storage_stop_error_message">មានបញ្ហាកើតឡើង នៅពេលបិទUSB ពិនិត្យមើលថាតើអ្នកបានដក USB ចេញហើយឬនៅ បន្ទាប់មកព្យាយាមម្តងទៀត។</string>
+    <string name="usb_storage_stop_message">មុននឹងបិទផ្លាស់ USB ដក (\"ទាញ\") កាត SD ប្រព័ន្ធ Android របស់អ្នកចេញពីកុំព្យូទ័ររបស់អ្នក។</string>
+    <string name="usb_storage_stop_notification_message">ចុចដើម្បីបិទផ្លាស់ USB</string>
+    <string name="usb_storage_stop_notification_title">បិទកន្លែងផ្ទុក USB</string>
+    <string name="usb_storage_stop_title">កន្លែងផ្ទុក USB កំពុងជាប់រវល់</string>
+    <string name="usb_storage_title">បានភ្ជាប់ USB</string>
+    <plurals name="wifi_available">
+        <item quantity="one">មានបណ្តាញ WLAN</item>
+        <item quantity="other">មានបណ្តាញ WLAN</item>
+    </plurals>
+    <plurals name="wifi_available_detailed">
+        <item quantity="one">បើលមើលបណ្តាញ WLAN ដែលមាន</item>
+        <item quantity="other">បើលមើលបណ្តាញ WLAN ដែលមាន</item>
+    </plurals>
+    <string name="wifi_available_sign_in">ចូលក្នុងបណ្តាញ WLAN</string>
+</resources>

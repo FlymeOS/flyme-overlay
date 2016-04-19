@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="android_system_label">Serviço do sistema Flyme</string>
+    <string name="anr_activity_application"><xliff:g id="APPLICATION">%2$s</xliff:g> não está a responder. Pretende fechá-lo?</string>
+    <string name="anr_activity_process">A atividade <xliff:g id="activity">%1$s</xliff:g> não está a responder. Pretende fechá-la?</string>
+    <string name="anr_application_process"><xliff:g id="APPLICATION">%1$s</xliff:g> não está a responder. Encerrar?</string>
+    <string name="anr_process">O processo <xliff:g id="PROCESS">%1$s</xliff:g> não está a responder. Pretende fechá-lo?</string>
+    <string name="adb_active_notification_message">Toque para desativar a depuração do USB.</string>
+    <string name="adb_active_notification_title">Depuração USB ligada</string>
+    <string name="android_start_title">O sistema está a iniciar\u2026</string>
+    <string name="android_upgrading_title">O sistema está a atualizar\u2026</string>
+    <string name="configure_input_methods">"Definir métodos de introdução"</string>
+    <string name="dlg_confirm_kill_storage_users_text">Se ligar o armazenamento USB, algumas aplicações que estão a ser utilizadas serão interrompidas e poderão ficar indisponíveis até desligar o armazenamento USB.</string>
+    <string name="dlg_confirm_kill_storage_users_title">Ligar o armazenamento USB</string>
+    <string name="dlg_error_title">A operação USB falhou</string>
+    <string name="dlg_ok">OK</string>
+    <string name="ext_media_badremoval_notification_message">Desmonte o cartão SD antes de remover para evitar perda de dados.</string>
+    <string name="ext_media_badremoval_notification_title">Cartão SD removido inesperadamente</string>
+    <string name="ext_media_checking_notification_message">À procura de erros.</string>
+    <string name="ext_media_checking_notification_title">A preparar o cartão SD</string>
+    <string name="ext_media_nofs_notification_message">O cartão SD está vazio ou utiliza um sistema de ficheiros não suportado.</string>
+    <string name="ext_media_nofs_notification_title">Cartão SD em branco</string>
+    <string name="ext_media_nomedia_notification_message">Cartão SD removido. Insira um novo.</string>
+    <string name="ext_media_nomedia_notification_title">Cartão SD removido</string>
+    <string name="ext_media_safe_unmount_notification_message">Pode remover o cartão SD com segurança.</string>
+    <string name="ext_media_safe_unmount_notification_title">Cartão SD removido com segurança</string>
+    <string name="ext_media_unmountable_notification_message">O cartão SD está danificado. Experimente formatá-lo novamente.</string>
+    <string name="ext_media_unmountable_notification_title">Cartão SD danificado</string>
+    <string name="extmedia_format_button_format">Formato</string>
+    <string name="extmedia_format_message">Todos os dados no seu cartão serão perdidos.</string>
+    <string name="extmedia_format_title">Pretende formatar cartão SD?</string>
+    <string name="select_input_method">"Selecionar o método de introdução"</string>
+    <string name="sms_short_code_confirm_message">Enviar a mensagem?</string>
+    <string name="usb_accessory_notification_title">Conectado a um acessório USB</string>
+    <string name="usb_cd_installer_notification_title">Ligado como um instalador</string>
+    <string name="usb_mtp_notification_title">Ficheiros transferidos por cabo</string>
+    <string name="usb_notification_message">Toque para obter outras opções USB.</string>
+    <string name="usb_ptp_notification_title">As fotografias podem ser transferidas através do PC</string>
+    <string name="usb_storage_activity_title">Armazenamento USB em massa</string>
+    <string name="usb_storage_button_mount">Ligar o armazenamento USB</string>
+    <string name="usb_storage_error_message">Ocorreu um problema enquanto utiliza o seu cartão SD para armazenamento USB em massa.</string>
+    <string name="usb_storage_message">Ligou-se ao computador via USB. Toque no botão abaixo se pretender copiar ficheiros entre o seu computador e cartão SD do seu Android.</string>
+    <string name="usb_storage_notification_message">Toque para copiar ficheiros para/do seu computador.</string>
+    <string name="usb_storage_notification_title">Ligado por USB</string>
+    <string name="usb_storage_stop_button_mount">Desligar o armazenamento USB</string>
+    <string name="usb_storage_stop_error_message">Houve um problema ao desligar o armazenamento USB. Verifique se desmontou o anfitrião USB. Em seguida, tente novamente.</string>
+    <string name="usb_storage_stop_message">Antes de desligar o armazenamento USB, desmonte (\"ejetar\") o cartão SD do Android do seu computador.</string>
+    <string name="usb_storage_stop_notification_message">Toque para desligar o armazenamento USB.</string>
+    <string name="usb_storage_stop_notification_title">Desligar o armazenamento USB</string>
+    <string name="usb_storage_stop_title">Armazenamento USB em utilização</string>
+    <string name="usb_storage_title">Ligado por USB</string>
+    <plurals name="wifi_available">
+        <item quantity="one">WLAN disponível</item>
+        <item quantity="other">WLAN disponível</item>
+    </plurals>
+    <plurals name="wifi_available_detailed">
+        <item quantity="one">Ver WLAN disponíveis</item>
+        <item quantity="other">Ver WLAN disponíveis</item>
+    </plurals>
+    <string name="wifi_available_sign_in">Iniciar sessão a WLAN</string>
+</resources>

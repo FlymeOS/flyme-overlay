@@ -1,0 +1,82 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0,user-scalable=no" name="viewport" id="viewport">
+<title>דף אינטרנט לא זמין</title>
+<style type="text/css">
+body {width:100%; height:100%;background-color: fafafa;color:#b8b8b8; padding: 0; margin: 0; font-family:Arial, Helvetica, sans-serif;direction: ltr; text-align: center;}
+div{margin:0; padding:0;}
+#content{position: absolute; padding:0; overflow: hidden; top:-60;left:0;bottom:0;right:0;display:table; text-align: center; height:auto;width:auto;}
+a{margin:0; padding:0;}
+a:link, a:visited, a:active, a:hover{color: #32a5e7; text-decoration: none;}
+strong{margin:0; padding: 0;}
+p{margin:0; padding: 0;}
+</style>
+		<script type="text/javascript">
+
+			function getText(el) {
+				return el.innerText || el.textContent;
+			}
+			
+			function setText(el, text) {
+				if (el.innerText) {
+					el.innerText = text;
+				} else if (el.textContent) {
+					el.textContent = text;
+				}
+			}
+
+			function upToCenter() {
+				var content = document.getElementById("content"); 
+				var hr = document.getElementById("hr");
+				var text = document.getElementById("text");
+				content.style.width = Math.max(text.offsetWidth,hr.offsetWidth);
+				content.style.margin = "auto";
+			}
+		
+			function updateEllipsis(container, label) {
+				if (label.title != "") {
+					setText(label, label.title);
+					label.title = "";
+				}
+
+				label.href=location.href;
+				setText(label,label.href);
+				
+				if (container.scrollWidth > container.offsetWidth) {
+					var text = getText(label);
+					//此处重要，利用container的实际宽度和显示宽度的比例计算出文字显示的个数，截取开头和结尾部分字符，中间无法显示部分打点显示；
+					var len = container.offsetWidth / container.scrollWidth * text.length;
+					setText(label, text.substring(0, (Math.floor(len) - 1)/2) + ".." + text.substring(text.length - (Math.floor(len) - 1)/2, text.length) );
+					label.title = text;
+				}
+
+				upToCenter();
+			}
+
+			function init() {
+				var div1 = document.getElementById("div1");
+				var url = document.getElementById("url");
+				updateEllipsis(div1, url);
+			}
+
+		</script>
+</head>
+<body onload="init();">
+    <div id="content">
+            <div style="margin-bottom:12px;font-size:18px; color: rgba(0,0,0,0.5); height:18px">דף אינטרנט לא זמין</div>
+
+		<div id="div1" style="white-space:nowrap; max-width: 300px;height: 14px;">
+			<a id="url" href="%s" style="display: block;color: rgba(0x32,0xa5,0xe7,1); text-decoration: none; height:14px; font-size:14px;">%s</a> 
+		</div>
+	  
+	    	<hr id="hr" style="opacity:0.15; color:#000000; border:none;border-top:1px solid black; margin-top: 17px; margin-bottom: 15px; height:0px;display: block;">
+
+		<div id="text" style="margin: auto; padding:0 14px 0 6px; display:table; color: rgba(0,0,0,0.3); width:auto; text-align: left;">
+			<div style="height:20px; line-height:20px;"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAQAAAAAYLlVAAAAdUlEQVRo3u3UsQ2AIBBG4Rcr18A5MNRo2H8dCxuNVBZHou9jgPs5jgNJkiRJ0lsTiUylkklM0eVnCu1yCnPs7e/lzwiBXUiP8o1GiguQuwFyXIC9G2AfHaD+6AmGD+Hwbzh8EZ1dWFjZ2FhZ4lexJEmSJH3HARrGId39swNPAAAAAElFTkSuQmCC" style="height: 20px;vertical-align:text-bottom;" />אין רשת או חיבור נתונים</div>
+			<div style="margin: 6px 0px; line-height:20px;"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAQAAAAAYLlVAAAAdUlEQVRo3u3UsQ2AIBBG4Rcr18A5MNRo2H8dCxuNVBZHou9jgPs5jgNJkiRJ0lsTiUylkklM0eVnCu1yCnPs7e/lzwiBXUiP8o1GiguQuwFyXIC9G2AfHaD+6AmGD+Hwbzh8EZ1dWFjZ2FhZ4lexJEmSJH3HARrGId39swNPAAAAAElFTkSuQmCC" style="height: 20px;vertical-align:text-bottom;" />דף זה עשוי באופן זמני אינו זמין</div>
+			<div style="height:20px; line-height:20px;"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAQAAAAAYLlVAAAAdUlEQVRo3u3UsQ2AIBBG4Rcr18A5MNRo2H8dCxuNVBZHou9jgPs5jgNJkiRJ0lsTiUylkklM0eVnCu1yCnPs7e/lzwiBXUiP8o1GiguQuwFyXIC9G2AfHaD+6AmGD+Hwbzh8EZ1dWFjZ2FhZ4lexJEmSJH3HARrGId39swNPAAAAAElFTkSuQmCC" style="height: 20px;vertical-align:text-bottom;" />כתובת האתר אינה נכונה</div>
+		</div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="anr_activity_application"><xliff:g id="APPLICATION">%2$s</xliff:g> nereaguje. Chcete ji uzavřít?</string>
+    <string name="anr_activity_process">Aktivita <xliff:g id="activity">%1$s</xliff:g> nereaguje, chcete ji uzavřít?</string>
+    <string name="anr_application_process"><xliff:g id="APPLICATION">%1$s</xliff:g> nereaguje, vypnout?</string>
+    <string name="anr_process">Proces <xliff:g id="PROCESS">%1$s</xliff:g> nereaguje. Chcete jej uzavřít?</string>
+    <string name="adb_active_notification_message">Dotykem zakážete ladění přes rozhraní USB.</string>
+    <string name="adb_active_notification_title">Ladění přes rozhraní USB připojeno</string>
+    <string name="android_start_title">Systém se spouští\u2026</string>
+    <string name="android_upgrading_title">Probíhá upgrade systému\u2026</string>
+    <string name="configure_input_methods">Nastavit metodu zadávání</string>
+    <string name="dlg_confirm_kill_storage_users_text">Pokud zapnete úložiště USB, dojde k zastavení některých používaných aplikací. Tyto aplikace pravděpodobně nebudou k dispozici až do vypnutí úložiště USB.</string>
+    <string name="dlg_confirm_kill_storage_users_title">Zapnout úložiště USB</string>
+    <string name="dlg_error_title">USB operace se nezdařila</string>
+    <string name="dlg_ok">OK</string>
+    <string name="ext_media_badremoval_notification_message">Před odebráním karty SD ji nejprve odpojte. Zabráníte tak ztrátě dat.</string>
+    <string name="ext_media_badremoval_notification_title">Karta SD byla neočekávaně vyjmuta.</string>
+    <string name="ext_media_checking_notification_message">Kontrola chyb.</string>
+    <string name="ext_media_checking_notification_title">Příprava karty SD</string>
+    <string name="ext_media_nofs_notification_message">Karta SD je prázdná nebo obsahuje nepodporovaný systém souborů.</string>
+    <string name="ext_media_nofs_notification_title">Prázdná karta SD</string>
+    <string name="ext_media_nomedia_notification_message">Karta SD byla odebrána. Vložte novou kartu.</string>
+    <string name="ext_media_nomedia_notification_title">Karta SD odebrána</string>
+    <string name="ext_media_safe_unmount_notification_message">Kartu SD lze bezpečně odebrat.</string>
+    <string name="ext_media_safe_unmount_notification_title">Kartu SD lze bezpečně odebrat</string>
+    <string name="ext_media_unmountable_notification_message">Karta SD je poškozena. Zkuste ji přeformátovat.</string>
+    <string name="ext_media_unmountable_notification_title">Poškozená karta SD</string>
+    <string name="extmedia_format_button_format">Formátovat</string>
+    <string name="extmedia_format_message">Všechna data na kartě budou ztracena.</string>
+    <string name="extmedia_format_title">Formátovat kartu SD?</string>
+    <string name="select_input_method">Vyberte metodu zadávání</string>
+    <string name="sms_short_code_confirm_message">Are you sure want to send this message?</string>
+    <string name="usb_accessory_notification_title">Připojeno k perifernímu zařízení USB</string>
+    <string name="usb_cd_installer_notification_title">Připojeno jako instalátor</string>
+    <string name="usb_mtp_notification_title">Přenést soubory do PC</string>
+    <string name="usb_notification_message">Dotykem zobrazíte další možnosti rozhraní USB.</string>
+    <string name="usb_ptp_notification_title">Přenést fotografie do PC</string>
+    <string name="usb_storage_activity_title">Velkokapacitní úložiště USB</string>
+    <string name="usb_storage_button_mount">Zapnout úložiště USB</string>
+    <string name="usb_storage_error_message">Problém s použitím karty SD jako velkokapacitního úložiště USB.</string>
+    <string name="usb_storage_message">Připojili jste se k počítači pomocí rozhraní USB. Chcete-li kopírovat soubory z počítače na kartu SD v zařízení Android či obráceně, stiskněte tlačítko níže.</string>
+    <string name="usb_storage_notification_message">Dotykem můžete kopírovat soubory do nebo z počítače.</string>
+    <string name="usb_storage_notification_title">Připojeno přes USB. Zaškrtněte políčko pro vytvoření tetheringu.</string>
+    <string name="usb_storage_stop_button_mount">Vypnout úložiště USB</string>
+    <string name="usb_storage_stop_error_message">Při vypínání úložiště USB došlo k chybě. Zkontrolujte, zda byl hostitel USB odpojen, a zkuste to znovu.</string>
+    <string name="usb_storage_stop_message">Před vypnutím úložiště USB nejdříve kartu SD zařízení Android v počítači odpojte (odeberte).</string>
+    <string name="usb_storage_stop_notification_message">Dotykem vypnete úložiště USB.</string>
+    <string name="usb_storage_stop_notification_title">Vypnout úložiště USB</string>
+    <string name="usb_storage_stop_title">Úložiště USB je používáno</string>
+    <string name="usb_storage_title">Připojeno přes USB. Zaškrtněte políčko pro vytvoření tetheringu.</string>
+    <plurals name="wifi_available">
+        <item quantity="one">WLAN je k dispozici</item>
+        <item quantity="other">WLAN je k dispozici</item>
+    </plurals>
+    <plurals name="wifi_available_detailed">
+        <item quantity="one">Zobrazit dostupné WLAN</item>
+        <item quantity="other">Zobrazit dostupné WLAN</item>
+    </plurals>
+    <string name="wifi_available_sign_in">Přihlásit k WLAN</string>
+</resources>

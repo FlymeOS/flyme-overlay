@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="android_system_label">Flyme-Systemdienst</string>
+    <string name="anr_activity_application"><xliff:g id="APPLICATION">%2$s</xliff:g> antwortet nicht. Schließen?</string>
+    <string name="anr_activity_process">Die Aktivität <xliff:g id="activity">%1$s</xliff:g> antwortet nicht. Möchten Sie diesen beenden?</string>
+    <string name="anr_application_process"><xliff:g id="APPLICATION">%1$s</xliff:g> reagiert nicht, jetzt schließen?</string>
+    <string name="anr_process">Der Vorgang <xliff:g id="PROCESS">%1$s</xliff:g> antwortet nicht. Möchten Sie diesen beenden?</string>
+    <string name="adb_active_notification_message">Zum Deaktivieren von USB-Debugging berühren.</string>
+    <string name="adb_active_notification_title">USB-Debugging bei Anschluss aktiviert</string>
+    <string name="android_start_title">System wird gestartet\u2026</string>
+    <string name="android_upgrading_title">System wird aktualisiert\u2026</string>
+    <string name="configure_input_methods">"Eingabemethode einrichten"</string>
+    <string name="dlg_confirm_kill_storage_users_text">Wenn Sie den USB-Speicher aktivieren, werden einige verwendete Apps beendet und sind möglicherweise erst verfügbar, wenn Sie den USB-Speicher deaktivieren.</string>
+    <string name="dlg_confirm_kill_storage_users_title">USB-Speicher aktivieren</string>
+    <string name="dlg_error_title">USB-Vorgang fehlgeschlagen</string>
+    <string name="dlg_ok">OK</string>
+    <string name="ext_media_badremoval_notification_message">Trennen Sie die SD-Karte vor dem Entfernen, um einen Datenverlust zu vermeiden.</string>
+    <string name="ext_media_badremoval_notification_title">SD-Karte wurde unerwartet entfernt</string>
+    <string name="ext_media_checking_notification_message">Suche nach Fehlern.</string>
+    <string name="ext_media_checking_notification_title">SD-Karte wird vorbereitet</string>
+    <string name="ext_media_nofs_notification_message">Die SD-Karte ist leer oder weist ein nicht unterstütztes Dateisystem auf.</string>
+    <string name="ext_media_nofs_notification_title">Leere SD-Karte</string>
+    <string name="ext_media_nomedia_notification_message">Die SD-Karte wurde entnommen. Setzen Sie eine neue ein.</string>
+    <string name="ext_media_nomedia_notification_title">SD-Karte entfernt</string>
+    <string name="ext_media_safe_unmount_notification_message">Die SD-Karte kann jetzt entfernt werden.</string>
+    <string name="ext_media_safe_unmount_notification_title">Die SD-Karte wurde entfernt.</string>
+    <string name="ext_media_unmountable_notification_message">Die SIM-Karte ist beschädigt. Versuchen Sie, diesen erneut zu formatieren.</string>
+    <string name="ext_media_unmountable_notification_title">SD-Karte beschädigt</string>
+    <string name="extmedia_format_button_format">Format</string>
+    <string name="extmedia_format_message">Alle Daten auf Ihrer Karte gehen verloren.</string>
+    <string name="extmedia_format_title">SD-Karte formatieren?</string>
+    <string name="select_input_method">"Eingabemethode auswählen"</string>
+    <string name="sms_short_code_confirm_message">Nachricht senden?</string>
+    <string name="usb_accessory_notification_title">USB-Zubehör angeschlossen</string>
+    <string name="usb_cd_installer_notification_title">Als Installationsprogramm verbunden</string>
+    <string name="usb_mtp_notification_title">Dateien können vom PC übertragen werden</string>
+    <string name="usb_notification_message">Zum Anzeigen weiterer USB-Optionen berühren</string>
+    <string name="usb_ptp_notification_title">Fotos können über den PC übertragen werden</string>
+    <string name="usb_storage_activity_title">USB-Massenspeicher</string>
+    <string name="usb_storage_button_mount">USB-Speicher aktivieren</string>
+    <string name="usb_storage_error_message">Bei der Verwendung der SD-Karte als USB-Massenspeicher ist ein Problem aufgetreten.</string>
+    <string name="usb_storage_message">Sie haben Ihr Gerät über USB an Ihren Computer angeschlossen. Berühren Sie die nachfolgende Schaltfläche, um Dateien zwischen Ihrem Computer und der SD-Karte Ihres Android-Geräts zu kopieren.</string>
+    <string name="usb_storage_notification_message">Zum Kopieren von Dateien auf Ihren/von Ihrem Computer berühren.</string>
+    <string name="usb_storage_notification_title">USB angeschlossen</string>
+    <string name="usb_storage_stop_button_mount">USB-Speicher deaktivieren</string>
+    <string name="usb_storage_stop_error_message">Bei der Deaktivierung des USB-Speichers ist ein Problem aufgetreten. Prüfen Sie, ob der USB-Host getrennt wurde, und versuchen Sie es dann erneut.</string>
+    <string name="usb_storage_stop_message">Werfen Sie vor der Deaktivierung des USB-Speichers die SD-Karte Ihres Android-Geräts (\"Auswerfen\") von Ihrem Computer aus.</string>
+    <string name="usb_storage_stop_notification_message">Zum Deaktivieren des USB-Speichers berühren.</string>
+    <string name="usb_storage_stop_notification_title">USB-Speicher deaktivieren</string>
+    <string name="usb_storage_stop_title">USB-Speicher wird verwendet</string>
+    <string name="usb_storage_title">USB angeschlossen</string>
+    <plurals name="wifi_available">
+        <item quantity="one">WLAN verfügbar</item>
+        <item quantity="other">WLAN verfügbar</item>
+    </plurals>
+    <plurals name="wifi_available_detailed">
+        <item quantity="one">Verfügbares WLAN-Netzwerk anzeigen</item>
+        <item quantity="other">Verfügbares WLAN-Netzwerk anzeigen</item>
+    </plurals>
+    <string name="wifi_available_sign_in">Im WLAN-Netzwerk anmelden</string>
+</resources>
