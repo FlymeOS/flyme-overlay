@@ -80,4 +80,7 @@
 
     <!-- patchrom: disable the safe media volume dialog -->
     <bool name="config_safe_media_volume_enabled">false</bool>
+
+    <string name="config_webViewPackageName">com.android.webview</string>
+    <string name="default_sms_application">com.android.mms</string>
 </resources>
