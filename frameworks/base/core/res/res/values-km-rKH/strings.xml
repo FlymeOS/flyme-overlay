@@ -5,7 +5,7 @@
     <string name="anr_activity_process">សកម្មភាព <xliff:g id="activity">%1$s</xliff:g>មិនឆ្លើយតប តើអ្នកចង់បិទវាទេ?</string>
     <string name="anr_application_process"><xliff:g id="APPLICATION">%1$s</xliff:g> មិនមានការឆ្លើយតប បិទវាឬ?</string>
     <string name="anr_process">ដំណើរការ <xliff:g id="PROCESS">%1$s</xliff:g> មិនឆ្លើយតប តើអ្នកចង់បិទវាទេ?</string>
-    <string name="adb_active_notification_message">ចុចដើម្បីកុំឲ្យ USB ជួសជុលការខូចខាត</string>
+    <string name="adb_active_notification_message">ប៉ះដើម្បី​បិទការបំបាត់កំហុស​ USB</string>
     <string name="adb_active_notification_title">ការកែតម្រូវកំហុសនៃUSB ត្រូវបានភ្ជាប់</string>
     <string name="android_start_title">ប្រព័ន្ធកំពុងចាប់ផ្តើម\u2026</string>
     <string name="android_upgrading_title">ប្រព័ន្ធ​កំពុង​ដំឡើង​វើសហ្សឹន​\u2026</string>

@@ -49,5 +49,13 @@
     <string name="usb_storage_stop_notification_title">"Désactiver la mémoire de stockage USB"</string>
     <string name="usb_storage_stop_title">Stockage USB en cours d\'utilisation</string>
     <string name="usb_storage_title">USB connecté</string>
+    <plurals name="wifi_available">
+        <item quantity="one">Wi-Fi disponible</item>
+        <item quantity="other">Wi-Fi disponible</item>
+    </plurals>
+    <plurals name="wifi_available_detailed">
+        <item quantity="one">Afficher les réseaux Wi-Fi disponibles</item>
+        <item quantity="other">Afficher les réseaux Wi-Fi disponibles</item>
+    </plurals>
     <string name="wifi_available_sign_in">Connectez-vous au Wifi</string>
 </resources>

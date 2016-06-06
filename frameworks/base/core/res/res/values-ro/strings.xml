@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="android_system_label">Serviciul de sistem Flyme</string>
     <string name="anr_activity_application">Aplicaţia <xliff:g id="APPLICATION">%2$s</xliff:g> nu răspunde. Doriţi să o închideţi?</string>
     <string name="anr_activity_process">Activitatea <xliff:g id="activity">%1$s</xliff:g> nu răspunde. Doriţi să o închideţi?</string>
     <string name="anr_application_process"><xliff:g id="APPLICATION">%1$s</xliff:g> nu răspunde. Îl închideţi?</string>
@@ -17,27 +18,27 @@
     <string name="ext_media_badremoval_notification_title">Cartelă SD scoasă neaşteptat</string>
     <string name="ext_media_checking_notification_message">Se verifică erorile.</string>
     <string name="ext_media_checking_notification_title">Se pregăteşte cardul SD</string>
-    <string name="ext_media_nofs_notification_message">Cardul SD este gol sau are fişiere de sistem nesuportate.</string>
+    <string name="ext_media_nofs_notification_message">Cardul SD este gol sau utilizează fişiere nesuportate.</string>
     <string name="ext_media_nofs_notification_title">Card SD gol</string>
     <string name="ext_media_nomedia_notification_message">Card SD deconectat. Introduceţi unul nou.</string>
     <string name="ext_media_nomedia_notification_title">Card SD deconectat</string>
     <string name="ext_media_safe_unmount_notification_message">Puteţi deconecta în siguranţă cardul SD.</string>
-    <string name="ext_media_safe_unmount_notification_title">Cardul SD poate fi deconectat în siguranţă</string>
+    <string name="ext_media_safe_unmount_notification_title">Cardul SD a fost deconectat în siguranţă</string>
     <string name="ext_media_unmountable_notification_message">Cardul SD este deteriorat. Încercaţi să îl reformataţi.</string>
     <string name="ext_media_unmountable_notification_title">Card SD deteriorat</string>
     <string name="extmedia_format_button_format">Formataţi</string>
     <string name="extmedia_format_message">Toate datele de pe cardul dvs. se vor pierde.</string>
     <string name="extmedia_format_title">Formataţi cardul SD?</string>
     <string name="select_input_method">Selectaţi metoda de introducere</string>
-    <string name="sms_short_code_confirm_message">Sunteţi sigur că doriţi să trimiteţi acest mesaj?</string>
+    <string name="sms_short_code_confirm_message">Trimiteţi mesajul?</string>
     <string name="usb_accessory_notification_title">Conectat la un accesoriu USB</string>
     <string name="usb_cd_installer_notification_title">Conectat ca program de instalare</string>
-    <string name="usb_mtp_notification_title">Fişierele pot fi transferate prin PC</string>
+    <string name="usb_mtp_notification_title">Transfer fişiere prin cablu</string>
     <string name="usb_notification_message">Atingeţi pentru alte opţiuni USB</string>
     <string name="usb_ptp_notification_title">Fotografiile pot fi transferate prin PC</string>
     <string name="usb_storage_activity_title">Spaţiu de stocare în masă USB</string>
     <string name="usb_storage_button_mount">Activaţi spaţiul de stocare USB</string>
-    <string name="usb_storage_error_message">A apărut o problemă la utilizarea cardului SD pentru spaţiul de stocare în masă USB.</string>
+    <string name="usb_storage_error_message">A apărut o problemă când cardul dvs. SD a fost utilizat ca dispozitiv USB de stocare în masă.</string>
     <string name="usb_storage_message">V-aţi conectat la computer prin USB. Atingeţi butonul de mai jos dacă doriţi să copiaţi fişiere de pe computer pe cardul SD Android sau invers.</string>
     <string name="usb_storage_notification_message">Atingeţi pentru a copia fişiere în/din computerul dvs.</string>
     <string name="usb_storage_notification_title">Spaţiu de stocare USB conectat, verificaţi pentru distribuirea de internet</string>

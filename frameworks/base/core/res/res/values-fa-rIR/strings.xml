@@ -30,6 +30,7 @@
     <string name="extmedia_format_message">تمام داده های روی کارتتان از بین خواهند رفت.</string>
     <string name="extmedia_format_title">SD کارت قالب بندی شود؟</string>
     <string name="select_input_method">" روش ورودی را انتخاب کنید"</string>
+    <string name="sms_short_code_confirm_message">پیام ارسال شود؟</string>
     <string name="usb_accessory_notification_title">به یک لوازم جانبی USB متصل شد</string>
     <string name="usb_cd_installer_notification_title">بعنوان یک نصاب متصل شد</string>
     <string name="usb_mtp_notification_title">انتقال پرونده ها ازطریق کابل</string>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="android_system_label">Υπηρεσία συστήματος Flyme</string>
     <string name="anr_activity_application">Η εφαρμογή <xliff:g id="APPLICATION">%2$s</xliff:g> δεν αποκρίνεται, θέλετε να την κλείσετε;</string>
     <string name="anr_activity_process">Η δραστηριότητα <xliff:g id="activity">%1$s</xliff:g> δεν αποκρίνεται, θέλετε να την κλείσετε;</string>
     <string name="anr_application_process">Το <xliff:g id="APPLICATION">%1$s</xliff:g> δεν αποκρίνεται, να γίνει διακοπή λειτουργίας;</string>
@@ -17,27 +18,27 @@
     <string name="ext_media_badremoval_notification_title">Μη αναμενόμενη αποσύνδεση κάρτας SD</string>
     <string name="ext_media_checking_notification_message">Έλεγχος για σφάλματα.</string>
     <string name="ext_media_checking_notification_title">Προετοιμάζεται η κάρτα SD</string>
-    <string name="ext_media_nofs_notification_message">Κάρτα SD κενή ή με μη υποστηριζόμενο σύστημα αρχείων.</string>
+    <string name="ext_media_nofs_notification_message">Κάρτα SD κενή ή χρησιμοποιεί μη υποστηριζόμενο σύστημα αρχείων.</string>
     <string name="ext_media_nofs_notification_title">Κενή κάρτα SD</string>
     <string name="ext_media_nomedia_notification_message">Η κάρτα SD αφαιρέθηκε. Εισάγετε νέα.</string>
     <string name="ext_media_nomedia_notification_title">Αφαιρέθηκε κάρτα SD</string>
     <string name="ext_media_safe_unmount_notification_message">Μπορείτε να αφαιρέσετε την κάρτα SD με ασφάλεια.</string>
-    <string name="ext_media_safe_unmount_notification_title">Η κάρτα SD για να αφαιρέσετε</string>
+    <string name="ext_media_safe_unmount_notification_title">Η κάρτα SD αφαιρέθηκε με ασφάλεια</string>
     <string name="ext_media_unmountable_notification_message">Η κάρτα SD έχει υποστεί ζημιά. Προσπαθήστε να τη μορφοποιήσετε πάλι.</string>
     <string name="ext_media_unmountable_notification_title">Ζημιά στην κάρτα SD</string>
     <string name="extmedia_format_button_format">Διαμόρφωση</string>
     <string name="extmedia_format_message">Όλα τα δεδομένα στην κάρτα σας θα χαθούν.</string>
     <string name="extmedia_format_title">Διαμόρφωση του αποθηκευτικού χώρου USB;</string>
     <string name="select_input_method">Επιλέξτε μέθοδο εισαγωγής</string>
-    <string name="sms_short_code_confirm_message">Σίγουρα θέλετε να αποστείλετε αυτό το μήνυμα;</string>
+    <string name="sms_short_code_confirm_message">Να αποσταλεί το μήνυμα;</string>
     <string name="usb_accessory_notification_title">Σύνδεση σε αξεσουάρ USB</string>
     <string name="usb_cd_installer_notification_title">Συνδεδεμένο ως πρόγραμμα εγκατάστασης</string>
-    <string name="usb_mtp_notification_title">Μεταφορά αρχείων στον υπολογιστή</string>
+    <string name="usb_mtp_notification_title">Μεταφορά αρχείων μέσω καλωδίου</string>
     <string name="usb_notification_message">Αγγίξτε για άλλες επιλογές USB</string>
     <string name="usb_ptp_notification_title">Μεταφορά φωτογραφιών στον υπολογιστή</string>
     <string name="usb_storage_activity_title">Μαζική αποθήκευση USB</string>
     <string name="usb_storage_button_mount">Ενεργοποίηση αποθηκευτικού χώρου USB</string>
-    <string name="usb_storage_error_message">Παρουσιάστηκε πρόβλημα κατά τη χρήση της κάρτας SD για χώρο μαζικής αποθήκευσης USB.</string>
+    <string name="usb_storage_error_message">Προέκυψε πρόβλημα κατά τη χρήση της κάρτας SD ως χώρου μαζικής αποθήκευσης δεδομένων USB.</string>
     <string name="usb_storage_message">Συνδεθήκατε στον υπολογιστή σας μέσω USB. Αγγίξτε το παρακάτω κουμπί, αν θέλετε να κάνετε αντιγραφή αρχείων μεταξύ του υπολογιστή και της κάρτας SD του Android.</string>
     <string name="usb_storage_notification_message">Αγγίξτε για αντιγραφή αρχείων προς/από τον υπολογιστή σας.</string>
     <string name="usb_storage_notification_title">Το USB είναι συνδεδεμένο</string>
@@ -49,8 +50,8 @@
     <string name="usb_storage_stop_title">Χώρος αποθήκευσης USB σε χρήση</string>
     <string name="usb_storage_title">Το USB είναι συνδεδεμένο</string>
     <plurals name="wifi_available">
-        <item quantity="one">WLAN διαθέσιμο</item>
-        <item quantity="other">WLAN διαθέσιμο</item>
+        <item quantity="one">Διατίθεται WLAN</item>
+        <item quantity="other">Διατίθεται WLAN</item>
     </plurals>
     <plurals name="wifi_available_detailed">
         <item quantity="one">Προβολή διαθέσιμων WLAN</item>

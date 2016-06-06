@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="android_system_label">Flyme rendszerszolgáltatás</string>
     <string name="anr_activity_application"><xliff:g id="APPLICATION">%2$s</xliff:g> nem\ válaszol, be akarja zárni?</string>
     <string name="anr_activity_process">Tevékenység <xliff:g id="activity">%1$s</xliff:g> nem\ válaszol, kívánja bezárni?</string>
     <string name="anr_application_process"><xliff:g id="APPLICATION">%1$s</xliff:g> nem válaszol, bezárja?</string>
@@ -17,27 +18,27 @@
     <string name="ext_media_badremoval_notification_title">SD-kártya váratlanul eltávolítva</string>
     <string name="ext_media_checking_notification_message">Hibakeresés.</string>
     <string name="ext_media_checking_notification_title">SD-kártya előkészítése</string>
-    <string name="ext_media_nofs_notification_message">Az SD-kártya üres vagy nem támogatott a fájlrendszere.</string>
+    <string name="ext_media_nofs_notification_message">Az SD-kártya üres vagy a fájlrendszere nem támogatott.</string>
     <string name="ext_media_nofs_notification_title">Üres SD-kártya</string>
     <string name="ext_media_nomedia_notification_message">Az SD-kártya eltávolítva. Helyezzen be egy újat.</string>
     <string name="ext_media_nomedia_notification_title">SD-kártya eltávolítva</string>
     <string name="ext_media_safe_unmount_notification_message">Biztonságosan eltávolíthatja az SD-kártyát.</string>
-    <string name="ext_media_safe_unmount_notification_title">Az SD-kártya biztonságosan eltávolítható</string>
+    <string name="ext_media_safe_unmount_notification_title">SD-kártya biztonságosan eltávolítva</string>
     <string name="ext_media_unmountable_notification_message">Az SD-kártya sérült. Próbálja meg formázni.</string>
     <string name="ext_media_unmountable_notification_title">Az SD-kártya sérült</string>
     <string name="extmedia_format_button_format">Formázás</string>
     <string name="extmedia_format_message">A kártyán lévő összes adat elvész.</string>
     <string name="extmedia_format_title">Formázza az USB-tárolót?</string>
     <string name="select_input_method">Beviteli mód kiválasztása</string>
-    <string name="sms_short_code_confirm_message">Biztosan szeretné elküldeni ezt az üzenetet?</string>
+    <string name="sms_short_code_confirm_message">Elküldi az üzenetet?</string>
     <string name="usb_accessory_notification_title">Csatlakoztatva egy USB-kiegészítőhöz</string>
     <string name="usb_cd_installer_notification_title">Csatlakoztatva telepítőként</string>
-    <string name="usb_mtp_notification_title">Fájlok átvitele számítógépre</string>
+    <string name="usb_mtp_notification_title">Fájlok átvitele kábelen</string>
     <string name="usb_notification_message">Érintse meg a további USB-opciókért</string>
     <string name="usb_ptp_notification_title">Fényképek átvitele számítógépre</string>
     <string name="usb_storage_activity_title">USB-háttértár</string>
     <string name="usb_storage_button_mount">Az USB-tár bekapcsolása</string>
-    <string name="usb_storage_error_message">Probléma merült fel az SD-kártya USB-tárként történő használatával.</string>
+    <string name="usb_storage_error_message">Hiba történt az SD-kártya USB adattárolóként történő használata során.</string>
     <string name="usb_storage_message">USB-kapcsolaton keresztül csatlakozott a számítógéphez. Érintse meg a lenti gombot, ha fájlokat szeretne másolni a számítógép és az Android SD-kártyája között.</string>
     <string name="usb_storage_notification_message">Érintse meg fájlok másolásához a számítógépről/-re.</string>
     <string name="usb_storage_notification_title">USB-eszköz csatlakoztatva</string>
@@ -49,8 +50,8 @@
     <string name="usb_storage_stop_title">USB-tár használatban</string>
     <string name="usb_storage_title">USB-eszköz csatlakoztatva</string>
     <plurals name="wifi_available">
-        <item quantity="one">WYLAN elérhető</item>
-        <item quantity="other">WYLAN elérhető</item>
+        <item quantity="one">Elérhető WLAN</item>
+        <item quantity="other">Elérhető WLAN</item>
     </plurals>
     <plurals name="wifi_available_detailed">
         <item quantity="one">Rendelkezésre álló WLAN hálózat megtekintése</item>

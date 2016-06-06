@@ -20,6 +20,8 @@
 <!-- These resources are around just to allow their values to be customized
      for different hardware and product builds.  Do not translate. -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Maximum velocity to initiate a fling, as measured in dips per second. -->
+    <dimen name="config_viewMaxFlingVelocity">2300dp</dimen>
     <!-- Do not translate. Defines the slots for the right-hand side icons.  That is to say, the
          icons in the status bar that are not notifications. -->
     <string-array name="config_statusBarIcons">
@@ -58,9 +60,6 @@
 
     <!-- Default network policy warning threshold, in megabytes. -->
     <integer name="config_networkPolicyDefaultWarning">100</integer>
-
-    <!-- Maximum velocity to initiate a fling, as measured in dips per second. -->
-    <dimen name="config_viewMaxFlingVelocity">2300dp</dimen>
 
     <!-- FLYME:huangchaohua@SHELL.BatteryLowDialog.Feature start-->
     <!-- Display low battery warning when battery level dips to this value.

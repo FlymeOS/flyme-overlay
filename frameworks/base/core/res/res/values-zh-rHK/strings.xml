@@ -49,5 +49,13 @@
     <string name="usb_storage_stop_notification_title">"關閉 USB 儲存裝置"</string>
     <string name="usb_storage_stop_title">"USB 儲存裝置正在使用中"</string>
     <string name="usb_storage_title">已連接 USB</string>
+    <plurals name="wifi_available">
+        <item quantity="one">有可用的無線網絡</item>
+        <item quantity="other">有可用的無線網絡</item>
+    </plurals>
+    <plurals name="wifi_available_detailed">
+        <item quantity="one">開啟可用的無線網絡</item>
+        <item quantity="other">開啟可用的無線網絡</item>
+    </plurals>
     <string name="wifi_available_sign_in">登入到Wi-Fi</string>
 </resources>

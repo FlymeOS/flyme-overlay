@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="android_system_label">Systémová služba Flyme</string>
     <string name="anr_activity_application"><xliff:g id="APPLICATION">%2$s</xliff:g> neodpovedá, chcete ju zatvoriť?</string>
     <string name="anr_activity_process">Činnosť <xliff:g id="activity">%1$s</xliff:g> neodpovedá, chcete ju ukončiť?</string>
     <string name="anr_application_process"><xliff:g id="APPLICATION">%1$s</xliff:g> neodpovedá, ukončiť?</string>
@@ -17,27 +18,27 @@
     <string name="ext_media_badremoval_notification_title">Karta SD bola neočakávane odobraná</string>
     <string name="ext_media_checking_notification_message">Kontrola chýb.</string>
     <string name="ext_media_checking_notification_title">Príprava karty SD</string>
-    <string name="ext_media_nofs_notification_message">Karta SD je prázdna alebo obsahuje nepodporovaný systém súborov.</string>
+    <string name="ext_media_nofs_notification_message">Karta SD je prázdna alebo používa nepodporovaný systém súborov.</string>
     <string name="ext_media_nofs_notification_title">Prázdna karta SD</string>
     <string name="ext_media_nomedia_notification_message">Karta SD bola odobraná. Vložte novú kartu.</string>
     <string name="ext_media_nomedia_notification_title">Karta SD bola odobraná</string>
     <string name="ext_media_safe_unmount_notification_message">Kartu SD je možné bezpečne odobrať.</string>
-    <string name="ext_media_safe_unmount_notification_title">Kartu SD je možné bezpečne odobrať</string>
+    <string name="ext_media_safe_unmount_notification_title">Karta SD sa bezpečne odstránila</string>
     <string name="ext_media_unmountable_notification_message">Karta SD je poškodená. Skúste ju preformátovať.</string>
     <string name="ext_media_unmountable_notification_title">Poškodená karta SD</string>
     <string name="extmedia_format_button_format">Formát</string>
     <string name="extmedia_format_message">Všetky údaje na vašej karte budú stratené.</string>
     <string name="extmedia_format_title">Formátovať kartu SD?</string>
     <string name="select_input_method">Vyberte metódu vstupu</string>
-    <string name="sms_short_code_confirm_message">Naozaj chcete odoslať túto správu?</string>
+    <string name="sms_short_code_confirm_message">Odoslať správu?</string>
     <string name="usb_accessory_notification_title">Pripojené k periférnemu zariadeniu USB</string>
     <string name="usb_cd_installer_notification_title">Pripojené ako inštalátor</string>
-    <string name="usb_mtp_notification_title">Preniesť súbory do PC</string>
+    <string name="usb_mtp_notification_title">Preniesť súbory pomocou kábla</string>
     <string name="usb_notification_message">Dotykom zobrazíte ďalšie možnosti USB.</string>
     <string name="usb_ptp_notification_title">Preniesť fotografie do PC</string>
     <string name="usb_storage_activity_title">Veľkokapacitné úložisko USB</string>
     <string name="usb_storage_button_mount">Zapnúť ukladací priestor USB</string>
-    <string name="usb_storage_error_message">Pri používaní vašej karty SD ako veľkokapacitného ukladacieho priestoru USB sa vyskytol problém.</string>
+    <string name="usb_storage_error_message">Pri používaní vašej karty SD ako veľkokapacitného úložiska USB sa vyskytol problém.</string>
     <string name="usb_storage_message">Zariadenie ste pripojili k počítaču pomocou USB. Ak chcete kopírovať súbory z počítača na kartu SD v zariadení so systémom Android alebo naopak, dotknite sa tlačidla nižšie.</string>
     <string name="usb_storage_notification_message">Dotykom skopírujete súbory do / z počítača.</string>
     <string name="usb_storage_notification_title">Zariadenie USB pripojené</string>

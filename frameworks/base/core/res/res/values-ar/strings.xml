@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="android_system_label">خدمة نظام Flyme</string>
+<string name="android_system_label">خدمة نظام Flyme</string>
     <string name="anr_activity_application"><xliff:g id="APPLICATION">%2$s</xliff:g> لا يستجيب، هل تريد إغلاقه؟</string>
     <string name="anr_activity_process">النشاط <xliff:g id="activity">%1$s</xliff:g> لا يستجيب، هل تريد إغلاقه؟</string>
     <string name="anr_application_process"><xliff:g id="APPLICATION">%1$s</xliff:g> لا يستجيب، هل تريد إغلاقه؟</string>

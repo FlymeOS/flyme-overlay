@@ -49,5 +49,13 @@
     <string name="usb_storage_stop_notification_title">Tắt bộ nhớ USB</string>
     <string name="usb_storage_stop_title">Bộ nhớ USB đang sử dụng</string>
     <string name="usb_storage_title">Đã kết nối USB</string>
+    <plurals name="wifi_available">
+        <item quantity="one">WLAN khả dụng</item>
+        <item quantity="other">WLAN khả dụng</item>
+    </plurals>
+    <plurals name="wifi_available_detailed">
+        <item quantity="one">Xem mạng WLAN khả dụng</item>
+        <item quantity="other">Xem mạng WLAN khả dụng</item>
+    </plurals>
     <string name="wifi_available_sign_in">Đăng nhập vào WLAN</string>
 </resources>

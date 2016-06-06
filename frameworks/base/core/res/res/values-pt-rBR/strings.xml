@@ -5,7 +5,7 @@
     <string name="anr_activity_process">A atividade <xliff:g id="activity">%1$s</xliff:g> não está respondendo, deseja fechá-la?</string>
     <string name="anr_application_process"><xliff:g id="APPLICATION">%1$s</xliff:g> Não está respondendo, desligar agora?</string>
     <string name="anr_process">Processo <xliff:g id="PROCESS">%1$s</xliff:g> não está respondendo. Você deseja fechá-lo?</string>
-    <string name="adb_active_notification_message">Toque para desativar a depuração USB.</string>
+    <string name="adb_active_notification_message">Toque para desativar a depuração USB</string>
     <string name="adb_active_notification_title">Depuração USB conectada</string>
     <string name="android_start_title">Inicializando sistema...</string>
     <string name="android_upgrading_title">Atualizando sistema...</string>

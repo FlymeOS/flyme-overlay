@@ -30,6 +30,7 @@
     <string name="extmedia_format_message">"Semua data pada kad anda akan hilang."</string>
     <string name="extmedia_format_title">"Format kad SD?"</string>
     <string name="select_input_method">"Pilih kaedah input"</string>
+    <string name="sms_short_code_confirm_message">"Hantar mesej?"</string>
     <string name="usb_accessory_notification_title">"Disambungkan kepada aksesori USB"</string>
     <string name="usb_cd_installer_notification_title">"Disambungkan sebagai pemasang"</string>
     <string name="usb_mtp_notification_title">"Fail boleh dipindahkan melalui PC"</string>

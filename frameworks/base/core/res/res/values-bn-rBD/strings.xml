@@ -5,7 +5,7 @@
     <string name="anr_activity_process">ক্রিয়াকলাপ <xliff:g id="activity">%1$s</xliff:g> প্রতিক্রিয়া জানাচ্ছে না, আপনি কি এটিকে বন্ধ করতে চান?</string>
     <string name="anr_application_process"><xliff:g id="APPLICATION">%1$s</xliff:g> প্রতিক্রিয়া জানাচ্ছে না, এটিকে বন্ধ করবেন?</string>
     <string name="anr_process">প্রক্রিয়া <xliff:g id="PROCESS">%1$s</xliff:g> প্রতিক্রিয়া জানাচ্ছে না, আপনি কি এটিকে বন্ধ করতে চান?</string>
-    <string name="adb_active_notification_message">USB ডিবাগিং নিষ্ক্রিয় করতে ট্যাপ করুন।</string>
+    <string name="adb_active_notification_message">ইউএসবিডিবাগিং নিষ্ক্রিয়করতে টোকা দিন।</string>
     <string name="adb_active_notification_title">USB ডিবাগিং সংযুক্ত</string>
     <string name="android_start_title">সিস্টেম অরম্ভ হচ্ছে\u2026</string>
     <string name="android_upgrading_title">সিস্টেম আপগ্রেড করা হচ্ছে\u2026</string>
@@ -30,6 +30,7 @@
     <string name="extmedia_format_message">আপনার কার্ডটিতে থাকা সমস্ত ডেটা হারিয়ে যাবে।</string>
     <string name="extmedia_format_title">SD কার্ড ফর্ম্যাট করবেন?</string>
     <string name="select_input_method">"ইনপুট পদ্ধতি নির্বাচন করুন"</string>
+    <string name="sms_short_code_confirm_message">বার্তা পাঠানো হয়েছে?</string>
     <string name="usb_accessory_notification_title">একটি USB আনুষাঙ্গিকে সংযুক্ত</string>
     <string name="usb_cd_installer_notification_title">একটি সংস্থাপক হিসাবে সংযুক্ত</string>
     <string name="usb_mtp_notification_title">ক্যাবলের মাধ্যমে ফাইল স্থানান্তর করুন</string>

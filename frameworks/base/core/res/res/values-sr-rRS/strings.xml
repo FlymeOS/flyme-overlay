@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="configure_input_methods">Podesi metodu unosa</string>
+    <string name="dlg_confirm_kill_storage_users_text">Ako uključite USB memoriju, onda neke aplikacije mogu prestati sa radom i mogu da budu nedostupne dok ne isključite USB memoriju.</string>
+    <string name="dlg_confirm_kill_storage_users_title">Uključite USB memoriju</string>
+    <string name="dlg_error_title">Neuspešna USB operacija</string>
+    <string name="dlg_ok">U redu</string>
+    <string name="ext_media_checking_notification_message">Proveravam greške.</string>
+    <string name="extmedia_format_button_format">Format</string>
+    <string name="select_input_method">Izaberi metodu unosa</string>
+    <string name="sms_short_code_confirm_message">Sigurno želite da pošaljete ovu poruku?</string>
+    <string name="usb_accessory_notification_title">Povezano sa USB priborom</string>
+    <string name="usb_cd_installer_notification_title">Povezano kao instalacioni program</string>
+    <string name="usb_storage_activity_title">USB masovna memorija</string>
+    <string name="usb_storage_button_mount">Uključite USB memoriju</string>
+    <string name="usb_storage_notification_message">Dodirni za kopiranje datoteka na/od vašeg računara.</string>
+    <string name="usb_storage_stop_button_mount">Isključi USB memoriju</string>
+    <string name="usb_storage_stop_error_message">Nastao je problem prilikom isključivanja USB memorije. Proverite da li ste isključiti USB upravljač, zatim pokušajte ponovo.</string>
+    <string name="usb_storage_stop_notification_message">Dodirnite da isključite USB memoriju.</string>
+    <string name="usb_storage_stop_notification_title">Isključi USB memoriju</string>
+    <string name="usb_storage_stop_title">USB memorija u upotrebi</string>
+</resources>

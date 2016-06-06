@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="android_system_label">Systémová služba Flyme</string>
     <string name="anr_activity_application"><xliff:g id="APPLICATION">%2$s</xliff:g> nereaguje. Chcete ji uzavřít?</string>
     <string name="anr_activity_process">Aktivita <xliff:g id="activity">%1$s</xliff:g> nereaguje, chcete ji uzavřít?</string>
     <string name="anr_application_process"><xliff:g id="APPLICATION">%1$s</xliff:g> nereaguje, vypnout?</string>
@@ -17,27 +18,27 @@
     <string name="ext_media_badremoval_notification_title">Karta SD byla neočekávaně vyjmuta.</string>
     <string name="ext_media_checking_notification_message">Kontrola chyb.</string>
     <string name="ext_media_checking_notification_title">Příprava karty SD</string>
-    <string name="ext_media_nofs_notification_message">Karta SD je prázdná nebo obsahuje nepodporovaný systém souborů.</string>
+    <string name="ext_media_nofs_notification_message">Karta SD je prázdná nebo používá nepodporovaný souborový systém.</string>
     <string name="ext_media_nofs_notification_title">Prázdná karta SD</string>
     <string name="ext_media_nomedia_notification_message">Karta SD byla odebrána. Vložte novou kartu.</string>
     <string name="ext_media_nomedia_notification_title">Karta SD odebrána</string>
     <string name="ext_media_safe_unmount_notification_message">Kartu SD lze bezpečně odebrat.</string>
-    <string name="ext_media_safe_unmount_notification_title">Kartu SD lze bezpečně odebrat</string>
+    <string name="ext_media_safe_unmount_notification_title">Karta SD byla bezpečně odebrána</string>
     <string name="ext_media_unmountable_notification_message">Karta SD je poškozena. Zkuste ji přeformátovat.</string>
     <string name="ext_media_unmountable_notification_title">Poškozená karta SD</string>
     <string name="extmedia_format_button_format">Formátovat</string>
     <string name="extmedia_format_message">Všechna data na kartě budou ztracena.</string>
     <string name="extmedia_format_title">Formátovat kartu SD?</string>
     <string name="select_input_method">Vyberte metodu zadávání</string>
-    <string name="sms_short_code_confirm_message">Are you sure want to send this message?</string>
+    <string name="sms_short_code_confirm_message">Odeslat zprávu?</string>
     <string name="usb_accessory_notification_title">Připojeno k perifernímu zařízení USB</string>
     <string name="usb_cd_installer_notification_title">Připojeno jako instalátor</string>
-    <string name="usb_mtp_notification_title">Přenést soubory do PC</string>
+    <string name="usb_mtp_notification_title">Přenést soubory přes kabel</string>
     <string name="usb_notification_message">Dotykem zobrazíte další možnosti rozhraní USB.</string>
     <string name="usb_ptp_notification_title">Přenést fotografie do PC</string>
     <string name="usb_storage_activity_title">Velkokapacitní úložiště USB</string>
     <string name="usb_storage_button_mount">Zapnout úložiště USB</string>
-    <string name="usb_storage_error_message">Problém s použitím karty SD jako velkokapacitního úložiště USB.</string>
+    <string name="usb_storage_error_message">Při používání karty SD jako hromadného úložiště USB došlo k problému.</string>
     <string name="usb_storage_message">Připojili jste se k počítači pomocí rozhraní USB. Chcete-li kopírovat soubory z počítače na kartu SD v zařízení Android či obráceně, stiskněte tlačítko níže.</string>
     <string name="usb_storage_notification_message">Dotykem můžete kopírovat soubory do nebo z počítače.</string>
     <string name="usb_storage_notification_title">Připojeno přes USB. Zaškrtněte políčko pro vytvoření tetheringu.</string>
@@ -49,8 +50,8 @@
     <string name="usb_storage_stop_title">Úložiště USB je používáno</string>
     <string name="usb_storage_title">Připojeno přes USB. Zaškrtněte políčko pro vytvoření tetheringu.</string>
     <plurals name="wifi_available">
-        <item quantity="one">WLAN je k dispozici</item>
-        <item quantity="other">WLAN je k dispozici</item>
+        <item quantity="one">Dostupné sítě WLAN</item>
+        <item quantity="other">Dostupné sítě WLAN</item>
     </plurals>
     <plurals name="wifi_available_detailed">
         <item quantity="one">Zobrazit dostupné WLAN</item>

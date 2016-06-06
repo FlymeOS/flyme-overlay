@@ -7,7 +7,7 @@
     <string name="anr_application_process"><xliff:g id="APPLICATION">%1$s</xliff:g> is not responding, shut it down?</string>
     <!-- Text of the alert that is displayed when an application is not responding. -->
     <string name="anr_process">Process <xliff:g id="PROCESS">%1$s</xliff:g> isn\'t responding,Do you want to close it?</string>
-    <string name="android_system_label">Flyme system service</string>
+    <string name="android_system_label">System service</string>
     <string name="configure_input_methods">"Set up input method"</string>
     <string name="select_input_method">"Select input method"</string>
     <string name="wifi_available_sign_in">Login to WLAN</string>
@@ -68,4 +68,13 @@
     <string name="ellipsis">"..."</string>
     <add-resource type="string" name="ellipsis_two_dots" />
     <string name="ellipsis_two_dots">"‥"</string>
+    
+    <plurals name="wifi_available_detailed">
+        <item quantity="one">Tap to view details</item>
+        <item quantity="other">Tap to view details</item>
+    </plurals>
+    <plurals name="wifi_available">
+        <item quantity="one">WLAN available</item>
+        <item quantity="other">WLAN available</item>
+    </plurals>
 </resources>

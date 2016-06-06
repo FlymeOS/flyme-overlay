@@ -5,7 +5,7 @@
     <string name="anr_activity_process">လုပ္ေဆာင္ခ်က္ <xliff:g id="activity">%1$s</xliff:g> သည္ တုန္႔ျပန္မႈမျပဳပါ၊ ၎ကို ပိတ္လိုသလား?</string>
     <string name="anr_application_process"><xliff:g id="APPLICATION">%1$s</xliff:g> သည္ တုန္႔ျပန္မႈမျပဳပါ၊ ၎ကို ပိတ္လိုသလား။</string>
     <string name="anr_process">လုပ္ေဆာင္မႈ <xliff:g id="PROCESS">%1$s</xliff:g> သည္ တုန္႔ျပန္မႈမျပဳပါ၊ ၎ကို ပိတ္လိုသလား။</string>
-    <string name="adb_active_notification_message">Touch to disable USB ခၽြတ္ယြင္းခ်က္ရွာျပင္ဆင္မႈကို ပိတ္ပါကိုႏွိပ္ပါ။</string>
+    <string name="adb_active_notification_message"> USB ခၽြတ္ယြင္းခ်က္ရွာျပင္ဆင္မႈကို ပိတ္ပါကိုႏွိပ္ပါ။</string>
     <string name="adb_active_notification_title">USB အမွားရွာေဖြဖယ္ရွားခ်က္ ခ်ိတ္ဆက္ထားသည္</string>
     <string name="android_start_title">စနစ္ စတင္ေနဆဲ\u2026</string>
     <string name="android_upgrading_title">စနစ္ အဆင့္ျမႇင့္တင္ေနဆဲ\u2026</string>
@@ -49,5 +49,13 @@
     <string name="usb_storage_stop_notification_title">USB သိုေလွာင္ခန္း ပိတ္ပါ</string>
     <string name="usb_storage_stop_title">USB သိုေလွာင္ခန္း အသံုးျပဳေနသည္</string>
     <string name="usb_storage_title">USB ခ်ိတ္ဆက္ထားသည္</string>
+    <plurals name="wifi_available">
+        <item quantity="one">WLAN ရရွိႏိုင္သည္</item>
+        <item quantity="other">WLAN ရရွိႏိုင္သည္</item>
+    </plurals>
+    <plurals name="wifi_available_detailed">
+        <item quantity="one">WLAN ရရွိႏိုင္မႈကို ၾကည့္႐ႈပါ</item>
+        <item quantity="other">WLAN ရရွိႏိုင္မႈကို ၾကည့္႐ႈပါ</item>
+    </plurals>
     <string name="wifi_available_sign_in">WLAN သို႔ ဝင္ေရာက္ပါ</string>
 </resources>

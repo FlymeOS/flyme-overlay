@@ -5,7 +5,7 @@
     <string name="anr_activity_process">La actividad <xliff:g id="activity">%1$s</xliff:g> no responde. ¿Deseas cerrarla?</string>
     <string name="anr_application_process"><xliff:g id="APPLICATION">%1$s</xliff:g> no responde, ¿Cerrarlo?</string>
     <string name="anr_process">El proceso <xliff:g id="PROCESS">%1$s</xliff:g> no responde. ¿Deseas cerrarlo?</string>
-    <string name="adb_active_notification_message">Toca para deshabilitar la depuración de USB.</string>
+    <string name="adb_active_notification_message">Toca para desactivar la depuración USB.</string>
     <string name="adb_active_notification_title">Depuración USB conectada</string>
     <string name="android_start_title">se está iniciando el sistema…</string>
     <string name="android_upgrading_title">Se está actualizando el sistema\u2026</string>
@@ -49,5 +49,13 @@
     <string name="usb_storage_stop_notification_title">Desactivar almacenamiento USB</string>
     <string name="usb_storage_stop_title">El almacenamiento USB está en uso</string>
     <string name="usb_storage_title">Conectado por USB</string>
+    <plurals name="wifi_available">
+        <item quantity="one">WLAN disponible</item>
+        <item quantity="other">WLAN disponible</item>
+    </plurals>
+    <plurals name="wifi_available_detailed">
+        <item quantity="one">No hay ninguna WLAN disponible</item>
+        <item quantity="other">No hay ninguna WLAN disponible</item>
+    </plurals>
     <string name="wifi_available_sign_in">Acceder a WLAN</string>
 </resources>

@@ -30,6 +30,7 @@
     <string name="extmedia_format_message">Tutti i dati sulla tua scheda saranno persi</string>
     <string name="extmedia_format_title">Formattare la scheda SD?</string>
     <string name="select_input_method">"Scegli metodo di input"</string>
+    <string name="sms_short_code_confirm_message">Inviare il messaggio?</string>
     <string name="usb_accessory_notification_title">"Collegato a un accessorio USB"</string>
     <string name="usb_cd_installer_notification_title">"Collegato come installer"</string>
     <string name="usb_mtp_notification_title">I file possono essere trasferiti con il PC</string>
@@ -48,5 +49,13 @@
     <string name="usb_storage_stop_notification_title">"Disattiva archivio USB"</string>
     <string name="usb_storage_stop_title">"Archivio USB in uso"</string>
     <string name="usb_storage_title">USB connesso</string>
+    <plurals name="wifi_available">
+        <item quantity="one">Wi-Fi disponibile</item>
+        <item quantity="other">Wi-Fi disponibile</item>
+    </plurals>
+    <plurals name="wifi_available_detailed">
+        <item quantity="one">Vedi Wi-Fi disponibili</item>
+        <item quantity="other">Vedi Wi-Fi disponibili</item>
+    </plurals>
     <string name="wifi_available_sign_in">Logine WLAN</string>
 </resources>
