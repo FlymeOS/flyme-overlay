@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="dlg_confirm_kill_storage_users_text">Ja ieslēgsiet USB krātuvi, dažu izmantoto lietotņu darbība tiks apturēta un tās var nebūt pieejamas līdz brīdim, kad USB krātuve tiks izslēgta.</string>
+    <string name="dlg_confirm_kill_storage_users_title">"Ieslēgt USB krātuvi"</string>
+    <string name="dlg_error_title">USB krātuves darbība neizdevās.</string>
+    <string name="dlg_ok">"Labi"</string>
+    <string name="ext_media_checking_notification_message">Notiek kļūdu meklēšana.</string>
+    <string name="extmedia_format_button_format">"Formatēt"</string>
+    <string name="usb_accessory_notification_title">"Ir izveidots savienojums ar USB piederumu."</string>
+    <string name="usb_cd_installer_notification_title">"Pievienots kā instalēšanas programma"</string>
+    <string name="usb_storage_activity_title">"USB lielapjoma atmiņa"</string>
+    <string name="usb_storage_button_mount">"Ieslēgt USB krātuvi"</string>
+    <string name="usb_storage_notification_message">"Pieskarieties, lai kopētu failus datorā/no datora."</string>
+    <string name="usb_storage_stop_button_mount">"Izslēgt USB krātuvi"</string>
+    <string name="usb_storage_stop_error_message">Izslēdzot USB krātuvi, radās problēma. Pārliecinieties, ka USB resursdators ir noņemts, un pēc tam mēģiniet vēlreiz.</string>
+    <string name="usb_storage_stop_notification_message">Pieskarieties, lai izslēgtu USB krātuvi.</string>
+    <string name="usb_storage_stop_notification_title">"Izslēgt USB krātuvi"</string>
+    <string name="usb_storage_stop_title">"USB krātuve tiek izmantota"</string>
+</resources>

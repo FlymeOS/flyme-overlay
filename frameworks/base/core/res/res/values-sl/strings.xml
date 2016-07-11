@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="dlg_confirm_kill_storage_users_text">Če vklopite pomnilnik USB, se bodo nekateri programi, ki jih uporabljate, ustavili in ne bodo na voljo, dokler ne izklopite pomnilnika USB.</string>
+    <string name="dlg_confirm_kill_storage_users_title">Vklop USB pomnilnika</string>
+    <string name="dlg_error_title">"Operacija v pomnilniku USB ni uspela"</string>
+    <string name="dlg_ok">"V redu"</string>
+    <string name="ext_media_checking_notification_message">Iskanje napak.</string>
+    <string name="extmedia_format_button_format">"Formatiraj"</string>
+    <string name="usb_accessory_notification_title">"Priključen na dodatek USB"</string>
+    <string name="usb_cd_installer_notification_title">"Povezan kot namestitveni program"</string>
+    <string name="usb_storage_activity_title">Masovni USB pomnilnik</string>
+    <string name="usb_storage_button_mount">Vklop USB pomnilnika</string>
+    <string name="usb_storage_notification_message">"Dotaknite se, če želite kopirati datoteke v računalnik ali iz njega."</string>
+    <string name="usb_storage_stop_button_mount">Izklopi USB pomnilnik</string>
+    <string name="usb_storage_stop_error_message">Težava pri izklopu USB pomnilnika. Preverite, ali ste izpeli gostitelja USB, nato poskusite znova.</string>
+    <string name="usb_storage_stop_notification_message">Dotaknite se, da izklopite USB pomnilnik.</string>
+    <string name="usb_storage_stop_notification_title">Izklopi USB pomnilnik</string>
+    <string name="usb_storage_stop_title">USB pomnilnik je v uporabi</string>
+</resources>

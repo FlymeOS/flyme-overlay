@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="dlg_confirm_kill_storage_users_text">"Ako uključite USB pohranu, neke aplikacije koje upotrebljavate zaustavit će se i možda neće biti dostupne dok ne isključite USB pohranu."</string>
+    <string name="dlg_confirm_kill_storage_users_title">"Uključi USB pohranjivanje"</string>
+    <string name="dlg_error_title">"Rad USB-a nije uspio"</string>
+    <string name="dlg_ok">U REDU</string>
+    <string name="ext_media_checking_notification_message">Traženje pogrešaka.</string>
+    <string name="extmedia_format_button_format">Oblik</string>
+    <string name="usb_accessory_notification_title">"Spojen na USB pribor"</string>
+    <string name="usb_cd_installer_notification_title">"Spojen kao instalacijski program"</string>
+    <string name="usb_storage_activity_title">"USB masovna pohrana"</string>
+    <string name="usb_storage_button_mount">"Uključi USB pohranjivanje"</string>
+    <string name="usb_storage_notification_message">"Dodirnite za kopiranje datoteka na računalo ili s računala."</string>
+    <string name="usb_storage_stop_button_mount">"Isključi USB pohranjivanje"</string>
+    <string name="usb_storage_stop_error_message">"Došlo je do problema pri isključivanju USB pohrane. Provjerite jeste li uklonili USB host, a zatim pokušajte ponovo."</string>
+    <string name="usb_storage_stop_notification_message">Dodirnite za isključivanje USB pohrane.</string>
+    <string name="usb_storage_stop_notification_title">"Isključi USB pohranjivanje"</string>
+    <string name="usb_storage_stop_title">"USB pohrana se koristi"</string>
+</resources>
