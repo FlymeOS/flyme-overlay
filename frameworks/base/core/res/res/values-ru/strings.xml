@@ -49,5 +49,5 @@
     <string name="usb_storage_stop_notification_title">Отключить USB-накопитель</string>
     <string name="usb_storage_stop_title">USB-накопитель используется</string>
     <string name="usb_storage_title">USB подключен</string>
-    <string name="wifi_available_sign_in">Вход через Wi-Fi</string>
+    <string name="wifi_available_sign_in">Вход через WLAN</string>
 </resources>
