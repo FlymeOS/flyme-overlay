@@ -50,12 +50,12 @@
     <string name="usb_storage_stop_title">Extern geheugen in gebruik</string>
     <string name="usb_storage_title">USB verbonden</string>
     <plurals name="wifi_available">
-        <item quantity="one">Wifi beschikbaar</item>
-        <item quantity="other">Wifi beschikbaar</item>
+        <item quantity="one">WLAN beschikbaar</item>
+        <item quantity="other">WLAN beschikbaar</item>
     </plurals>
     <plurals name="wifi_available_detailed">
         <item quantity="one">Beschikbare wifinetwerken bekijken</item>
         <item quantity="other">Beschikbare wifinetwerken bekijken</item>
     </plurals>
-    <string name="wifi_available_sign_in">Bezig met aanmelden bij wifinetwerk</string>
+    <string name="wifi_available_sign_in">Bezig met aanmelden bij WLANnetwerk</string>
 </resources>

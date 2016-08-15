@@ -49,12 +49,12 @@
     <string name="usb_storage_stop_title">"‏אחסון USB שנמצא בשימוש"</string>
     <string name="usb_storage_title">חיבור USB מחובר</string>
     <plurals name="wifi_available">
-        <item quantity="one">נמצאו רשתות Wi-Fi</item>
-        <item quantity="other">נמצאו רשתות Wi-Fi</item>
+        <item quantity="one">נמצאו רשתות WLAN</item>
+        <item quantity="other">נמצאו רשתות WLAN</item>
     </plurals>
     <plurals name="wifi_available_detailed">
         <item quantity="one">נמצאו רשתות Wi-Fi</item>
         <item quantity="other">נמצאו רשתות Wi-Fi</item>
     </plurals>
-    <string name="wifi_available_sign_in">התחבר ל-Wi-Fi</string>
+    <string name="wifi_available_sign_in">התחבר ל-WLAN</string>
 </resources>

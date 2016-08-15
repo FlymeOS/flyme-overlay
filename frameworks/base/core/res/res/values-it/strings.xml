@@ -50,8 +50,8 @@
     <string name="usb_storage_stop_title">"Archivio USB in uso"</string>
     <string name="usb_storage_title">USB connesso</string>
     <plurals name="wifi_available">
-        <item quantity="one">Wi-Fi disponibile</item>
-        <item quantity="other">Wi-Fi disponibile</item>
+        <item quantity="one">WLAN disponibile</item>
+        <item quantity="other">WLAN disponibile</item>
     </plurals>
     <plurals name="wifi_available_detailed">
         <item quantity="one">Vedi Wi-Fi disponibili</item>
