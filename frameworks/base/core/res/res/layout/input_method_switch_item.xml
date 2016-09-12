@@ -11,11 +11,8 @@
 
     <LinearLayout
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:minHeight="63dp"
+        android:layout_height="63dp"
         android:layout_weight="1"
-        android:paddingTop="11dp"
-         android:paddingBottom="11dp"
         android:orientation="vertical"
         android:gravity="center_vertical">
 
@@ -31,7 +28,7 @@
         <TextView android:id="@android:id/text2"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-             android:paddingTop="5dp"
+             android:layout_marginTop="2dp"
             android:textAppearance="?attr/textAppearanceListItemSecondary"
             android:textColor="?attr/textColorAlertDialogListItem"
             android:gravity="center_vertical|start"
