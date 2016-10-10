@@ -49,5 +49,13 @@
     <string name="usb_storage_stop_notification_title">Отключить USB-накопитель</string>
     <string name="usb_storage_stop_title">USB-накопитель используется</string>
     <string name="usb_storage_title">USB подключен</string>
+    <plurals name="wifi_available">
+        <item quantity="one">Доступна сеть WLAN</item>
+        <item quantity="other">Доступна сеть WLAN</item>
+    </plurals>
+    <plurals name="wifi_available_detailed">
+        <item quantity="one">Доступна открытая сеть WLAN</item>
+        <item quantity="other">Доступна открытая сеть WLAN</item>
+    </plurals>
     <string name="wifi_available_sign_in">Вход через WLAN</string>
 </resources>

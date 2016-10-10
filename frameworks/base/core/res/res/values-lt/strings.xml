@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="dlg_confirm_kill_storage_users_text">"Jei įjungsite USB atmintį, kai kurios naudojamos programos sustos ir gali būti negalimos, kol ją išjungsite."</string>
+    <string name="dlg_confirm_kill_storage_users_title">"Įjungti USB saugyklą"</string>
+    <string name="dlg_error_title">"Nesėkminga USB operacija"</string>
+    <string name="dlg_ok">"Gerai"</string>
+    <string name="ext_media_checking_notification_message">Tikrinama, ar nėra klaidų.</string>
+    <string name="extmedia_format_button_format">"Formatuoti"</string>
+    <string name="usb_accessory_notification_title">"Prijungta prie USB priedo"</string>
+    <string name="usb_cd_installer_notification_title">"Prij. kaip diegimo programa"</string>
+    <string name="usb_storage_activity_title">"USB didelės talpos atmintis"</string>
+    <string name="usb_storage_button_mount">"Įjungti USB saugyklą"</string>
+    <string name="usb_storage_notification_message">"Palieskite, kad kopijuotumėte failus į kompiuterį / iš jo."</string>
+    <string name="usb_storage_stop_button_mount">"Išjungti USB saugyklą"</string>
+    <string name="usb_storage_stop_error_message">"Išjungiant USB atmintį iškilo problemų. Įsitikinkite, kad pašalinote USB prieglobą ir bandykite dar kartą."</string>
+    <string name="usb_storage_stop_notification_message">Palieskite, kad išjungtumėte USB atmintį.</string>
+    <string name="usb_storage_stop_notification_title">"Išjungti USB saugyklą"</string>
+    <string name="usb_storage_stop_title">"Naudojama USB saugykla"</string>
+</resources>

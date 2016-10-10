@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="dlg_confirm_kill_storage_users_text">Ако включите USB устройството, някои използвани от вас приложения ще спрат и може да не са достъпни, докато не го изключите.</string>
+    <string name="dlg_confirm_kill_storage_users_title">Включване на USB устройството</string>
+    <string name="dlg_error_title">Неуспешна USB операция</string>
+    <string name="dlg_ok">"ОК"</string>
+    <string name="ext_media_checking_notification_message">Проверява се за грешки.</string>
+    <string name="extmedia_format_button_format">"Форматиране"</string>
+    <string name="usb_accessory_notification_title">Установена е връзка с USB аксесоар</string>
+    <string name="usb_cd_installer_notification_title">"Свързан като инсталационна програма"</string>
+    <string name="usb_storage_activity_title">Масова USB памет</string>
+    <string name="usb_storage_button_mount">Включване на USB устройството</string>
+    <string name="usb_storage_notification_message">"Докоснете, за да копирате файлове към или от компютъра си."</string>
+    <string name="usb_storage_stop_button_mount">"Изключване на USB устройството за съхранение"</string>
+    <string name="usb_storage_stop_error_message">При изключването на USB устройството възникна проблем. Проверете дали сте спрели USB хоста, след което опитайте отново.</string>
+    <string name="usb_storage_stop_notification_message">Докоснете, за да изключите USB устройството.</string>
+    <string name="usb_storage_stop_notification_title">"Изключване на USB устройството за съхранение"</string>
+    <string name="usb_storage_stop_title">USB устройството се използва</string>
+</resources>
