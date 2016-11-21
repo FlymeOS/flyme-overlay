@@ -57,5 +57,5 @@
         <item quantity="one">開啟可用的無線網絡</item>
         <item quantity="other">開啟可用的無線網絡</item>
     </plurals>
-    <string name="wifi_available_sign_in">登入到Wi-Fi</string>
+    <string name="wifi_available_sign_in">登入到WLAN</string>
 </resources>
