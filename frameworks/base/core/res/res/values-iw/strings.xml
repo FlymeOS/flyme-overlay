@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="adb_active_notification_message">תגע כדי להשבית ניפוי USB.</string>
+    <string name="adb_active_notification_title">איתור באגים של USB מחובר</string>
+    <string name="android_start_title">המכשיר בעלייה\u2026</string>
+    <string name="android_upgrading_title">המכשיר בשדרוג תוכנה\u2026</string>
+    <string name="configure_input_methods">קבע מקלדת</string>
+    <string-array name="fingerprint_acquired_vendor">
+        <item></item>
+        <item>המתן</item>
+        <item>אצבע על הקורא</item>
+        <item>אצבע למעלה</item>
+        <item>זמן לסריקת טביעת אצבע</item>
+        <item>בבקשה כוון את האצבע שלך</item>
+        <item>סרוק את האצבע שאיננה רשומה</item>
+    </string-array>
+    <string name="select_input_method">בחר מקלדת</string>
+    <string name="usb_mtp_notification_title">ניתן להעביר קבצים באמצעות מחשב PC</string>
+    <string name="usb_notification_message">גע לאפשרויות USB נוספות</string>
+    <string name="usb_ptp_notification_title">ניתן להעביר תמונות באמצעות מחשב PC</string>
+    <plurals name="wifi_available">
+        <item quantity="one">נמצאו רשתות WLAN</item>
+        <item quantity="other">נמצאו רשתות WLAN</item>
+    </plurals>
+    <plurals name="wifi_available_detailed">
+        <item quantity="one">נמצאו רשתות Wi-Fi</item>
+        <item quantity="other">נמצאו רשתות Wi-Fi</item>
+    </plurals>
+    <string name="wifi_available_sign_in">התחבר ל-WLAN</string>
+    <string name="android_system_label">שרות מערכת של Flyme</string>
+    <string name="anr_activity_application"><xliff:g id="APPLICATION">%2$s</xliff:g> אינו מגיב, לסגור את היישום?</string>
+    <string name="anr_activity_process">היישום <xliff:g id="activity">%1$s</xliff:g> לא מגיב, לסגור?</string>
+    <string name="anr_application_process"><xliff:g id="APPLICATION">%1$s</xliff:g> לא מגיב, לסגור יישום?</string>
+    <string name="anr_process">התהליך <xliff:g id="PROCESS">%1$s</xliff:g> לא מגיב, לסגור אותו?</string>
+</resources>

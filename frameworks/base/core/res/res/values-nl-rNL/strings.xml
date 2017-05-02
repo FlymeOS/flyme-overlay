@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="adb_active_notification_message">Tik om USB-foutopsporing uit te schakelen.</string>
+    <string name="adb_active_notification_title">USB-foutopsporing verbonden</string>
+    <string name="android_start_title">Het systeem wordt gestart \u2026</string>
+    <string name="android_upgrading_title">Het systeem wordt geüpgraded \u2026</string>
+    <string name="configure_input_methods">"Invoermethode instellen"</string>
+    <string-array name="fingerprint_acquired_vendor">
+        <item></item>
+        <item>wait finger down</item>
+        <item>finger down</item>
+        <item>finger up</item>
+        <item>finger down timeout</item>
+        <item>please adjust your finger</item>
+        <item>please put the finger not enrolled</item>
+    </string-array>
+    <string name="select_input_method">"Invoermethode kiezen"</string>
+    <string name="sms_short_code_confirm_message">Sent the message?</string>
+    <string name="usb_mtp_notification_title">De bestanden kunnen via de pc worden overgedragen</string>
+    <string name="usb_notification_message">Tik voor andere USB-opties</string>
+    <string name="usb_ptp_notification_title">De foto\'s kunnen via de pc worden overgedragen</string>
+    <plurals name="wifi_available">
+        <item quantity="one">WLAN beschikbaar</item>
+        <item quantity="other">WLAN beschikbaar</item>
+    </plurals>
+    <plurals name="wifi_available_detailed">
+        <item quantity="one">Beschikbare wifinetwerken bekijken</item>
+        <item quantity="other">Beschikbare wifinetwerken bekijken</item>
+    </plurals>
+    <string name="wifi_available_sign_in">Bezig met aanmelden bij WLANnetwerk</string>
+    <string name="android_system_label">Flyme-systeemservice</string>
+    <string name="anr_activity_application"><xliff:g id="APPLICATION">%2$s</xliff:g> reageert niet; wilt u het sluiten?</string>
+    <string name="anr_activity_process">Activiteit <xliff:g id="activity">%1$s</xliff:g> reageert niet; wilt u hem sluiten?</string>
+    <string name="anr_application_process"><xliff:g id="APPLICATION">%1$s</xliff:g> reageert niet: wilt u hem beëindigen?</string>
+    <string name="anr_process">Proces <xliff:g id="PROCESS">%1$s</xliff:g> reageert niet; wilt u het sluiten?</string>
+</resources>

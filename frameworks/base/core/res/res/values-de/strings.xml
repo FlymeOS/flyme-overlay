@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="adb_active_notification_message">Zum Deaktivieren von USB-Debugging berühren.</string>
+    <string name="adb_active_notification_title">USB-Debugging bei Anschluss aktiviert</string>
+    <string name="android_start_title">System wird gestartet\u2026</string>
+    <string name="android_upgrading_title">System wird aktualisiert\u2026</string>
+    <string name="configure_input_methods">"Eingabemethode einrichten"</string>
+    <string-array name="fingerprint_acquired_vendor">
+        <item></item>
+        <item>Warten auf Finger ablegen</item>
+        <item>Finger ablegen</item>
+        <item>Finger anheben</item>
+        <item>Zeitüberschreitung bei Finger ablegen</item>
+        <item>Bitte Fingerposition ändern</item>
+        <item>Bitte noch nicht gespeicherten Finger verwenden</item>
+    </string-array>
+    <string name="select_input_method">"Eingabemethode auswählen"</string>
+    <string name="sms_short_code_confirm_message">Nachricht senden?</string>
+    <string name="usb_mtp_notification_title">Dateien können vom PC übertragen werden</string>
+    <string name="usb_notification_message">Zum Anzeigen weiterer USB-Optionen berühren</string>
+    <string name="usb_ptp_notification_title">Fotos können über den PC übertragen werden</string>
+    <plurals name="wifi_available">
+        <item quantity="one">WLAN verfügbar</item>
+        <item quantity="other">WLAN verfügbar</item>
+    </plurals>
+    <plurals name="wifi_available_detailed">
+        <item quantity="one">Verfügbares WLAN-Netzwerk anzeigen</item>
+        <item quantity="other">Verfügbares WLAN-Netzwerk anzeigen</item>
+    </plurals>
+    <string name="wifi_available_sign_in">Im WLAN-Netzwerk anmelden</string>
+    <string name="android_system_label">Flyme-Systemdienst</string>
+    <string name="anr_activity_application"><xliff:g id="APPLICATION">%2$s</xliff:g> antwortet nicht. Schließen?</string>
+    <string name="anr_activity_process">Die Aktivität <xliff:g id="activity">%1$s</xliff:g> antwortet nicht. Möchten Sie diesen beenden?</string>
+    <string name="anr_application_process"><xliff:g id="APPLICATION">%1$s</xliff:g> reagiert nicht, jetzt schließen?</string>
+    <string name="anr_process">Der Vorgang <xliff:g id="PROCESS">%1$s</xliff:g> antwortet nicht. Möchten Sie diesen beenden?</string>
+</resources>

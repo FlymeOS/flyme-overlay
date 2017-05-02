@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <!-- Widget Styles -->
+    <style name="Widget.Material.Light.PopupMenu.Overflow" parent="Widget.Material.PopupMenu.Overflow">
+        <item name="overlapAnchor">false</item>
+        <item name="popupAnimationStyle">@null</item>
+    </style>
+
+    <style name="Widget.DeviceDefault.Light.ActionBar.TabBar" parent="Widget.Material.Light.ActionBar.TabBar">
+        <item name="divider">@null</item>
+    </style>
+
+    <style name="Widget.DeviceDefault.Light.ActionButton.Overflow" parent="Widget.Material.Light.ActionButton.Overflow">
+        <item name="paddingStart">12dp</item>
+        <item name="paddingEnd">12dp</item>
+    </style>
+
+    <style name="Widget.DeviceDefault.Light.ActionMode" parent="Widget.Material.Light.ActionMode">
+        <item name="background">@null</item>
+        <item name="backgroundSplit">@null</item>
+    </style>
+    <style name="Widget.DeviceDefault.Light.ListView.DropDown" parent="Widget.Material.Light.ListView"/>
+
+     <style name="Widget.DeviceDefault.Light.ActionBar" parent="Widget.Material.Light.ActionBar">
+        <item name="elevation">0dp</item>
+        <item name="backgroundSplit">#181c1f</item>
+     </style>
+
+     <style name="Widget.DeviceDefault.Light.ActionBar.Solid" parent="Widget.Material.Light.ActionBar.Solid">
+        <item name="elevation">0dp</item>
+        <item name="backgroundSplit">#181c1f</item>
+     </style>
+
+     <style name="TextAppearance.DeviceDefault.Widget.PopupMenu.Large" parent="TextAppearance.Material.Widget.PopupMenu.Large">
+         <item name="textSize">18sp</item>
+     </style>
+
+     <style name="Widget.DeviceDefault.Light.Button" parent="Widget.Material.Light.Button">
+         <item name="stateListAnimator">@null</item>
+      </style>
+</resources>

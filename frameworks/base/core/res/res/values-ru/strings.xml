@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="adb_active_notification_message">Нажмите для отключения отладки по USB</string>
+    <string name="adb_active_notification_title">Отладка по USB включена</string>
+    <string name="android_start_title">Запуск системы…</string>
+    <string name="android_upgrading_title">Система обновляется…</string>
+    <string name="configure_input_methods">"Установить способ ввода"</string>
+    <string-array name="fingerprint_acquired_vendor">
+        <item></item>
+        <item>Палец вниз - ожидание</item>
+        <item>Палец вниз</item>
+        <item>Палец вверх</item>
+        <item>Палец вниз - таймаут</item>
+        <item>Слегка перемещайте палец</item>
+        <item>Используйте другой палец</item>
+    </string-array>
+    <string name="select_input_method">"Выбрать способ ввода"</string>
+    <string name="sms_short_code_confirm_message">Отправить сообщение?</string>
+    <string name="usb_mtp_notification_title">Подключён как медианоситель</string>
+    <string name="usb_notification_message">Нажать для настройки</string>
+    <string name="usb_ptp_notification_title">Подключен как камера</string>
+    <plurals name="wifi_available">
+        <item quantity="one">Доступна сеть WLAN</item>
+        <item quantity="other">Доступна сеть WLAN</item>
+    </plurals>
+    <plurals name="wifi_available_detailed">
+        <item quantity="one">Доступна открытая сеть WLAN</item>
+        <item quantity="other">Доступна открытая сеть WLAN</item>
+    </plurals>
+    <string name="wifi_available_sign_in">Вход через WLAN</string>
+    <string name="android_system_label">Система Flyme</string>
+    <string name="anr_activity_application"><xliff:g id="application">%2$s</xliff:g> не отвечает. Закрыть принудительно?</string>
+    <string name="anr_activity_process"><xliff:g id="activity">%1$s</xliff:g> не отвечает. Закрыть принудительно?</string>
+    <string name="anr_application_process">Приложение <xliff:g id="application">%1$s</xliff:g> не отвечает. Закрыть принудительно?</string>
+    <string name="anr_process">Процесс <xliff:g id="process">%1$s</xliff:g> не отвечает. Закрыть принудительно?</string>
+</resources>

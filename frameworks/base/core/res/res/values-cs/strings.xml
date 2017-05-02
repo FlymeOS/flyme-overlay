@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="adb_active_notification_message">Dotykem zakážete ladění přes rozhraní USB.</string>
+    <string name="adb_active_notification_title">Ladění přes rozhraní USB připojeno</string>
+    <string name="android_start_title">Systém se spouští\u2026</string>
+    <string name="android_upgrading_title">Probíhá upgrade systému\u2026</string>
+    <string name="configure_input_methods">Nastavit metodu zadávání</string>
+    <string-array name="fingerprint_acquired_vendor">
+        <item></item>
+        <item>čekání na položení prstu</item>
+        <item>položte prst</item>
+        <item>zvedněte prst</item>
+        <item>Časový limit pro otisk prstu vypršel</item>
+        <item>upravte prosím polohu prstu</item>
+        <item>použijte prosím prst, který nebyl zaregistrován</item>
+    </string-array>
+    <string name="select_input_method">Vyberte metodu zadávání</string>
+    <string name="sms_short_code_confirm_message">Odeslat zprávu?</string>
+    <string name="usb_mtp_notification_title">Přenést soubory přes kabel</string>
+    <string name="usb_notification_message">Dotykem zobrazíte další možnosti rozhraní USB.</string>
+    <string name="usb_ptp_notification_title">Přenést fotografie do PC</string>
+    <plurals name="wifi_available">
+        <item quantity="one">Dostupné sítě WLAN</item>
+        <item quantity="other">Dostupné sítě WLAN</item>
+    </plurals>
+    <plurals name="wifi_available_detailed">
+        <item quantity="one">Zobrazit dostupné WLAN</item>
+        <item quantity="other">Zobrazit dostupné WLAN</item>
+    </plurals>
+    <string name="wifi_available_sign_in">Přihlásit k WLAN</string>
+    <string name="android_system_label">Systémová služba Flyme</string>
+    <string name="anr_activity_application"><xliff:g id="APPLICATION">%2$s</xliff:g> nereaguje. Chcete ji uzavřít?</string>
+    <string name="anr_activity_process">Aktivita <xliff:g id="activity">%1$s</xliff:g> nereaguje, chcete ji uzavřít?</string>
+    <string name="anr_application_process"><xliff:g id="APPLICATION">%1$s</xliff:g> nereaguje, vypnout?</string>
+    <string name="anr_process">Proces <xliff:g id="PROCESS">%1$s</xliff:g> nereaguje. Chcete jej uzavřít?</string>
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="adb_active_notification_message">Toque para desativar a depuração USB</string>
+    <string name="adb_active_notification_title">Depuração USB conectada</string>
+    <string name="android_start_title">Inicializando sistema...</string>
+    <string name="android_upgrading_title">Atualizando sistema...</string>
+    <string name="configure_input_methods">Definir método de entrada</string>
+    <string-array name="fingerprint_acquired_vendor">
+        <item></item>
+        <item>mantenha pressionado</item>
+        <item>pressione o dedo</item>
+        <item>levante o dedo</item>
+        <item>tempo limite esgotado</item>
+        <item>ajuste a posição do dedo</item>
+        <item>coloque um dedo não registrado</item>
+    </string-array>
+    <string name="select_input_method">Selecionar método de entrada</string>
+    <string name="sms_short_code_confirm_message">Enviou a mensagem?</string>
+    <string name="usb_mtp_notification_title">Transferir arquivos via cabo</string>
+    <string name="usb_notification_message">Toque para outras opções USB</string>
+    <string name="usb_ptp_notification_title">As fotos podem ser transferidas via PC</string>
+    <plurals name="wifi_available">
+        <item quantity="one">WLAN disponível</item>
+        <item quantity="other">WLAN disponível</item>
+    </plurals>
+    <plurals name="wifi_available_detailed">
+        <item quantity="one">Visualizar redes Wi-Fi disponíveis</item>
+        <item quantity="other">Visualizar redes Wi-Fi disponíveis</item>
+    </plurals>
+    <string name="wifi_available_sign_in">Login para WLAN</string>
+    <string name="android_system_label">Serviço do Sistema Flyme</string>
+    <string name="anr_activity_application"><xliff:g id="APPLICATION">%2$s</xliff:g> não está respondendo, deseja fechar?</string>
+    <string name="anr_activity_process">A atividade <xliff:g id="activity">%1$s</xliff:g> não está respondendo, deseja fechá-la?</string>
+    <string name="anr_application_process"><xliff:g id="APPLICATION">%1$s</xliff:g> Não está respondendo, desligar agora?</string>
+    <string name="anr_process">Processo <xliff:g id="PROCESS">%1$s</xliff:g> não está respondendo. Você deseja fechá-lo?</string>
+</resources>

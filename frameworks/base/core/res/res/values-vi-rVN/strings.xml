@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="adb_active_notification_message">Chạm để vô hiệu hóa gỡ lỗi USB.</string>
+    <string name="adb_active_notification_title">Đã kết nối Gỡ lỗi USB</string>
+    <string name="android_start_title">Hệ thống đang khởi động\u2026</string>
+    <string name="android_upgrading_title">Hệ thống đang nâng cấp\u2026</string>
+    <string name="configure_input_methods">"Thiết lập phương pháp nhập liệu"</string>
+    <string-array name="fingerprint_acquired_vendor">
+        <item></item>
+        <item>chờ nhấn ngón tay xuống</item>
+        <item>nhấn ngón tay xuống</item>
+        <item>nhấc ngón tay lên</item>
+        <item>thời gian chờ nhấn ngón tay xuống</item>
+        <item>vui lòng điều chỉnh ngón tay bạn</item>
+        <item>hãy đặt ngón tay chưa được đăng ký</item>
+    </string-array>
+    <string name="select_input_method">"Chọn phương pháp nhập liệu"</string>
+    <string name="sms_short_code_confirm_message">Đã gửi tin nhắn?</string>
+    <string name="usb_mtp_notification_title">Truyền tải tập tin qua cáp</string>
+    <string name="usb_notification_message">Chạm để có các tùy chọn USB khác</string>
+    <string name="usb_ptp_notification_title">Ảnh có thể được truyền tải thông qua PC</string>
+    <plurals name="wifi_available">
+        <item quantity="one">WLAN khả dụng</item>
+        <item quantity="other">WLAN khả dụng</item>
+    </plurals>
+    <plurals name="wifi_available_detailed">
+        <item quantity="one">Xem mạng WLAN khả dụng</item>
+        <item quantity="other">Xem mạng WLAN khả dụng</item>
+    </plurals>
+    <string name="wifi_available_sign_in">Đăng nhập vào WLAN</string>
+    <string name="android_system_label">Dịch vụ hệ thống Flyme</string>
+    <string name="anr_activity_application"><xliff:g id="APPLICATION">%2$s</xliff:g> không phản hồi, bạn có muốn đóng nó?</string>
+    <string name="anr_activity_process">Hoạt động <xliff:g id="activity">%1$s</xliff:g> không phản hồi, bạn có muốn đóng nó?</string>
+    <string name="anr_application_process"><xliff:g id="APPLICATION">%1$s</xliff:g> không phản hồi, tắt nó?</string>
+    <string name="anr_process">Tiến trình <xliff:g id="PROCESS">%1$s</xliff:g> không phản hồi, bạn có muốn đóng nó?</string>
+</resources>

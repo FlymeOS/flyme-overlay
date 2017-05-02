@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Layout used by SwitchPreference for the switch widget style. This is inflated
+     inside android.R.layout.preference. -->
+<Switch xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+android:id/switchWidget"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="right"
+    android:layout_marginRight="13dip"
+    android:focusable="false" />

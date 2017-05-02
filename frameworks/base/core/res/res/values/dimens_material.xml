@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- preference title textSize -->
+    <dimen name="text_size_subhead_material">18sp</dimen>
+    <!-- Padding above and below selection dialog lists. -->
+    <dimen name="dialog_list_padding_vertical_material">0dp</dimen>
+    <dimen name="floating_window_z">6dp</dimen>
+</resources>

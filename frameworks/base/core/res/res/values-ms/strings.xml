@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="adb_active_notification_message">"Sentuh untuk nyahdayakan penyahpepijatan"</string>
+    <string name="adb_active_notification_title">"USB debugging disambungkan"</string>
+    <string name="android_start_title">"Sistem bermula\u2026"</string>
+    <string name="android_upgrading_title">"Sistem dikemaskini\u2026"</string>
+    <string name="configure_input_methods">"Menetapkan kaedah input"</string>
+    <string-array name="fingerprint_acquired_vendor">
+        <item></item>
+        <item>"menunggu jari ke bawah"</item>
+        <item>"jari ke bawah"</item>
+        <item>"jari sehingga"</item>
+        <item>"jari ke bawah tamat masa"</item>
+        <item>"sila laraskan jari anda"</item>
+        <item>"sila meletakkan jari tidak mendaftar"</item>
+    </string-array>
+    <string name="select_input_method">"Pilih kaedah input"</string>
+    <string name="sms_short_code_confirm_message">"Hantar mesej?"</string>
+    <string name="usb_mtp_notification_title">"Fail boleh dipindahkan melalui PC"</string>
+    <string name="usb_notification_message">"Sentuh untuk mendapatkan pilihan USB"</string>
+    <string name="usb_ptp_notification_title">"Foto boleh dipindahkan melalui PC"</string>
+    <string name="wifi_available_sign_in">"Log masuk untuk WLAN"</string>
+    <string name="android_system_label">"Perkhidmatan sistem FlyMe"</string>
+    <string name="anr_activity_application">"<xliff:g id="APPLICATION">%2$s</xliff:g> tiada tindak balas, Adakah anda mahu menutupnya?"</string>
+    <string name="anr_activity_process">"Aktiviti <xliff:g id="activity">%1$s</xliff:g>tidak menjawab, adakah anda mahu menutupnya?"</string>
+    <string name="anr_application_process">"<xliff:g id="APPLICATION">%1$s</xliff:g> tidak bertindak balas, menutupnya?"</string>
+    <string name="anr_process">"Proses <xliff:g id="PROCESS">%1$s</xliff:g> tidak menjawab, Adakah anda mahu menutupnya?"</string>
+</resources>

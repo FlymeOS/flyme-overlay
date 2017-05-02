@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="adb_active_notification_message">Dotknij, aby wyłączyć debugowanie USB.</string>
+    <string name="adb_active_notification_title">Podłączono moduł debugowania USB</string>
+    <string name="android_start_title">Trwa uruchamianie systemu...</string>
+    <string name="android_upgrading_title">Trwa aktualizacja systemu...</string>
+    <string name="configure_input_methods">Skonfiguruj metodę wpisywania</string>
+    <string-array name="fingerprint_acquired_vendor">
+        <item></item>
+        <item>poczekaj, trzymając palec przyłożony</item>
+        <item>przytrzymaj palec</item>
+        <item>zabierz palec</item>
+        <item>przekroczenie czasu przytrzymywania palca</item>
+        <item>dopasuj ułożenie palca</item>
+        <item>przyłóż niezarejestrowany palec</item>
+    </string-array>
+    <string name="select_input_method">Wybierz metodę wprowadzania</string>
+    <string name="sms_short_code_confirm_message">Wysłać wiadomość?</string>
+    <string name="usb_mtp_notification_title">Przesyłaj pliki przewodowo</string>
+    <string name="usb_notification_message">Dotknij, aby wyświetlić pozostałe opcje USB</string>
+    <string name="usb_ptp_notification_title">Transfer zdjęć na komputerze</string>
+    <plurals name="wifi_available">
+        <item quantity="one">Dostępna WLAN</item>
+        <item quantity="other">Dostępna WLAN</item>
+    </plurals>
+    <plurals name="wifi_available_detailed">
+        <item quantity="one">Wyświetl dostępną sieć WLAN</item>
+        <item quantity="other">Wyświetl dostępną sieć WLAN</item>
+    </plurals>
+    <string name="wifi_available_sign_in">Zaloguj się do sieci WLAN</string>
+    <string name="android_system_label">Usługa systemowa Flyme</string>
+    <string name="anr_activity_application">Aplikacja <xliff:g id="APPLICATION">%2$s</xliff:g> nie odpowiada. Zamknąć?</string>
+    <string name="anr_activity_process">Działanie <xliff:g id="activity">%1$s</xliff:g> nie odpowiada. Zakończyć?</string>
+    <string name="anr_application_process">Aplikacja <xliff:g id="APPLICATION">%1$s</xliff:g> nie odpowiada. Zamknąć?</string>
+    <string name="anr_process">Proces <xliff:g id="PROCESS">%1$s</xliff:g> nie odpowiada, Zakończyć?</string>
+</resources>

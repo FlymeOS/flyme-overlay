@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="adb_active_notification_message">ইউএসবিডিবাগিং নিষ্ক্রিয়করতে টোকা দিন।</string>
+    <string name="adb_active_notification_title">USB ডিবাগিং সংযুক্ত</string>
+    <string name="android_start_title">সিস্টেম অরম্ভ হচ্ছে\u2026</string>
+    <string name="android_upgrading_title">সিস্টেম আপগ্রেড করা হচ্ছে\u2026</string>
+    <string name="configure_input_methods">"ইনপুট পদ্ধতি সেট আপ করুন"</string>
+    <string-array name="fingerprint_acquired_vendor">
+        <item></item>
+        <item>আঙ্গুল নিচে রেখে অপেক্ষা করুন</item>
+        <item>finger down</item>
+        <item>finger up</item>
+        <item>finger down টাইমআউট</item>
+        <item>অনুগ্রহ করে আপনার আঙ্গুল সমন্বয় করুন</item>
+        <item>নিবন্ধিত নয় আঙ্গুলটি রাখুন</item>
+    </string-array>
+    <string name="select_input_method">"ইনপুট পদ্ধতি নির্বাচন করুন"</string>
+    <string name="sms_short_code_confirm_message">বার্তা পাঠানো হয়েছে?</string>
+    <string name="usb_mtp_notification_title">ক্যাবলের মাধ্যমে ফাইল স্থানান্তর করুন</string>
+    <string name="usb_notification_message">অন্যান্য ইউএসবি বিকল্পের জন্য স্পর্শ করুন</string>
+    <string name="usb_ptp_notification_title">ফটোগুলিকে PC-এর মাধ্যমে স্থানান্তর করা যেতে পারে</string>
+    <string name="wifi_available_sign_in">WLAN-এ লগইন করুন</string>
+    <string name="android_system_label">Flyme সিস্টেম পরিষেবা</string>
+    <string name="anr_activity_application"><xliff:g id="APPLICATION">%2$s</xliff:g> প্রতিক্রিয়া জানাচ্ছে না, আপনি কি এটিকে বন্ধ করতে চান?</string>
+    <string name="anr_activity_process">ক্রিয়াকলাপ <xliff:g id="activity">%1$s</xliff:g> প্রতিক্রিয়া জানাচ্ছে না, আপনি কি এটিকে বন্ধ করতে চান?</string>
+    <string name="anr_application_process"><xliff:g id="APPLICATION">%1$s</xliff:g> প্রতিক্রিয়া জানাচ্ছে না, এটিকে বন্ধ করবেন?</string>
+    <string name="anr_process">প্রক্রিয়া <xliff:g id="PROCESS">%1$s</xliff:g> প্রতিক্রিয়া জানাচ্ছে না, আপনি কি এটিকে বন্ধ করতে চান?</string>
+</resources>

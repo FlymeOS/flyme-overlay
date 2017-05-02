@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="configure_input_methods">"Set up input method"</string>
+    <string name="select_input_method">"Select input method"</string>
+
+    <string name="wifi_available_sign_in">Login to WLAN</string>
+    <string name="adb_active_notification_title">USB debugging connected</string>
+
+    <!-- [CHAR LIMIT=40] Title of dialog that is shown when performing a system upgrade. -->
+    <string name="android_upgrading_title">System is upgrading\u2026</string>
+
+    <!-- [CHAR LIMIT=40] Title of dialog that is shown when system is starting. -->
+    <string name="android_start_title">System is starting\u2026</string>
+
+    <!-- USB_PREFERENCES: Notification for when the user connects the phone to a computer via USB in MTP mode.  This is the title -->
+    <string name="usb_mtp_notification_title">Transfer files via cable</string>
+    <!-- USB_PREFERENCES: Notification for when the user connects the phone to a computer via USB in PTP mode.  This is the title -->
+    <string name="usb_ptp_notification_title">Photos can be transferred via PC</string>
+    <!-- USB_PREFERENCES: Notification for when a USB accessory is attached.  This is the title -->
+    <string name="usb_accessory_notification_title">Connected to a USB accessory</string>
+    <!-- See USB_PREFERENCES. This is the message. -->
+    <string name="usb_notification_message">Touch for other USB options</string>
+
+    <!-- Title of notification shown when ADB is actively connected to the phone. -->
+    <string name="adb_active_notification_title">USB debugging connected</string>
+    <!-- Message of notification shown when ADB is actively connected to the phone. -->
+    <string name="adb_active_notification_message">Touch to disable USB debugging</string>
+
+    <string-array name="fingerprint_acquired_vendor">
+	    <item></item>
+	    <item>wait finger down</item>
+	    <item>finger down</item>
+	    <item>finger up</item>
+	    <item>finger down timeout</item>
+	    <item>please adjust your finger</item>
+	    <item>please put the finger not enrolled</item>
+    </string-array>
+
+    <plurals name="wifi_available_detailed">
+        <item quantity="one">Tap to Connect</item>
+        <item quantity="other">Tap to Connect</item>
+    </plurals>
+    <plurals name="wifi_available">
+        <item quantity="one">WLAN available</item>
+        <item quantity="other">WLAN available</item>
+    </plurals>
+
+    <string name="sms_short_code_confirm_message">Sent the message?</string>
+    <string name="anr_activity_application"><xliff:g id="APPLICATION">%2$s</xliff:g> isn\'t responding,Do you want to close it?</string>
+    <!-- Text of the alert that is displayed when an application is not responding. -->
+    <string name="anr_activity_process">Activity <xliff:g id="activity">%1$s</xliff:g> isn\'t responding, do you want to close it?</string>
+    <!-- Text of the alert that is displayed when an application is not responding. -->
+    <string name="anr_application_process"><xliff:g id="APPLICATION">%1$s</xliff:g> is not responding, shut it down?</string>
+    <!-- Text of the alert that is displayed when an application is not responding. -->
+    <string name="anr_process">Process <xliff:g id="PROCESS">%1$s</xliff:g> isn\'t responding,Do you want to close it?</string>
+    <string name="android_system_label">System service</string>
+    <!-- Title of intent resolver dialog when selecting a viewer application to run. -->
+    <string name="whichViewApplication">Open with</string>
+</resources>

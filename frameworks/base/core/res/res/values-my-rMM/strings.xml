@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="adb_active_notification_message">USB အမွားရွာေဖြျပင္ဆင္ျခင္းကိုပိတ္ရန္ ႏွိပ္ပါ။</string>
+    <string name="adb_active_notification_title">USB အမွားရွာေဖြဖယ္ရွားခ်က္ ခ်ိတ္ဆက္ထားသည္</string>
+    <string name="android_start_title">စနစ္ စတင္ေနဆဲ\u2026</string>
+    <string name="android_upgrading_title">စနစ္ အဆင့္ျမႇင့္တင္ေနဆဲ\u2026</string>
+    <string name="configure_input_methods">"ျဖည့္သြင္းမႈနည္းစနစ္ကို သတ္မွတ္ပါ"</string>
+    <string-array name="fingerprint_acquired_vendor">
+        <item></item>
+        <item>လက္ေခ်ာင္းေနရာခ်မႈကို ေစာင့္ပါ</item>
+        <item>လက္ေခ်ာင္းေနရာခ်မႈ</item>
+        <item>လက္ေခ်ာင္းကို မတင္ပါ</item>
+        <item>လက္ေခ်ာင္းေနရာခ်မႈ အခ်ိန္ကုန္ပါၿပီ</item>
+        <item>ေက်းဇူးျပဳ၍ သင္၏လက္ေခ်ာင္းကို ခ်ိန္ညႇိပါ</item>
+        <item>ေက်းဇူးျပဳ၍ လက္ေခ်ာင္းကိုေနရာခ်ပါ ၎ကိုစာရင္းမသြင္းထားပါ</item>
+    </string-array>
+    <string name="select_input_method">"ျဖည့္သြင္းမႈနည္းစနစ္ကို ေရြးပါ"</string>
+    <string name="sms_short_code_confirm_message">မက္ေဆ့ဂ်္ ပို႕ျပီးျပီလား။</string>
+    <string name="usb_mtp_notification_title">ေကဘယ္မွတဆင့္ ဖိုင္မ်ားကို လႊဲေျပာင္းပါ</string>
+    <string name="usb_notification_message">အျခား USB ေရြးခ်ယ္ရန္မ်ားအတြက္ ႏွိပ္ပါ</string>
+    <string name="usb_ptp_notification_title">ဓာတ္ပံုမ်ားကို PC မွတဆင့္ လႊဲေျပာင္းႏုိင္သည္</string>
+    <plurals name="wifi_available">
+        <item quantity="one">WLAN ရရွိႏိုင္သည္</item>
+        <item quantity="other">WLAN ရရွိႏိုင္သည္</item>
+    </plurals>
+    <plurals name="wifi_available_detailed">
+        <item quantity="one">WLAN ရရွိႏိုင္မႈကို ၾကည့္႐ႈပါ</item>
+        <item quantity="other">WLAN ရရွိႏိုင္မႈကို ၾကည့္႐ႈပါ</item>
+    </plurals>
+    <string name="wifi_available_sign_in">WLAN သို႔ ဝင္ေရာက္ပါ</string>
+    <string name="android_system_label">Flyme စနစ္ ဝန္ေဆာင္မႈ</string>
+    <string name="anr_activity_application"><xliff:g id="APPLICATION">%2$s</xliff:g> သည္ တုန္႔ျပန္မႈမျပဳပါ၊ ၎ကို ပိတ္လိုသလား။</string>
+    <string name="anr_activity_process">လုပ္ေဆာင္ခ်က္ <xliff:g id="activity">%1$s</xliff:g> သည္ တုန္႔ျပန္မႈမျပဳပါ၊ ၎ကို ပိတ္လိုသလား?</string>
+    <string name="anr_application_process"><xliff:g id="APPLICATION">%1$s</xliff:g> သည္ တုန္႔ျပန္မႈမျပဳပါ၊ ၎ကို ပိတ္လိုသလား။</string>
+    <string name="anr_process">လုပ္ေဆာင္မႈ <xliff:g id="PROCESS">%1$s</xliff:g> သည္ တုန္႔ျပန္မႈမျပဳပါ၊ ၎ကို ပိတ္လိုသလား။</string>
+</resources>

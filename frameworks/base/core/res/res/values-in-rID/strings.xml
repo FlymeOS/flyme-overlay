@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="adb_active_notification_message">Sentuh untuk menonaktifkan penelusuran kesalahan USB.</string>
+    <string name="adb_active_notification_title">Penelusuran kesalahan USB disambungkan</string>
+    <string name="android_start_title">Sistem memulai\u2026</string>
+    <string name="android_upgrading_title">Sistem sedang meningkatkan versi\u2026</string>
+    <string name="configure_input_methods">"Mengatur metode masukan"</string>
+    <string-array name="fingerprint_acquired_vendor">
+        <item></item>
+        <item>tunggu jari ke bawah</item>
+        <item>jari ke bawah</item>
+        <item>jari ke atas</item>
+        <item>batas waktu jari ke bawah</item>
+        <item>harap sesuaikan jari Anda</item>
+        <item>harap letakkan jari yang belum didaftarkan</item>
+    </string-array>
+    <string name="select_input_method">"Pilih metode input"</string>
+    <string name="sms_short_code_confirm_message">Pesan terkirim?</string>
+    <string name="usb_mtp_notification_title">Transfer file via kabel</string>
+    <string name="usb_notification_message">Sentuh untuk opsi USB lainnya</string>
+    <string name="usb_ptp_notification_title">Foto dapat ditransfer via PC</string>
+    <plurals name="wifi_available">
+        <item quantity="one">WLAN tersedia</item>
+        <item quantity="other">WLAN tersedia</item>
+    </plurals>
+    <plurals name="wifi_available_detailed">
+        <item quantity="one">Lihat WLAN yang tersedia</item>
+        <item quantity="other">Lihat WLAN yang tersedia</item>
+    </plurals>
+    <string name="wifi_available_sign_in">Login ke WLAN</string>
+    <string name="android_system_label">Layanan sistem Flyme</string>
+    <string name="anr_activity_application"><xliff:g id="APPLICATION">%2$s</xliff:g> tidak merespons. Anda ingin menutupnya?</string>
+    <string name="anr_activity_process">Aktivitas <xliff:g id="activity">%1$s</xliff:g> tidak merespons. Anda ingin menutupnya?</string>
+    <string name="anr_application_process"><xliff:g id="APPLICATION">%1$s</xliff:g> tidak merespons, matikan?</string>
+    <string name="anr_process">Proses <xliff:g id="PROCESS">%1$s</xliff:g> tidak merespons. Anda ingin menutupnya?</string>
+</resources>

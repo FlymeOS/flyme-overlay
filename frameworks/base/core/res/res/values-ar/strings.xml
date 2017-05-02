@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="adb_active_notification_message">المس لتعطيل تصحيح أخطاء USB.</string>
+    <string name="adb_active_notification_title">تم تفعيل تصحيح أخطاء USB</string>
+    <string name="android_start_title">يبدأ تشغيل النظام\u2026</string>
+    <string name="android_upgrading_title">تتم ترقية النظام\u2026</string>
+    <string name="configure_input_methods">"إعداد طريقة الإدخال"</string>
+    <string-array name="fingerprint_acquired_vendor">
+        <item></item>
+        <item>انتظر التمرير لأسفل</item>
+        <item>التمرير لأسفل</item>
+        <item>التمرير لأعلى</item>
+        <item>مهلة التمرير لأسفل</item>
+        <item>يرجى تعديل إصبعك</item>
+        <item>يرجى وضع إصبعك غير المسجل </item>
+    </string-array>
+    <string name="select_input_method">"تحديد طريقة الإدخال"</string>
+    <string name="sms_short_code_confirm_message">إرسال الرسالة؟</string>
+    <string name="usb_mtp_notification_title">نقل الملفات عبر الكابل</string>
+    <string name="usb_notification_message">المس للاطلاع على خيارات USB الأخرى</string>
+    <string name="usb_ptp_notification_title">يمكن نقل الصور عبر جهاز الكمبيوتر</string>
+    <plurals name="wifi_available">
+        <item quantity="one">شبكة WLAN متاحة</item>
+        <item quantity="other">شبكة WLAN متاحة</item>
+    </plurals>
+    <plurals name="wifi_available_detailed">
+        <item quantity="one">عرض شبكة WLAN المتاحة</item>
+        <item quantity="other">عرض شبكة WLAN المتاحة</item>
+    </plurals>
+    <string name="wifi_available_sign_in">سجل الدخول إلى شبكة WLAN</string>
+    <string name="android_system_label">خدمة نظام Flyme</string>
+    <string name="anr_activity_application"><xliff:g id="APPLICATION">%2$s</xliff:g> لا يستجيب، هل تريد إغلاقه؟</string>
+    <string name="anr_activity_process">النشاط <xliff:g id="activity">%1$s</xliff:g> لا يستجيب، هل تريد إغلاقه؟</string>
+    <string name="anr_application_process"><xliff:g id="APPLICATION">%1$s</xliff:g> لا يستجيب، هل تريد إغلاقه؟</string>
+    <string name="anr_process">العملية <xliff:g id="PROCESS">%1$s</xliff:g> لا تستجيب، هل تريد إغلاقها؟</string>
+</resources>

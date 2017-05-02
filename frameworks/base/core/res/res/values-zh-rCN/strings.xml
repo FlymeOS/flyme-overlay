@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="select_input_method" msgid="8547250819326693584">"选择输入法"</string>
+    <string name="configure_input_methods" msgid="4769971288371946846">"设置输入法"</string>
+    <string name="wifi_available_sign_in" msgid="4029489716605255386">"登录到无线网络"</string>
+    <string name="adb_active_notification_title" msgid="6729044778949189918">"已连接到 USB 调试"</string>
+    <plurals name="wifi_available_detailed">
+        <item quantity="one" msgid="1634101450343277345">"点击连接网络"</item>
+        <item quantity="other" msgid="7915895323644292768">"点击连接网络"</item>
+    </plurals>
+    <plurals name="wifi_available">
+        <item quantity="one" msgid="6654123987418168693">"有可用的无线网络"</item>
+        <item quantity="other" msgid="4192424489168397386">"有可用的无线网络"</item>
+    </plurals>
+
+    <string name="android_upgrading_title" msgid="1584192285441405746">"系统正在升级..."</string>
+    <string name="android_start_title" msgid="8418054686415318207">"系统 正在启动…"</string>
+
+    <string name="usb_mtp_notification_title" msgid="3699913097391550394">"可通过电脑传输文件"</string>
+    <string name="usb_ptp_notification_title" msgid="1960817192216064833">"可通过电脑传输照片"</string>
+    <string name="usb_notification_message" msgid="2290859399983720271">"点击可选择其他USB连接方式"</string>
+    <string name="adb_active_notification_message" msgid="1016654627626476142">"触摸可停用USB调试"</string>
+
+    <string-array name="fingerprint_acquired_vendor">
+	    <item>""</item>
+	    <item>"等待手指按下"</item>
+	    <item>"手指按下"</item>
+	    <item>"手指抬起"</item>
+	    <item>"手指按下超时"</item>
+	    <item>"请稍稍移动手指"</item>
+	    <item>"请使用还没有录入的手指"</item>
+    </string-array>
+
+    <!-- The message text for the SMS short code confirmation dialog. [CHAR LIMIT=NONE] -->
+    <string name="sms_short_code_confirm_message">"确定发送信息?"</string>
+    <string name="anr_activity_application" msgid="1904477189057199066">"<xliff:g id="APPLICATION">%2$s</xliff:g>无响应，要将其关闭吗？"</string>
+    <string name="anr_activity_process" msgid="5776209883299089767">"<xliff:g id="ACTIVITY">%1$s</xliff:g>活动无响应，要将其关闭吗？"</string>
+    <string name="anr_application_process" msgid="8941757607340481057">"<xliff:g id="APPLICATION">%1$s</xliff:g>无响应，要将其关闭吗？"</string>
+    <string name="anr_process" msgid="6513209874880517125">"<xliff:g id="PROCESS">%1$s</xliff:g>进程无响应，要将其关闭吗？"</string>
+    <string name="android_system_label">Flyme系统服务</string>
+    <!-- Title of intent resolver dialog when selecting a viewer application to run. -->
+    <string name="whichViewApplication">选择打开方式</string>
+</resources>

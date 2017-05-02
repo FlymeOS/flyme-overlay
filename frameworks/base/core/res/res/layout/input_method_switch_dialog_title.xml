@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="12dip"
+        android:layout_marginStart="10dip"
+        android:layout_marginEnd="10dip"
+        android:layout_marginTop="28dip"
+        android:gravity="center"
+        android:orientation="vertical" >
+
+        <com.android.internal.widget.DialogTitle
+            android:id="@+id/alertTitle"
+            style="@android:style/DialogWindowTitle.DeviceDefault"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ellipsize="end"
+            android:singleLine="true"
+            android:text="@string/select_input_method" />
+    </LinearLayout>
+
+    <!-- Hard keyboard switch -->
+
+    <LinearLayout
+        android:id="@+id/hard_keyboard_section"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <LinearLayout
+                android:layout_width="0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="?android:attr/selectableItemBackground"
+                android:ellipsize="marquee"
+                android:gravity="center_vertical"
+                android:minHeight="?android:attr/listPreferredItemHeightSmall"
+                android:orientation="vertical"
+                android:paddingBottom="5dip"
+                android:paddingStart="16dip"
+                android:paddingEnd="0dip"
+                android:paddingTop="5dip" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:singleLine="true"
+                    android:text="@string/hardware"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textColor="?android:attr/textColorAlertDialogListItem" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:singleLine="true"
+                    android:text="@string/show_ime"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:textColor="?android:attr/textColorAlertDialogListItem" />
+            </LinearLayout>
+
+            <Switch
+                android:id="@+id/hard_keyboard_switch"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginEnd="12dip" />
+        </LinearLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="?android:attr/listDividerAlertDialog" />
+    </LinearLayout>
+</LinearLayout>

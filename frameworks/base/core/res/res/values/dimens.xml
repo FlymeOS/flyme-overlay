@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="toast_y_offset">120dp</dimen>
+    <!-- The width that is used when creating thumbnails of applications. -->
+    <dimen name="thumbnail_width">360dp</dimen>
+    <!-- The height that is used when creating thumbnails of applications. -->
+    <dimen name="thumbnail_height">640dp</dimen>
+    <!-- Height of the status bar -->
+    <dimen name="status_bar_height">22dp</dimen>
+    <!-- Height of notification icons in the status bar -->
+    <dimen name="status_bar_icon_size">22dip</dimen>
+</resources>

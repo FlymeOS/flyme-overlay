@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="adb_active_notification_message">Toca para desactivar la depuración USB.</string>
+    <string name="adb_active_notification_title">Depuración USB conectada</string>
+    <string name="android_start_title">se está iniciando el sistema…</string>
+    <string name="android_upgrading_title">Se está actualizando el sistema\u2026</string>
+    <string name="configure_input_methods">"Configurar método de entrada"</string>
+    <string-array name="fingerprint_acquired_vendor">
+        <item></item>
+        <item>espera con el dedo abajo</item>
+        <item>dedo abajo</item>
+        <item>dedo arriba</item>
+        <item>tiempo espera de dedo abajo</item>
+        <item>ajusta tu dedo</item>
+        <item>pon el dedo no registrado</item>
+    </string-array>
+    <string name="select_input_method">"Seleccionar método de entrada"</string>
+    <string name="sms_short_code_confirm_message">¿Se ha enviado el mensaje?</string>
+    <string name="usb_mtp_notification_title">Transferir archivos por cable</string>
+    <string name="usb_notification_message">Toca para ver otras opciones USB</string>
+    <string name="usb_ptp_notification_title">Las fotos se pueden transferir por PC</string>
+    <plurals name="wifi_available">
+        <item quantity="one">WLAN disponible</item>
+        <item quantity="other">WLAN disponible</item>
+    </plurals>
+    <plurals name="wifi_available_detailed">
+        <item quantity="one">No hay ninguna WLAN disponible</item>
+        <item quantity="other">No hay ninguna WLAN disponible</item>
+    </plurals>
+    <string name="wifi_available_sign_in">Acceder a WLAN</string>
+    <string name="android_system_label">Servicio del sistema de Flyme</string>
+    <string name="anr_activity_application"><xliff:g id="APPLICATION">%2$s</xliff:g> no responde. ¿Deseas cerrarlo?</string>
+    <string name="anr_activity_process">La actividad <xliff:g id="activity">%1$s</xliff:g> no responde. ¿Deseas cerrarla?</string>
+    <string name="anr_application_process"><xliff:g id="APPLICATION">%1$s</xliff:g> no responde, ¿Cerrarlo?</string>
+    <string name="anr_process">El proceso <xliff:g id="PROCESS">%1$s</xliff:g> no responde. ¿Deseas cerrarlo?</string>
+</resources>

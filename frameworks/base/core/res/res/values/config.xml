@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="config_locationProviderPackageNames" translatable="false">
+        <!-- The standard AOSP fused location provider -->
+        <item>com.android.location.fused</item>
+        <item>com.google.android.gms</item>
+        <item>com.amap.android.location</item>
+    </string-array>
+    <!-- Display low battery warning when battery level dips to this value.
+         Also, the battery stats are flushed to disk when we hit this level.  -->
+    <integer name="config_criticalBatteryWarningLevel">7</integer>
+    <!-- Shutdown if the battery temperature exceeds (this value * 0.1) Celsius. -->
+    <integer name="config_shutdownBatteryTemperature">600</integer>
+    <!-- Display low battery warning when battery level dips to this value -->
+    <integer name="config_lowBatteryWarningLevel">15</integer>
+    <!-- Close low battery warning when battery level reaches the lowBatteryWarningLevel
+         plus this -->
+    <integer name="config_lowBatteryCloseWarningBump">5</integer>
+    <!-- Maximum velocity to initiate a fling, as measured in dips per second. -->
+    <dimen name="config_viewMaxFlingVelocity">3000dp</dimen>
+    <!-- Do not translate. Defines the slots for the right-hand side icons.  That is to say, the
+         icons in the status bar that are not notifications. -->
+    <string-array name="config_statusBarIcons">
+        <item><xliff:g id="id">managed_profile</xliff:g></item>
+        <item><xliff:g id="id">ime</xliff:g></item>
+        <item><xliff:g id="id">sync_failing</xliff:g></item>
+        <item><xliff:g id="id">sync_active</xliff:g></item>
+        <item><xliff:g id="id">cast</xliff:g></item>
+        <item><xliff:g id="id">hotspot</xliff:g></item>
+        <item><xliff:g id="id">location</xliff:g></item>
+        <item><xliff:g id="id">bluetooth</xliff:g></item>
+        <item><xliff:g id="id">nfc</xliff:g></item>
+        <item><xliff:g id="id">headset</xliff:g></item>
+        <item><xliff:g id="id">tty</xliff:g></item>
+        <item><xliff:g id="id">speakerphone</xliff:g></item>
+        <item><xliff:g id="id">zen</xliff:g></item>
+        <item><xliff:g id="id">mute</xliff:g></item>
+        <item><xliff:g id="id">volume</xliff:g></item>
+        <item><xliff:g id="id">wifi</xliff:g></item>
+        <item><xliff:g id="id">cdma_eri</xliff:g></item>
+        <item><xliff:g id="id">data_connection</xliff:g></item>
+        <item><xliff:g id="id">phone_evdo_signal</xliff:g></item>
+        <item><xliff:g id="id">phone_signal</xliff:g></item>
+        <item><xliff:g id="id">battery</xliff:g></item>
+        <item><xliff:g id="id">alarm_clock</xliff:g></item>
+        <item><xliff:g id="id">secure</xliff:g></item>
+        <item><xliff:g id="id">clock</xliff:g></item>
+        <item><xliff:g id="id">amr_wb</xliff:g></item>
+    </string-array>
+    <!-- Default SMS Application. This will be the default SMS application when
+         the phone first boots. The user can then change the default app to one
+         of their choosing.
+         This can be overridden for devices where a different default SMS
+         application is desired.
+
+         If this string is empty or the specified package does not exist, then
+         the platform will search for an SMS app and use that (if there is one)-->
+    <string name="default_sms_application" translatable="false">com.android.mms</string>
+</resources>

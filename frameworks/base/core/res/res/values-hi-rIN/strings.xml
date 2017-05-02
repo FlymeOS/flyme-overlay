@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="adb_active_notification_message">USB डीबगिंग अक्षम करने के लिए स्पर्श करें</string>
+    <string name="adb_active_notification_title">USB डीबग करना कनेक्ट किया गया है</string>
+    <string name="android_start_title">सिस्टम शुरू हो रहा है\u2026</string>
+    <string name="android_upgrading_title">सिस्टम अपग्रेड हो रहा है\u2026</string>
+    <string name="configure_input_methods">"इनपुट पद्धति सेट करें"</string>
+    <string-array name="fingerprint_acquired_vendor">
+        <item></item>
+        <item>फ़िंगर डाउन की प्रतीक्षा करें</item>
+        <item>फ़िंगर डाउन</item>
+        <item>फ़िंगर अप</item>
+        <item>फ़िंगर डाउन समयबाह्य</item>
+        <item>कृपया अपनी अंगुली एडजस्ट करें</item>
+        <item>कृपया दर्ज न की गई अंगुली रखें</item>
+    </string-array>
+    <string name="select_input_method">"इनपुट विधि को चुनें"</string>
+    <string name="sms_short_code_confirm_message">संदेश भेजें?</string>
+    <string name="usb_mtp_notification_title">फ़ाइलों को केबल के माध्यम से स्थानांतरित करें</string>
+    <string name="usb_notification_message">अन्य USB विकल्पों के लिए स्पर्श करें</string>
+    <string name="usb_ptp_notification_title">फ़ोटो को PC के माध्यम से अंतरित किया जा सकता है</string>
+    <plurals name="wifi_available">
+        <item quantity="one">WLAN उपलब्ध</item>
+        <item quantity="other">WLAN उपलब्ध</item>
+    </plurals>
+    <plurals name="wifi_available_detailed">
+        <item quantity="one">उपलब्ध WLAN देखें</item>
+        <item quantity="other">उपलब्ध WLAN देखें</item>
+    </plurals>
+    <string name="wifi_available_sign_in">WLAN पर लॉगिन करें</string>
+    <string name="android_system_label">Flyme सिस्टम सेवा</string>
+    <string name="anr_activity_application"><xliff:g id="APPLICATION">%2$s</xliff:g> द्वारा कोई प्रतिक्रिया नहीं दी जा रही है, क्या आप उसे बंद करना चाहते हैं?</string>
+    <string name="anr_activity_process">गतिविधि <xliff:g id="activity">%1$s</xliff:g> द्वारा कोई प्रतिक्रिया नहीं दी जा रही है, क्या आप उसे बंद करना चाहते हैं?</string>
+    <string name="anr_application_process"><xliff:g id="APPLICATION">%1$s</xliff:g> द्वारा कोई प्रतिक्रिया नहीं दी जा रही है, क्या आप उसे शट डाउन करना चाहते हैं?</string>
+    <string name="anr_process">प्रक्रिया <xliff:g id="PROCESS">%1$s</xliff:g> द्वारा कोई प्रतिक्रिया नहीं दी जा रही है, क्या आप इसे बंद करना चाहते हैं?</string>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="adb_active_notification_message">برای غیرفعال سازی اشکال زدایی USB، لمس کنید.</string>
+    <string name="adb_active_notification_title">اشکال زدایی USB متصل شد</string>
+    <string name="android_start_title">سیستم در حال راه اندازی است \ U2026</string>
+    <string name="android_upgrading_title">سیستم در حال ارتقاست \u2026</string>
+    <string name="configure_input_methods">"راه اندازی روش ورودی"</string>
+    <string-array name="fingerprint_acquired_vendor">
+        <item></item>
+        <item> انگشت منتظر باشد</item>
+        <item>انگشت به پایین</item>
+        <item>انگشت به بالا</item>
+        <item>وقفه پايين كشيدن انگشت</item>
+        <item>لطفا انگشت خود را تنظیم کنید</item>
+        <item>لطفا  انگشت  ثبت نام نشده را بگذارید</item>
+    </string-array>
+    <string name="select_input_method">" روش ورودی را انتخاب کنید"</string>
+    <string name="sms_short_code_confirm_message">پیام ارسال شود؟</string>
+    <string name="usb_mtp_notification_title">انتقال پرونده ها ازطریق کابل</string>
+    <string name="usb_notification_message">برای سایر گزینه های USB، لمس کنید</string>
+    <string name="usb_ptp_notification_title">عکسها میتوانند ازطریق رایانه انتقال یابند</string>
+    <string name="wifi_available_sign_in">ورود به WLAN</string>
+    <string name="android_system_label">سرویس سیستم Flyme</string>
+    <string name="anr_activity_application"><xliff:g id="APPLICATION">%2$s</xliff:g> جواب نمیدهد. میخواهید آن را ببندید؟</string>
+    <string name="anr_activity_process">فعالیت <xliff:g id="activity">%1$s</xliff:g> جواب نمیدهد، میخواهید آن را ببندید؟</string>
+    <string name="anr_application_process"><xliff:g id="APPLICATION">%1$s</xliff:g> جواب نمیدهد، خاموش شود؟</string>
+    <string name="anr_process">فرآیند <xliff:g id="PROCESS">%1$s</xliff:g> جواب نمیدهد. میخواهید آن را ببندید؟</string>
+</resources>

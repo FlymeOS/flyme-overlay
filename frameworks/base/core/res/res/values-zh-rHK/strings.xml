@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="adb_active_notification_message">"輕觸即可停用 USB 偵錯"</string>
+    <string name="adb_active_notification_title">"已連接USB偵錯工具"</string>
+    <string name="android_start_title">"系統 正在啟動…"</string>
+    <string name="android_upgrading_title">"正在升級 系統..."</string>
+    <string name="configure_input_methods">"設定輸入法"</string>
+    <string-array name="fingerprint_acquired_vendor">
+        <item>""</item>
+        <item>等待手指按下</item>
+        <item>手指按下</item>
+        <item>手指抬起</item>
+        <item>手指按下逾時</item>
+        <item>請稍稍移動手指</item>
+        <item>請使用還沒有錄入的手指</item>
+    </string-array>
+    <string name="select_input_method">"選取輸入法"</string>
+    <string name="sms_short_code_confirm_message">確定發送信息?</string>
+    <string name="usb_mtp_notification_title">"可透過電腦傳輸檔案"</string>
+    <string name="usb_notification_message">"輕觸即可選擇其他USB連接方式"</string>
+    <string name="usb_ptp_notification_title">"可透過電腦傳輸照片"</string>
+    <plurals name="wifi_available">
+        <item quantity="one">有可用的無線網絡</item>
+        <item quantity="other">有可用的無線網絡</item>
+    </plurals>
+    <plurals name="wifi_available_detailed">
+        <item quantity="one">點擊連接網絡</item>
+        <item quantity="other">點擊連接網絡</item>
+    </plurals>
+    <string name="wifi_available_sign_in">登入到WLAN</string>
+    <string name="android_system_label">Flyme系統服務</string>
+    <string name="anr_activity_application"><xliff:g id="APPLICATION">%2$s</xliff:g>無響應，要將其關閉嗎？</string>
+    <string name="anr_activity_process"><xliff:g id="ACTIVITY">%1$s</xliff:g>活動無響應，要將其關閉嗎？</string>
+    <string name="anr_application_process"><xliff:g id="APPLICATION">%1$s</xliff:g>無響應，要將其關閉嗎？</string>
+    <string name="anr_process"><xliff:g id="PROCESS">%1$s</xliff:g>進程無響應，要將其關閉嗎？</string>
+    <string name="whichViewApplication">選擇開啟方式</string>
+</resources>

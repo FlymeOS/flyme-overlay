@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="adb_active_notification_message">USB பிழைத்திருத்தத்தை முடக்குவதற்கு, தொடவும்.</string>
+    <string name="adb_active_notification_title">USB பிழைத்திருத்தம் இணைக்கப்பட்டது</string>
+    <string name="android_start_title">முறைமை தொடங்குகிறது\u2026</string>
+    <string name="android_upgrading_title">முறைமை மேம்படுத்துகிறது\u2026</string>
+    <string name="configure_input_methods">"உள்ளீட்டு பயன்முறையை அமை"</string>
+    <string-array name="fingerprint_acquired_vendor">
+        <item></item>
+        <item>விரலைக் கீழே வைக்கக் காத்திருக்கவும்</item>
+        <item>விரலைக் கீழே வைத்தல்</item>
+        <item>விரலை மேலே எடுத்தல்</item>
+        <item>விரலைக் கீழே வைப்பதற்கான நேரம் நிறைவடைந்துவிட்டது</item>
+        <item>தயவுசெய்து உங்கள் விரலைச் சரி செய்யவும்</item>
+        <item>தயவுசெய்து, பதிவுசெய்யப்படாத விரலை வைக்கவும்</item>
+    </string-array>
+    <string name="select_input_method">"உள்ளீடு முறையைத் தேர்வு செய்யவும்"</string>
+    <string name="sms_short_code_confirm_message">செய்தியை அனுப்பலாமா?</string>
+    <string name="usb_mtp_notification_title">கேபிள் வழியாகக் கோப்புகளை இடம் மாற்றலாம்</string>
+    <string name="usb_notification_message">பிற USB விருப்பங்களுக்குத் தொடவும்</string>
+    <string name="usb_ptp_notification_title">PC வழியாக புகைப்படங்களை இடமாறலாம்</string>
+    <plurals name="wifi_available">
+        <item quantity="one">கிடைக்கும் WLAN</item>
+        <item quantity="other">கிடைக்கும் WLAN</item>
+    </plurals>
+    <plurals name="wifi_available_detailed">
+        <item quantity="one">கிடைக்கின்ற WLAN -ஐப் பார்</item>
+        <item quantity="other">கிடைக்கின்ற WLAN -ஐப் பார்</item>
+    </plurals>
+    <string name="wifi_available_sign_in">WLAN-க்கு உள்நுழை</string>
+    <string name="android_system_label">Flyme முறைமை சேவை</string>
+    <string name="anr_activity_application"><xliff:g id="APPLICATION">%2$s</xliff:g> பதிலளிக்கவில்லை, மூட விரும்புகிறீர்களா?</string>
+    <string name="anr_activity_process">நடவடிக்கை <xliff:g id="activity">%1$s</xliff:g> பதிலளிக்கவில்லை, மூட விரும்புகிறீர்களா?</string>
+    <string name="anr_application_process"><xliff:g id="APPLICATION">%1$s</xliff:g> பதிலளிக்கவில்லை, நிறுத்தவா?</string>
+    <string name="anr_process">செயல்முறை <xliff:g id="PROCESS">%1$s</xliff:g> பதிலளிக்கவில்லை, அதை மூட விரும்புகிறீர்களா?</string>
+</resources>

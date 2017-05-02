@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="adb_active_notification_message">ប៉ះដើម្បី​បិទការបំបាត់កំហុស​ USB</string>
+    <string name="adb_active_notification_title">ការកែតម្រូវកំហុសនៃUSB ត្រូវបានភ្ជាប់</string>
+    <string name="android_start_title">ប្រព័ន្ធកំពុងចាប់ផ្តើម\u2026</string>
+    <string name="android_upgrading_title">ប្រព័ន្ធ​កំពុង​ដំឡើង​វើសហ្សឹន​\u2026</string>
+    <string name="configure_input_methods">"កំណត់វិធីបញ្ចូលទិន្នន័យ"</string>
+    <string-array name="fingerprint_acquired_vendor">
+        <item></item>
+        <item>រង់ចាំរុញ​ម្រាមដៃចុះក្រោម</item>
+        <item>រុញម្រាម​ចុះក្រោម</item>
+        <item>រុញម្រាមឡើងលើ</item>
+        <item>អស់ពេល​រុញ​ម្រាម​ចុះក្រោម​</item>
+        <item>សូម​សឺរ៉េ​ម្រាមដៃ​របស់អ្នក</item>
+        <item>សូមដាក់ម្រាមដៃ​ តែ​កុំចុះឈ្មោះ</item>
+    </string-array>
+    <string name="select_input_method">"ជ្រើសវិធីសាស្ត្រ​នៃធាតុចូល"</string>
+    <string name="sms_short_code_confirm_message">បានផ្ញើសារ?</string>
+    <string name="usb_mtp_notification_title">ឯកសារអាចផ្ទេរតាមរយៈខ្សែ​</string>
+    <string name="usb_notification_message">ចុចសម្រាប់ជ្រើសរើស USB ផ្សេងទៀត</string>
+    <string name="usb_ptp_notification_title">អាចបញ្ជូនរូបថតតាមរយៈកុំព្យូទ័រផ្ទាល់ខ្លួនបាន</string>
+    <plurals name="wifi_available">
+        <item quantity="one">មានបណ្តាញ WLAN</item>
+        <item quantity="other">មានបណ្តាញ WLAN</item>
+    </plurals>
+    <plurals name="wifi_available_detailed">
+        <item quantity="one">បើលមើលបណ្តាញ WLAN ដែលមាន</item>
+        <item quantity="other">បើលមើលបណ្តាញ WLAN ដែលមាន</item>
+    </plurals>
+    <string name="wifi_available_sign_in">ចូលក្នុងបណ្តាញ WLAN</string>
+    <string name="android_system_label">សេវាប្រព័ន្ធ Flyme</string>
+    <string name="anr_activity_application"><xliff:g id="APPLICATION">%2$s</xliff:g> មិនមានការឆ្លើយតប តើអ្នកចង់បិទវាទេ?</string>
+    <string name="anr_activity_process">សកម្មភាព <xliff:g id="activity">%1$s</xliff:g>មិនឆ្លើយតប តើអ្នកចង់បិទវាទេ?</string>
+    <string name="anr_application_process"><xliff:g id="APPLICATION">%1$s</xliff:g> មិនមានការឆ្លើយតប បិទវាឬ?</string>
+    <string name="anr_process">ដំណើរការ <xliff:g id="PROCESS">%1$s</xliff:g> មិនឆ្លើយតប តើអ្នកចង់បិទវាទេ?</string>
+</resources>

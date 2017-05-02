@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Layout for a Preference in a PreferenceActivity. The
+     Preference is able to place a specific widget for its particular
+     type in the "widget_frame" layout.
+-->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center_vertical"
+    android:minHeight="63dip"
+    android:paddingStart="12dip" 
+    android:paddingEnd="9dip">
+
+    <LinearLayout
+        android:id="@+id/icon_frame"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" >
+
+        <com.android.internal.widget.PreferenceImageView
+            android:id="@+id/icon"
+            android:layout_width="42dip"
+            android:layout_height="42dip"
+            android:layout_marginStart="3dp"
+            android:layout_marginEnd="3dp"
+            android:maxHeight="48dp"
+            android:maxWidth="48dp"
+            android:scaleType="centerInside" />
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="12dip"
+        android:layout_weight="1"
+        android:paddingBottom="17dip"
+        android:paddingEnd="8dip"
+        android:paddingTop="17dip" >
+
+        <TextView
+            android:id="@+id/title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="sans-serif-medium"
+            android:ellipsize="end"
+            android:fadingEdge="horizontal"
+            android:singleLine="true"
+            android:textAppearance="?android:attr/textAppearanceListItem"
+            android:textSize="16sp"/>
+
+        <TextView
+            android:id="@+id/summary"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignStart="@android:id/title"
+            android:layout_below="@android:id/title"
+            android:layout_marginTop="4dp"
+            android:maxLines="4"
+            android:textAppearance="?attr/textAppearanceListItemSecondary"
+            android:lineSpacingExtra="4dip"
+            android:textColor="?attr/textColorSecondary"
+            android:textSize="12sp"/>
+    </RelativeLayout>
+
+    <!-- Preference should place its actual preference widget here. -->
+
+    <LinearLayout
+        android:id="@+id/widget_frame"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:minWidth="43dip"
+        android:orientation="vertical" />
+
+</LinearLayout>

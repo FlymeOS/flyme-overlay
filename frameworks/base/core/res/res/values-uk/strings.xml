@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="adb_active_notification_message">Натисніть, щоб відключити налагодження USB</string>
+    <string name="adb_active_notification_title">USB налагодження пiдключення</string>
+    <string name="android_start_title">System is starting\u2026</string>
+    <string name="android_upgrading_title">System is upgrading\u2026</string>
+    <string name="configure_input_methods">"Налаштувати спосіб введення</string>
+    <string-array name="fingerprint_acquired_vendor">
+        <item></item>
+        <item>Проведiть палець вниз</item>
+        <item>палець донизу</item>
+        <item>палець вгору</item>
+        <item>Час считування вiдбитку вийшов</item>
+        <item>будь ласка, налаштуйте відбиток</item>
+        <item>поставте палець не натискаючи</item>
+    </string-array>
+    <string name="select_input_method">"Вибрати метод вводу"</string>
+    <string name="sms_short_code_confirm_message">Ви впевнені, що хочете відправити це повідомлення?</string>
+    <string name="usb_mtp_notification_title">Файли можуть бути передані за допомогою ПК</string>
+    <string name="usb_notification_message">Торкнiться для USB опцiй</string>
+    <string name="usb_ptp_notification_title">Фотографії можуть бути передані за допомогою ПК</string>
+    <plurals name="wifi_available">
+        <item quantity="one">доступні WLAN</item>
+        <item quantity="other">доступні WLAN</item>
+    </plurals>
+    <plurals name="wifi_available_detailed">
+        <item quantity="one">доступні WLAN</item>
+        <item quantity="other">доступні WLAN</item>
+    </plurals>
+    <string name="wifi_available_sign_in">Вхід в WLAN</string>
+    <string name="android_system_label">Flyme система обслуговування</string>
+    <string name="anr_activity_application"><xliff:g id="APPLICATION">%2$s</xliff:g> не відповідати Хочете закрити його?</string>
+    <string name="anr_activity_process">Активнiсть <xliff:g id="activity">%1$s</xliff:g> не відповідае, ви хочете, закрити його?</string>
+    <string name="anr_application_process"><xliff:g id="APPLICATION">%1$s</xliff:g> не відповідає, вимкнути його?</string>
+    <string name="anr_process">Процес <xliff:g id="PROCESS">%1$s</xliff:g> isn\'t responding,Do you want to close it?</string>
+</resources>

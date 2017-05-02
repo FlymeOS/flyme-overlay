@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="adb_active_notification_message">Atingeţi pentru a dezactiva depanarea USB.</string>
+    <string name="adb_active_notification_title">Depanarea USB este conectată</string>
+    <string name="android_start_title">Sistemul porneşte\u2026</string>
+    <string name="android_upgrading_title">Sistemul este în curs de upgrade\u2026</string>
+    <string name="configure_input_methods">Setaţi metoda de introducere</string>
+    <string-array name="fingerprint_acquired_vendor">
+        <item></item>
+        <item>menţineţi degetul aşezat</item>
+        <item>aşezaţi degetul</item>
+        <item>ridicaţi degetul</item>
+        <item>expirare timp introducere amprentă</item>
+        <item>ajustaţi poziţia degetului dvs.</item>
+        <item>aşezaţi un deget neînrolat</item>
+    </string-array>
+    <string name="select_input_method">Selectaţi metoda de introducere</string>
+    <string name="sms_short_code_confirm_message">Trimiteţi mesajul?</string>
+    <string name="usb_mtp_notification_title">Transfer fişiere prin cablu</string>
+    <string name="usb_notification_message">Atingeţi pentru alte opţiuni USB</string>
+    <string name="usb_ptp_notification_title">Fotografiile pot fi transferate prin PC</string>
+    <plurals name="wifi_available">
+        <item quantity="one">WLAN disponibil</item>
+        <item quantity="other">WLAN disponibil</item>
+    </plurals>
+    <plurals name="wifi_available_detailed">
+        <item quantity="one">Vizualizare WLAN disponibil</item>
+        <item quantity="other">Vizualizare WLAN disponibil</item>
+    </plurals>
+    <string name="wifi_available_sign_in">Conectaţi-vă la WLAN</string>
+    <string name="android_system_label">Serviciul de sistem Flyme</string>
+    <string name="anr_activity_application">Aplicaţia <xliff:g id="APPLICATION">%2$s</xliff:g> nu răspunde. Doriţi să o închideţi?</string>
+    <string name="anr_activity_process">Activitatea <xliff:g id="activity">%1$s</xliff:g> nu răspunde. Doriţi să o închideţi?</string>
+    <string name="anr_application_process"><xliff:g id="APPLICATION">%1$s</xliff:g> nu răspunde. Îl închideţi?</string>
+    <string name="anr_process">Procesul <xliff:g id="PROCESS">%1$s</xliff:g> nu răspunde. Doriţi să îl închideţi?</string>
+</resources>
