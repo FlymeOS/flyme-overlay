@@ -56,4 +56,6 @@
          If this string is empty or the specified package does not exist, then
          the platform will search for an SMS app and use that (if there is one)-->
     <string name="default_sms_application" translatable="false">com.android.mms</string>
+    <!-- Package name providing WebView implementation. -->
+    <string name="config_webViewPackageName" translatable="false">com.android.webview</string>
 </resources>
