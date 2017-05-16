@@ -28,7 +28,7 @@
         <item quantity="other">Xem mạng WLAN khả dụng</item>
     </plurals>
     <string name="wifi_available_sign_in">Đăng nhập vào WLAN</string>
-    <string name="android_system_label">Dịch vụ hệ thống Flyme</string>
+    <string name="android_system_label">Dịch vụ hệ thống</string>
     <string name="anr_activity_application"><xliff:g id="APPLICATION">%2$s</xliff:g> không phản hồi, bạn có muốn đóng nó?</string>
     <string name="anr_activity_process">Hoạt động <xliff:g id="activity">%1$s</xliff:g> không phản hồi, bạn có muốn đóng nó?</string>
     <string name="anr_application_process"><xliff:g id="APPLICATION">%1$s</xliff:g> không phản hồi, tắt nó?</string>
