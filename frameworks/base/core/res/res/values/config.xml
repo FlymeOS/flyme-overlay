@@ -58,4 +58,6 @@
     <string name="default_sms_application" translatable="false">com.android.mms</string>
     <!-- Package name providing WebView implementation. -->
     <string name="config_webViewPackageName" translatable="false">com.android.webview</string>
+    <!-- Disable doze mode -->
+    <string name="config_dozeComponent"></string>
 </resources>
