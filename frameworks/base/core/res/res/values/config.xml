@@ -60,4 +60,6 @@
     <string name="config_webViewPackageName" translatable="false">com.android.webview</string>
     <!-- Disable doze mode -->
     <string name="config_dozeComponent"></string>
+    <!-- Disable the safe media volume dialog -->
+    <bool name="config_safe_media_volume_enabled">false</bool>
 </resources>
