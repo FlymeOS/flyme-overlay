@@ -41,4 +41,14 @@
     <string name="android_system_label">Flyme系统服务</string>
     <!-- Title of intent resolver dialog when selecting a viewer application to run. -->
     <string name="whichViewApplication">选择打开方式</string>
+    <string-array name="preferred_network_mode_entries_phone0">
+        <item>仅 2G</item>
+        <item>优先 3G</item>
+        <item>优先 4G</item>
+    </string-array>
+    <string-array name="preferred_network_mode_entries_phone1">
+        <item>仅 2G</item>
+        <item>优先 3G</item>
+        <item>优先 4G</item>
+    </string-array>
 </resources>

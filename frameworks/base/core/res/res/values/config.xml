@@ -62,4 +62,70 @@
     <string name="config_dozeComponent"></string>
     <!-- Disable the safe media volume dialog -->
     <bool name="config_safe_media_volume_enabled">false</bool>
+    <add-resource type="array" name="preferred_network_mode_entries_phone0" />
+    <string-array name="preferred_network_mode_entries_phone0">
+        <item>2G only</item>
+        <item>3G first</item>
+        <item>4G first</item>
+    </string-array>
+    <add-resource type="array" name="preferred_network_mode_entries_phone1" />
+    <string-array name="preferred_network_mode_entries_phone1">
+        <item>2G only</item>
+        <item>3G first</item>
+        <item>4G first</item>
+    </string-array>
+    <!-- Disable with adjust the network mode values, you should config the value according to your device -->
+    <add-resource type="bool" name="adjust_network_mode_values_enabled" />
+    <bool name="adjust_network_mode_values_enabled">false</bool>
+    <!-- Array of network mode values, you should config the array according to your device -->
+    <!-- ******************************************************************
+             Network Mode                        Value
+         GSM/WCDMA preferred                      0
+         GSM only                                 1
+         WCDMA only                               2
+         GSM/WCDMA auto                           3
+         CDMA/EvDo auto                           4
+         CDMA only                                5
+         EvDo only                                6
+         CDMA/EvDo/GSM/WCDMA                      7
+         CDMA + LTE/EvDo                          8
+         GSM/WCDMA/LTE                            9
+         LTE/GSM/CDMA                             10
+         LTE only                                 11
+         LTE/WCDMA                                12
+         TD-SCDMA only                            13
+         TD-SCDMA/WCDMA                           14
+         TD-SCDMA/LTE                             15
+         TD-SCDMA/GSM                             16
+         TD-SCDMA/GSM/LTE                         17
+         TD-SCDMA/GSM/WCDMA                       18
+         TD-SCDMA/WCDMA/LTE                       19
+         TD-SCDMA/GSM/WCDMA/LTE                   20
+         TD-SCDMA/GSM/WCDMA/CDMA/EVDO             21
+         TD-SCDMA/LTE/GSM/WCDMA/CDMA/EVDO         22
+         ******************************************************************-->
+    <add-resource type="array" name="gsm_network_mode_values_phone0" />
+    <integer-array name="gsm_network_mode_values_phone0" translatable="false">
+        <item>1</item>
+        <item>18</item>
+        <item>20</item>
+    </integer-array>
+    <add-resource type="array" name="gsm_network_mode_values_phone1" />
+    <integer-array name="gsm_network_mode_values_phone1" translatable="false">
+        <item>1</item>
+        <item>18</item>
+        <item>20</item>
+    </integer-array>
+    <add-resource type="array" name="cdma_network_mode_values_phone0" />
+    <integer-array name="cdma_network_mode_values_phone0" translatable="false">
+        <item>4</item>
+        <item>8</item>
+        <item>10</item>
+    </integer-array>
+    <add-resource type="array" name="cdma_network_mode_values_phone1" />
+    <integer-array name="cdma_network_mode_values_phone1" translatable="false">
+        <item>4</item>
+        <item>8</item>
+        <item>10</item>
+    </integer-array>
 </resources>

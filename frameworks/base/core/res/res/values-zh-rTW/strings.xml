@@ -34,4 +34,14 @@
     <string name="anr_application_process"><xliff:g id="APPLICATION">%1$s</xliff:g> 無回應，要將其關閉嗎？</string>
     <string name="anr_process">"<xliff:g id="PROCESS">%1$s</xliff:g> 處理程序無回應。您要關閉嗎？"</string>
     <string name="whichViewApplication">選擇打開方式</string>
+    <string-array name="preferred_network_mode_entries_phone0">
+        <item>僅限 2G</item>
+        <item>3G 優先</item>
+        <item>4G 優先</item>
+    </string-array>
+    <string-array name="preferred_network_mode_entries_phone1">
+        <item>僅限 2G</item>
+        <item>3G 優先</item>
+        <item>4G 優先</item>
+    </string-array>
 </resources>
