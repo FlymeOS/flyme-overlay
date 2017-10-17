@@ -4,7 +4,7 @@
         <!-- The standard AOSP fused location provider -->
         <item>com.android.location.fused</item>
         <item>com.google.android.gms</item>
-        <item>com.amap.android.location</item>
+        <item>com.meizu.location</item>
     </string-array>
     <!-- Display low battery warning when battery level dips to this value.
          Also, the battery stats are flushed to disk when we hit this level.  -->
