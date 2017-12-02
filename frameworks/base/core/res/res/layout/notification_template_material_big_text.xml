@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/status_bar_latest_event_content"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:minHeight="@dimen/notification_min_height"
+    android:paddingTop="@dimen/notification_content_margin_top"
+    android:paddingBottom="@dimen/notification_content_margin_bottom"
+    android:tag="bigText"
+    >
+    <include layout="@layout/notification_template_header" />
+    <include layout="@layout/notification_template_right_icon" />
+    <LinearLayout
+            android:id="@+id/notification_action_list_margin_target"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+        <LinearLayout
+            android:id="@+id/notification_main_column"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="top"
+            android:layout_marginStart="@dimen/notification_content_margin_start"
+            android:layout_marginEnd="@dimen/notification_content_margin_end"
+            android:minHeight="@dimen/notification_min_content_height"
+            android:gravity="top"
+            android:orientation="vertical"
+            >
+            <include layout="@layout/notification_template_part_line1" />
+            <com.android.internal.widget.ImageFloatingTextView android:id="@+id/big_text"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:includeFontPadding="false"
+                android:textAppearance="@style/TextAppearance.Material.Notification"
+                android:singleLine="false"
+                android:layout_weight="1"
+                android:visibility="gone"
+                />
+            <include layout="@layout/notification_template_progress" />
+        </LinearLayout>
+
+        <ViewStub android:layout="@layout/notification_material_reply_text"
+                android:id="@+id/notification_material_reply_container"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+        <include layout="@layout/notification_material_action_list" />
+    </LinearLayout>
+</FrameLayout>

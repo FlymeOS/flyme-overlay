@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="config_locationProviderPackageNames" translatable="false">
+         <item>com.android.location.fused</item>
+         <item>com.google.android.gms</item>
+         <item>com.amap.android.location</item>
+     </string-array>
+    <integer name="config_criticalBatteryWarningLevel">7</integer>
+    <integer name="config_shutdownBatteryTemperature">600</integer>
+    <integer name="config_lowBatteryWarningLevel">15</integer>
+    <integer name="config_lowBatteryCloseWarningBump">5</integer>
+    <dimen name="config_viewMaxFlingVelocity">3000dp</dimen>
+    <string name="default_sms_application">com.android.mms</string>
+    <string name="config_dozeComponent"></string>
+    <bool name="config_safe_media_volume_enabled">false</bool>
+</resources>

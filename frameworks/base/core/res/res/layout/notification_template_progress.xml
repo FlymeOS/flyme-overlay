@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ViewStub
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@android:id/progress"
+    android:layout="@layout/notification_template_progressbar"
+    android:layout_width="match_parent"
+    android:layout_height="15dp"
+    android:visibility="gone"
+    />

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SizeAdaptiveLayout_Layout">
+        <attr name="layout_maxHeight" format="dimension">
+            <enum name="unbounded" value="-1" />
+        </attr>
+        <attr name="layout_minHeight" format="dimension" />
+    </declare-styleable>
+    <declare-styleable name="SizeAdaptiveLayout" />   
+</resources>

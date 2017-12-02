@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+     android:id="@+id/status_bar_latest_event_content"
+     android:layout_width="match_parent"
+     android:layout_height="@dimen/notification_min_height"
+     android:paddingTop="@dimen/notification_content_margin_top"
+     android:paddingBottom="@dimen/notification_content_margin_bottom"
+     android:tag="base"
+    >
+    <include layout="@layout/notification_template_header" />
+    <include layout="@layout/notification_template_right_icon" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/notification_content_margin_start"
+        android:layout_marginEnd="@dimen/notification_content_margin_end"
+        android:layout_gravity="center_vertical"
+        android:gravity="top"
+        android:orientation="horizontal"
+        >
+        <LinearLayout
+            android:id="@+id/notification_main_column"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:minHeight="@dimen/notification_min_content_height"
+            android:orientation="vertical"
+            >
+            <include layout="@layout/notification_template_part_line1" />
+            <include layout="@layout/notification_template_text" />
+        </LinearLayout>
+        <com.meizu.widget.CircleProgressBar
+            android:id="@+id/progress"
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            android:layout_marginStart="14dp"
+            android:layout_gravity="right|center_vertical"
+            android:layout_weight="0"
+            android:indeterminate="false"
+            android:indeterminateOnly="false"
+            android:visibility="gone" />
+    </LinearLayout>
+
+</FrameLayout>

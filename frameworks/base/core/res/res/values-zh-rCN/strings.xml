@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="select_input_method">"选择输入法"</string>
+    <string name="wifi_available_sign_in">"登录到无线网络"</string>
+    <string name="adb_active_notification_title">"已连接到 USB 调试"</string>
+    <plurals name="wifi_available_detailed">
+        <item quantity="one">"点击连接网络"</item>
+        <item quantity="other">"点击连接网络"</item>
+    </plurals>
+    <plurals name="wifi_available">
+        <item quantity="one">"有可用的无线网络"</item>
+        <item quantity="other">"有可用的无线网络"</item>
+    </plurals>
+    <string name="android_upgrading_title">"系统正在升级..."</string>
+    <string name="android_start_title">"系统 正在启动…"</string>
+    <string name="usb_mtp_notification_title">"可通过电脑传输文件"</string>
+    <string name="usb_ptp_notification_title">"可通过电脑传输照片"</string>
+    <string name="usb_notification_message">"点击可选择其他USB连接方式"</string>
+    <string name="adb_active_notification_message">"触摸可停用USB调试"</string>
+    <string-array name="fingerprint_acquired_vendor">
+	    <item>""</item>
+	    <item>"等待手指按下"</item>
+	    <item>"手指按下"</item>
+	    <item>"手指抬起"</item>
+	    <item>"手指按下超时"</item>
+	    <item>"请稍稍移动手指"</item>
+	    <item>"请使用还没有录入的手指"</item>
+    </string-array>
+    <string name="sms_short_code_confirm_message">"确定发送信息?"</string>
+    <string name="lockscreen_carrier_default">"无服务"</string>
+    <string name="lock_to_app_toast">应用已固定，长触主键解除固定。</string>
+    <string name="lock_to_app_exit">已解除固定</string>
+    <string name="anr_activity_application">"<xliff:g id="APPLICATION">%2$s</xliff:g>无响应，要将其关闭吗？"</string>
+   <string name="anr_activity_process">"<xliff:g id="ACTIVITY">%1$s</xliff:g>活动无响应，要将其关闭吗？"</string>
+   <string name="anr_application_process">"<xliff:g id="APPLICATION">%1$s</xliff:g>无响应，要将其关闭吗？"</string>
+    <string name="anr_process">"<xliff:g id="PROCESS">%1$s</xliff:g>进程无响应，要将其关闭吗？"</string>
+    <string name="android_system_label">Flyme系统服务</string>
+    <string name="whichViewApplication">选择打开方式</string>
+</resources>

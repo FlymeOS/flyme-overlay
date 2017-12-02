@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/notification_material_reply_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:paddingStart="@dimen/notification_content_margin_start">
+
+    <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="1dip"
+            android:id="@+id/action_divider"
+            android:layout_marginBottom="15dp"
+            android:background="@drawable/notification_template_divider" />
+
+    <TextView
+            android:id="@+id/notification_material_reply_text_3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="@dimen/notification_content_margin_end"
+            android:visibility="gone"
+            android:textAppearance="@style/TextAppearance.Material.Notification.Reply"
+            android:singleLine="true" />
+
+    <TextView
+            android:id="@+id/notification_material_reply_text_2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="@dimen/notification_content_margin_end"
+            android:visibility="gone"
+            android:textAppearance="@style/TextAppearance.Material.Notification.Reply"
+            android:singleLine="true" />
+
+    <TextView
+            android:id="@+id/notification_material_reply_text_1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="15dp"
+            android:layout_marginEnd="@dimen/notification_content_margin_end"
+            android:textAppearance="@style/TextAppearance.Material.Notification.Reply"
+            android:singleLine="true" />
+
+</LinearLayout>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="TextAppearance.Material.Notification.Title">
+        <item name="textColor">#FFFFFF</item>
+        <item name="textSize">@dimen/notification_title_text_size</item>
+        <item name="fontFamily">sans-serif-medium</item>
+    </style>
+    <style name="TextAppearance.Material.Notification.Info">
+        <item name="textColor">#808080</item>
+        <item name="textSize">@dimen/notification_subtext_size</item>
+    </style>
+    <style name="TextAppearance.Material.Notification.Time">
+        <item name="textColor">#99FFFFFF</item>
+        <item name="textSize">@dimen/notification_subtext_size</item>
+    </style>
+    <style name="TextAppearance.Material.Notification">
+        <item name="textColor">#99FFFFFF</item>
+        <item name="textSize">@dimen/notification_text_size</item>
+        <item name="textStyle">normal</item>
+        <item name="textAppearance">?android:attr/textAppearanceSmall</item>
+    </style>
+    <style name="Widget.Material.ListPopupWindow">
+        <item name="dropDownSelector">?attr/listChoiceBackgroundIndicator</item>
+        <item name="popupBackground">@drawable/popup_background_material</item>
+        <item name="popupElevation">@dimen/floating_window_z</item>
+        <item name="popupAnimationStyle">@empty</item>
+        <item name="dropDownVerticalOffset">0dip</item>
+        <item name="dropDownHorizontalOffset">0dip</item>
+        <item name="dropDownWidth">wrap_content</item>
+        <item name="popupEnterTransition">@null</item>
+        <item name="popupExitTransition">@null</item>
+    </style>
+    <style name="TextAppearance.Material.Notification">
+        <item name="textColor">#ffffffff</item>
+        <item name="textSize">@dimen/notification_text_size</item>
+    </style>
+    <style name="TextAppearance.Material.Notification.Title">
+        <item name="textColor">#ffffffff</item>
+        <item name="textSize">@dimen/notification_title_text_size</item>
+    </style>
+</resources>
