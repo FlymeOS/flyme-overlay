@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="adb_active_notification_message">สัมผัสเพื่อปิดการใช้งานการแก้ไขจุดบกพร่อง USB</string>
     <string name="adb_active_notification_title">เชื่อมต่อการแก้ไขจุดบกพร่องผ่าน USB แล้ว</string>
     <string name="android_start_title">กำลังเริ่มใช้งานระบบ\u2026</string>

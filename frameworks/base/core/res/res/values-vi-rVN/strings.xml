@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="adb_active_notification_message">Chạm để vô hiệu hóa gỡ lỗi USB.</string>
     <string name="adb_active_notification_title">Đã kết nối Gỡ lỗi USB</string>
     <string name="android_start_title">Hệ thống đang khởi động\u2026</string>

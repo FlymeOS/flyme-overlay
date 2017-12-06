@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="adb_active_notification_message">USB डीबगिंग अक्षम करने के लिए स्पर्श करें</string>
     <string name="adb_active_notification_title">USB डीबग करना कनेक्ट किया गया है</string>
     <string name="android_start_title">सिस्टम शुरू हो रहा है\u2026</string>

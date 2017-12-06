@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="adb_active_notification_message">المس لتعطيل تصحيح أخطاء USB.</string>
     <string name="adb_active_notification_title">تم تفعيل تصحيح أخطاء USB</string>
     <string name="android_start_title">يبدأ تشغيل النظام\u2026</string>

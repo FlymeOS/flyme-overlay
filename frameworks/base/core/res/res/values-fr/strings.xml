@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="adb_active_notification_message">Appuyez pour désactiver le débogage USB.</string>
     <string name="adb_active_notification_title">Débogage USB connecté</string>
     <string name="android_start_title">Le système démarre\u2026</string>
