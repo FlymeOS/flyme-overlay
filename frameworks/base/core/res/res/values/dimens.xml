@@ -15,6 +15,7 @@
     <dimen name="notification_content_picture_margin">0dp</dimen>
     <dimen name="notification_content_plus_picture_margin_end">14dp</dimen>
     <dimen name="toast_y_offset">120dp</dimen>
+    <dimen name="text_handle_min_size">33dp</dimen>
     <dimen name="thumbnail_width">360dp</dimen>
     <dimen name="thumbnail_height">640dp</dimen>
     <dimen name="status_bar_height">22dp</dimen>

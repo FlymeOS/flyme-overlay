@@ -29,7 +29,7 @@
     </plurals>
     <string name="sms_short_code_confirm_message">Sent the message?</string>
     <string name="lockscreen_carrier_default">No service</string>
-    <string name="lock_to_app_toast">Screen is pinned. Touch &#038; hold Home button to unpin.</string>
+    <string name="lock_to_app_toast">Screen is pinned. Touch &amp; hold Home button to unpin.</string>
     <string name="lock_to_app_exit">Screen unpinned</string>
     <string name="anr_activity_application"><xliff:g id="APPLICATION">%2$s</xliff:g> isn\'t responding,Do you want to close it?</string>
     <string name="anr_activity_process">Activity <xliff:g id="activity">%1$s</xliff:g> isn\'t responding, do you want to close it?</string>

@@ -7,7 +7,8 @@
     android:minHeight="?android:attr/listPreferredItemHeightSmall"
     android:textAppearance="?android:attr/textAppearance"
     android:textColor="?android:attr/textColorAlertDialogListItem"
-    android:gravity="center_vertical|left"
+    android:gravity="center_vertical|start"
+    android:textDirection="locale"
     android:paddingStart="24dp"
     android:paddingEnd="24dp"
     android:ellipsize="marquee" />
