@@ -20,4 +20,7 @@
     <dimen name="thumbnail_height">640dp</dimen>
     <dimen name="status_bar_height">22dp</dimen>
     <dimen name="status_bar_icon_size">22dip</dimen>
+    <dimen name="navigation_bar_height">42dp</dimen>
+    <dimen name="navigation_bar_height_landscape">@dimen/navigation_bar_height</dimen>
+    <dimen name="navigation_bar_width">42dp</dimen>
 </resources>

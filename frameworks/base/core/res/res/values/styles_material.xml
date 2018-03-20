@@ -19,6 +19,11 @@
         <item name="textStyle">normal</item>
         <item name="textAppearance">?android:attr/textAppearanceSmall</item>
     </style>
+    <add-resource type="style" name="Animation.BottomAnim" />
+    <style name="Animation.BottomAnim">
+        <item name="windowEnterAnimation">@anim/dock_bottom_enter</item>
+        <item name="windowExitAnimation">@anim/dock_bottom_exit</item>
+    </style>
     <style name="Widget.Material.ListPopupWindow">
         <item name="dropDownSelector">?attr/listChoiceBackgroundIndicator</item>
         <item name="popupBackground">@drawable/popup_background_material</item>
